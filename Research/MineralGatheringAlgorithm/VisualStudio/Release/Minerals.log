@@ -1,0 +1,38 @@
+﻿Build started 8-7-2016 16:12:36.
+     1>Project "C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Minerals.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\CL.exe /c /I../Source /IC:/BWAPI374/include /IC:/Boost /I/include /I/include /I/include/freetype2 /I/include /Zi /nologo /W3 /WX- /Ox /Ob2 /Oi /Ot /Oy- /GL /D CODE_ANALYSIS /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EXAMPLEAIMODULE_EXPORTS /D NOMINMAX /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc90.pdb" /Gd /TP /analyze /errorReport:prompt ..\Source\LetaBotModule.cpp
+     1>cl : Command line warning D9040: ignoring option '/analyze'; Code Analysis warnings are not available in this edition of the compiler
+         LetaBotModule.cpp
+     1>..\Source\LetaBotModule.cpp(173): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(724): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(737): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(741): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(757): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(777): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(781): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(794): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(830): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(861): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\LetaBotModule.cpp(872): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.dll" /INCREMENTAL:NO /NOLOGO C:/BWAPI374/lib/BWAPI.lib C:/BWAPI374/lib/BWTA.lib C:/BWAPI374/lib/tinyxml.lib "C:/BWAPI374/lib/CGAL-vc90-mt.lib" "C:/BWAPI374/lib/libboost_thread-vc90-mt-1_40.lib" "C:/BWAPI374/lib/gmp-vc90-mt.lib" "C:/BWAPI374/lib/mpfr-vc90-mt.lib" /SDL.lib /SDLmain.lib /opengl32.lib /SDL_image.lib /SDL_gfx.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Minerals.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.pdb" /MAP /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Release\Common.obj
+         Release\Dll.obj
+         Release\LetaBotModule.obj
+     1>LINK : warning LNK4044: unrecognized option '/SDL.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDLmain.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/opengl32.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDL_image.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDL_gfx.lib'; ignored
+            Creating library C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.lib and object C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.exp
+     1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Generating code
+         Finished generating code
+         Minerals.vcxproj -> C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Release\Minerals.dll;#2" /manifest Release\Minerals.dll.intermediate.manifest
+     1>Done Building Project "C:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Minerals.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.25

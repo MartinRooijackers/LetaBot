@@ -1,0 +1,43 @@
+﻿Build started 16-3-2015 0:28:16.
+     1>Project "D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Minerals.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         c:\Program Files\Microsoft Visual Studio 9.0\VC\bin\CL.exe /c /I../SparCraft/source /I../Source /I"D:\StarcraftCompetition\BWAPI 3.7.4/include" /ID:\StarcraftCompetition\boost_1_55_0 /I/include/freetype2 /I/include /I/include /I/include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D EXAMPLEAIMODULE_EXPORTS /D NOMINMAX /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc90.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Source\Common.cpp ..\Source\Dll.cpp ..\Source\LetaBotModule.cpp
+         LetaBotModule.cpp
+         Dll.cpp
+         Common.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\rc.exe /fo"Debug\Minerals.dll.embed.manifest.res" Debug\Minerals_manifest.rc 
+         Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+       Link:
+         c:\Program Files\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.dll" /INCREMENTAL /NOLOGO "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWAPId.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWTAd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/tinyxmld.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/CGAL-vc90-mt-gd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/libboost_thread-vc90-mt-gd-1_40.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/gmp-vc90-mt-gd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/mpfr-vc90-mt-gd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Minerals.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.lib" /MACHINE:X86 /DLL Debug\Minerals.dll.embed.manifest.res
+         Debug\Common.obj
+         Debug\Dll.obj
+         Debug\LetaBotModule.obj
+            Creating library D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.lib and object D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.exp
+     1>LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\mt.exe /nologo /verbose /out:"Debug\Minerals.dll.embed.manifest" /manifest Debug\Minerals.dll.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\rc.exe /fo"Debug\Minerals.dll.embed.manifest.res" Debug\Minerals_manifest.rc 
+         Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.dll" /INCREMENTAL /NOLOGO "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWAPId.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWTAd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/tinyxmld.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/CGAL-vc90-mt-gd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/libboost_thread-vc90-mt-gd-1_40.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/gmp-vc90-mt-gd.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/mpfr-vc90-mt-gd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Minerals.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.lib" /MACHINE:X86 /DLL Debug\Minerals.dll.embed.manifest.res
+         Debug\Common.obj
+         Debug\Dll.obj
+         Debug\LetaBotModule.obj
+            Creating library D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.lib and object D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.exp
+     1>LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Minerals.vcxproj -> D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Debug\Minerals.dll
+     1>Done Building Project "D:\StarcraftCompetition\Minerals\src\LetaBot\VisualStudio\Minerals.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.95
