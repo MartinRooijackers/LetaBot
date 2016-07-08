@@ -1,0 +1,9 @@
+2
+Hero Fenix Zealot
+1
+0
+1 Attack_Closest 1
+Protoss Archon
+1
+0
+1 Attack_Closest 1

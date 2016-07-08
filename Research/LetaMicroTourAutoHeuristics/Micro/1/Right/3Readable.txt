@@ -1,0 +1,60 @@
+3
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+3
+Total_Friendly_Dist Smaller 24 160 Zerg Lurker
+Total_Enemy_Left_Dist Larger 2 96 Zerg Lurker
+This_HP Smaller 72 96 Zerg Lurker
+1 Attack_Lowest_HP -90
+3
+Total_Enemy_Down_Dist Smaller 44 288 Hero Devouring One
+Total_Enemy_Left_Dist Larger 10 192 Zerg Lurker
+Total_Friendly_Dist Larger 17 0 Hero Devouring One
+1 Attack_Closest 12
+5
+Distance_Closest_Enemy Smaller 13 352 Hero Devouring One
+Total_Enemy_Dist Larger 23 192 Zerg Lurker
+Total_Friendly_Dist Smaller 15 96 Hero Devouring One
+Distance_Closest_Enemy Larger 23 128 Hero Devouring One
+Closest_Burrowed_Lurker Smaller 1 256 Hero Devouring One
+1 Move_Up 25
+Terran Medic
+4
+0
+1 Attack_Closest 1
+2
+This_Energy Larger 83 96 Zerg Lurker
+Distance_Closest_Enemy Larger 28 192 Zerg Lurker
+1 Attack_Lowest_HP_Type -17
+5
+Total_Enemy_Type_Dist Smaller 0 32 Zerg Lurker
+This_Weapon_Cooldown Smaller 1 64 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 20 32 Zerg Lurker
+Total_Enemy_Dist Smaller 10 288 Hero Devouring One
+Total_Enemy_Right_Dist Larger 9 128 Zerg Lurker
+1 Attack_Lowest_HP_Type 64
+1
+Total_Enemy_Dist Larger 34 192 Hero Devouring One
+1 Move_Left -11
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Larger 30 256 Zerg Lurker
+Closest_Burrowed_Lurker Larger 42 256 Hero Devouring One
+Total_Enemy_Type_Dist Smaller 17 224 Zerg Lurker
+Total_Enemy_Right_Dist Larger 32 128 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 37 128 Hero Devouring One
+0 Hero Devouring One -15
+4
+Total_Friendly_Dist Smaller 37 224 Hero Devouring One
+Total_Enemy_Right_Dist Smaller 28 32 Hero Devouring One
+This_Weapon_Cooldown Smaller 1 0 Hero Devouring One
+Total_Enemy_Up_Dist Larger 7 32 Zerg Lurker
+1 Attack_Lowest_HP_Type -49
+1
+Total_Enemy_Down_Dist Larger 21 288 Zerg Lurker
+0 Zerg Lurker 4

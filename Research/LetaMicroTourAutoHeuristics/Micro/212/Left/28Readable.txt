@@ -1,0 +1,87 @@
+2
+Zerg Mutalisk
+7
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Larger 44 96 Terran Science Vessel
+1 Attack_Closest_Type 69
+2
+This_HP Larger 16 0 Terran Goliath
+Total_Enemy_Dist Larger 19 352 Terran Goliath
+0 Terran Goliath -12
+1
+This_Weapon_Cooldown Smaller 0 96 Terran Science Vessel
+1 Move_DownLeft -93
+2
+Total_Enemy_Left_Dist Smaller 38 256 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Smaller 14 192 Terran Goliath
+1 Move_DownRight 65
+4
+This_Weapon_Cooldown Larger 30 64 Terran Goliath
+Total_Enemy_Dist Smaller 21 320 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Smaller 1 0 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 4 96 Terran Goliath
+1 Flee -74
+3
+Total_Enemy_Down_Dist Smaller 8 352 Terran Science Vessel
+Total_Enemy_Dist Larger 13 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Smaller 39 160 Terran Science Vessel
+1 Flee 0
+Zerg Zergling
+11
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Left_Dist Larger 19 320 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 46 320 Terran Science Vessel
+Distance_Closest_Enemy Larger 19 256 Terran Goliath
+This_HP Larger 13 192 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Larger 2 160 Terran Science Vessel
+1 Flee -98
+3
+Total_Enemy_Type_Dist Smaller 14 224 Terran Goliath
+Total_Enemy_Type_Dist Larger 10 96 Terran Science Vessel
+Total_Enemy_Dist Larger 0 64 Terran Goliath
+1 Nothing 5
+4
+Total_Enemy_Down_Dist Larger 2 128 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Smaller 17 192 Hero Edmund Duke Tank Mode
+This_HP Larger 10 96 Terran Science Vessel
+Total_Enemy_Left_Dist Larger 24 160 Hero Edmund Duke Tank Mode
+0 Terran Goliath 13
+4
+Total_Enemy_Type_Dist Smaller 0 192 Terran Science Vessel
+Total_Friendly_Dist Smaller 17 0 Hero Edmund Duke Tank Mode
+Total_Enemy_Type_Dist Larger 17 32 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Smaller 6 32 Terran Goliath
+1 Patrol 53
+4
+Distance_Closest_Enemy Larger 1 352 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Larger 6 0 Terran Science Vessel
+Total_Enemy_Dist Smaller 16 96 Terran Goliath
+Total_Enemy_Left_Dist Smaller 46 192 Terran Science Vessel
+1 Flee 67
+2
+This_Weapon_Cooldown Smaller 5 32 Terran Science Vessel
+Total_Enemy_Type_Dist Smaller 5 352 Terran Goliath
+1 Patrol -45
+2
+This_HP Larger 28 256 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Larger 31 64 Hero Edmund Duke Tank Mode
+1 Move_UpLeft 88
+4
+Total_Enemy_Up_Dist Smaller 2 128 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Larger 38 256 Hero Edmund Duke Tank Mode
+This_HP Larger 31 128 Terran Goliath
+Total_Enemy_Dist Smaller 19 96 Hero Edmund Duke Tank Mode
+1 Nothing 95
+5
+Total_Enemy_Down_Dist Smaller 27 160 Terran Science Vessel
+This_HP Smaller 0 288 Terran Science Vessel
+Total_Enemy_Type_Dist Smaller 16 352 Terran Science Vessel
+This_HP Larger 1 0 Terran Goliath
+Total_Enemy_Dist Larger 25 192 Terran Science Vessel
+1 Nothing -24
+0
+0 Terran Science Vessel 91

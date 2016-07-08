@@ -1,0 +1,74 @@
+4
+Protoss Dragoon
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Down_Dist Larger 33 352 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 1 224 Zerg Zergling
+Total_Enemy_Dist Smaller 16 352 Hero Hunter Killer
+1 Attack_Move 84
+5
+Total_Enemy_Right_Dist Larger 20 256 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 23 64 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 34 288 Zerg Zergling
+Distance_Closest_Enemy Smaller 30 192 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 47 0 Hero Hunter Killer
+1 Move_UpLeft 2
+0
+1 Move_Up 70
+Hero Fenix Zealot
+4
+0
+1 Attack_Closest 1
+3
+Total_Friendly_Dist Larger 29 0 Zerg Zergling
+Total_Enemy_Dist Larger 7 320 Hero Hunter Killer
+Total_Friendly_Dist Smaller 49 224 Zerg Zergling
+1 Attack_Closest_Type 66
+5
+Closest_Burrowed_Lurker Smaller 24 352 Zerg Zergling
+Total_Enemy_Down_Dist Larger 16 64 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 26 64 Zerg Zergling
+This_Weapon_Cooldown Larger 14 352 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 7 192 Zerg Zergling
+0 Zerg Zergling 98
+3
+This_Weapon_Cooldown Smaller 19 0 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 13 256 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 35 160 Hero Hunter Killer
+1 Move_UpRight -21
+Protoss High Templar
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Type_Dist Smaller 4 256 Zerg Zergling
+Total_Enemy_Dist Larger 17 224 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 19 224 Zerg Zergling
+Total_Enemy_Right_Dist Larger 6 64 Hero Hunter Killer
+1 Attack_Closest 54
+3
+Closest_Burrowed_Lurker Larger 8 160 Zerg Zergling
+Closest_Burrowed_Lurker Larger 38 96 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 14 256 Hero Hunter Killer
+1 Move_Up -98
+4
+Total_Enemy_Type_Dist Larger 16 352 Zerg Zergling
+This_HP Smaller 9 288 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 32 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 16 352 Zerg Zergling
+1 Attack_Lowest_HP_Type 19
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+1
+This_HP Larger 4 192 Zerg Zergling
+0 Zerg Zergling 89
+0
+1 Move_Left 7
+2
+Total_Friendly_Dist Smaller 47 96 Zerg Zergling
+Distance_Closest_Enemy Larger 29 32 Hero Hunter Killer
+0 Zerg Zergling -77

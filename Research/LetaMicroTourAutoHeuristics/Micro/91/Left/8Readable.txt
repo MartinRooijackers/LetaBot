@@ -1,0 +1,41 @@
+2
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+4
+This_HP Larger 13 96 Hero Jim Raynor Marine
+Distance_Closest_Enemy Larger 26 192 Terran Medic
+Distance_Closest_Enemy Smaller 41 32 Terran Medic
+Total_Enemy_Right_Dist Smaller 3 160 Terran Medic
+1 Attack_Closest_Type 98
+2
+Total_Enemy_Left_Dist Larger 17 32 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 24 192 Terran Science Vessel
+0 Terran Medic 92
+2
+Total_Enemy_Left_Dist Smaller 26 160 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 45 160 Terran Science Vessel
+0 Terran Medic -32
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Down_Dist Smaller 0 32 Terran Science Vessel
+Total_Friendly_Dist Smaller 47 96 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 2 256 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 43 320 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine -53
+5
+Distance_Closest_Enemy Larger 14 32 Terran Medic
+Distance_Closest_Enemy Smaller 34 0 Terran Medic
+Total_Enemy_Type_Dist Smaller 2 64 Hero Jim Raynor Marine
+Distance_Closest_Enemy Larger 26 32 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 7 352 Hero Jim Raynor Marine
+1 Move_Up -34
+3
+This_HP Smaller 94 0 Terran Medic
+Closest_Burrowed_Lurker Smaller 26 0 Terran Science Vessel
+Total_Friendly_Dist Larger 10 256 Hero Jim Raynor Marine
+1 Attack_Closest_Type -10

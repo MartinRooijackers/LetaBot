@@ -1,0 +1,17 @@
+4
+Terran Marine
+1
+0
+1 Attack_Closest 1
+Terran SCV
+1
+0
+1 Attack_Closest 1
+Terran Vulture
+1
+0
+1 Attack_Closest 1
+Terran Siege Tank Tank Mode
+1
+0
+1 Attack_Closest 1

@@ -1,0 +1,71 @@
+3
+Hero Devouring One
+3
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Type_Dist Smaller 3 224 Protoss Observer
+This_HP Larger 108 64 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Larger 39 128 Hero Gui Montag
+Distance_Closest_Enemy Larger 31 320 Hero Edmund Duke Tank Mode
+1 Move_Right 9
+4
+Total_Enemy_Dist Smaller 9 352 Hero Gui Montag
+Total_Enemy_Right_Dist Smaller 48 320 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 18 288 Protoss Observer
+This_Weapon_Cooldown Smaller 3 128 Terran Medic
+1 Attack_Move 80
+Zerg Defiler
+7
+0
+1 Attack_Closest 1
+1
+This_Energy Larger 186 0 Hero Gui Montag
+1 Move_UpRight 82
+2
+Total_Enemy_Left_Dist Smaller 47 160 Protoss Observer
+Total_Enemy_Left_Dist Larger 10 64 Hero Gui Montag
+0 Hero Gui Montag -48
+3
+This_Energy Larger 139 64 Terran Medic
+This_Weapon_Cooldown Smaller 1 32 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Smaller 19 32 Terran Medic
+1 Flee 10
+2
+Closest_Burrowed_Lurker Smaller 8 0 Protoss Observer
+Total_Enemy_Left_Dist Larger 4 0 Protoss Observer
+1 Nothing -69
+0
+0 Protoss Observer -83
+3
+Total_Enemy_Down_Dist Smaller 37 192 Hero Gui Montag
+This_Weapon_Cooldown Smaller 1 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Smaller 17 64 Hero Gui Montag
+1 Plaguuu -88
+Zerg Lurker
+7
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Larger 43 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Smaller 36 288 Protoss Observer
+Total_Enemy_Dist Larger 20 32 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Smaller 37 256 Hero Edmund Duke Tank Mode
+1 Attack_Closest_Type -98
+0
+1 Move_Right 87
+0
+0 Hero Jim Raynor Marine -57
+3
+Total_Enemy_Left_Dist Smaller 15 96 Protoss Observer
+Total_Enemy_Down_Dist Smaller 29 320 Hero Gui Montag
+Total_Enemy_Left_Dist Smaller 40 224 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine -5
+0
+0 Hero Jim Raynor Marine 86
+4
+This_HP Smaller 46 192 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 25 0 Protoss Observer
+Total_Enemy_Right_Dist Smaller 7 256 Hero Gui Montag
+Distance_Closest_Enemy Larger 14 288 Hero Edmund Duke Tank Mode
+1 Burrow 0

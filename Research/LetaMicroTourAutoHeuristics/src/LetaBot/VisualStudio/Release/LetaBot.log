@@ -1,0 +1,103 @@
+﻿Build started 25-11-2015 2:15:11.
+     1>Project "D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\LetaBot.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         c:\Program Files\Microsoft Visual Studio 9.0\VC\bin\CL.exe /c /I../Source /I"D:\StarcraftCompetition\BWAPI 3.7.4/include" /ID:\StarcraftCompetition\boost_1_55_0 /I/include /I/include /I/include/freetype2 /I/include /Zi /nologo /W3 /WX- /Ox /Ob2 /Oi /Ot /Oy- /GL /D CODE_ANALYSIS /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D EXAMPLEAIMODULE_EXPORTS /D NOMINMAX /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc90.pdb" /Gd /TP /analyze /errorReport:prompt ..\Source\MicroModule.cpp
+     1>cl : Command line warning D9040: ignoring option '/analyze'; Code Analysis warnings are not available in this edition of the compiler
+         MicroModule.cpp
+     1>..\Source\MicroModule.cpp(75): warning C4018: '>' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(85): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(401): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(413): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(421): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(457): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(494): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(515): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(536): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(560): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(663): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(705): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(805): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(848): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(906): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(962): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(985): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1007): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1029): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1064): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1085): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1106): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1129): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1150): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1210): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1243): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1255): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1258): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1272): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1294): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1305): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1326): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1332): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1400): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1409): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1537): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1578): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1607): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1629): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1635): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1716): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1723): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1799): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1806): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1879): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1886): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1958): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(1965): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2191): warning C4018: '>=' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2201): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2224): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2478): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2578): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2580): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2592): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2595): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2597): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2619): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2621): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2652): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2654): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2666): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2669): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2671): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2690): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2692): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2753): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2902): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2904): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(2914): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(3006): warning C4018: '<' : signed/unsigned mismatch
+     1>..\Source\MicroModule.cpp(3107): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         c:\Program Files\Microsoft Visual Studio 9.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.dll" /INCREMENTAL:NO /NOLOGO "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWAPI.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/BWTA.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/tinyxml.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/CGAL-vc90-mt.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/libboost_thread-vc90-mt-1_40.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/gmp-vc90-mt.lib" "D:\StarcraftCompetition\BWAPI 3.7.4/lib/mpfr-vc90-mt.lib" /SDL.lib /SDLmain.lib /opengl32.lib /SDL_image.lib /SDL_gfx.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\LetaMicro.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.pdb" /MAP /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Release\Common.obj
+         Release\Dll.obj
+         Release\LetaBotModule.obj
+         Release\LevelSelector.obj
+         Release\MicroModule.obj
+         Release\VultureManager.obj
+         Release\WraithMicro.obj
+     1>LINK : warning LNK4044: unrecognized option '/SDL.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDLmain.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/opengl32.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDL_image.lib'; ignored
+     1>LINK : warning LNK4044: unrecognized option '/SDL_gfx.lib'; ignored
+            Creating library D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.lib and object D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.exp
+         Generating code
+     1>d:\starcraftcompetition\letamicrotour\src\letabot\source\micromodule.cpp(370): warning C4715: 'MicroModule::StrToConditionals' : not all control paths return a value
+         Finished generating code
+         LetaBot.vcxproj -> D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v6.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\Release\LetaMicro.dll;#2" /manifest Release\LetaMicro.dll.intermediate.manifest
+     1>Done Building Project "D:\StarcraftCompetition\LetaMicroTour\src\LetaBot\VisualStudio\LetaBot.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.33

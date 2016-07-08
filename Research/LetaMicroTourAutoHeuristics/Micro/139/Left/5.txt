@@ -1,0 +1,31 @@
+2
+31
+4
+0
+1 Attack_Closest 1
+0
+1 Move_Down -59
+3
+Total_Enemy_Left_Dist Smaller 34 192 17
+Total_Enemy_Dist Smaller 45 288 17
+Total_Friendly_Dist Larger 35 256 8
+1 Attack_Closest_Type 37
+4
+Total_Enemy_Left_Dist Smaller 44 0 8
+Total_Enemy_Left_Dist Smaller 25 224 28
+Total_Enemy_Down_Dist Smaller 25 288 28
+This_HP Smaller 22 96 28
+0 17 56
+47
+4
+0
+1 Attack_Closest 1
+0
+0 8 7
+1
+Total_Enemy_Right_Dist Smaller 8 256 8
+1 Patrol -88
+2
+Total_Enemy_Down_Dist Smaller 26 160 8
+This_Weapon_Cooldown Smaller 1 32 78
+1 Move_Up -27

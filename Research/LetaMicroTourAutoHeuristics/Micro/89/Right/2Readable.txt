@@ -1,0 +1,73 @@
+3
+Hero Jim Raynor Marine
+7
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Smaller 45 320 Hero Hunter Killer
+This_Weapon_Cooldown Larger 5 128 Hero Hunter Killer
+1 Attack_Move 38
+4
+Total_Enemy_Right_Dist Larger 16 128 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 4 256 Zerg Zergling
+Closest_Burrowed_Lurker Larger 37 320 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 40 32 Zerg Zergling
+1 Nothing -10
+3
+Distance_Closest_Enemy Larger 8 96 Hero Hunter Killer
+Total_Friendly_Dist Larger 19 128 Zerg Zergling
+Total_Enemy_Down_Dist Larger 48 224 Hero Hunter Killer
+0 Hero Hunter Killer -78
+0
+1 Attack_Lowest_HP_Type -55
+4
+Total_Enemy_Down_Dist Smaller 10 192 Zerg Zergling
+Total_Enemy_Dist Larger 14 352 Hero Hunter Killer
+This_HP Larger 125 192 Zerg Zergling
+Total_Friendly_Dist Larger 35 192 Zerg Zergling
+1 StimPack 54
+5
+Total_Enemy_Right_Dist Smaller 32 320 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 3 224 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 20 128 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 29 128 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 18 64 Zerg Zergling
+1 Move_DownRight 42
+Protoss Observer
+7
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Dist Smaller 45 96 Zerg Zergling
+0 Zerg Zergling 98
+4
+Distance_Closest_Enemy Larger 6 320 Zerg Zergling
+Total_Friendly_Dist Larger 35 32 Hero Hunter Killer
+Distance_Closest_Enemy Larger 17 352 Zerg Zergling
+Total_Friendly_Dist Smaller 41 128 Zerg Zergling
+1 Nothing -67
+0
+1 Move_UpRight -98
+1
+Total_Enemy_Left_Dist Larger 14 256 Zerg Zergling
+1 Attack_Lowest_HP -85
+1
+Total_Enemy_Left_Dist Larger 20 288 Zerg Zergling
+1 Move_UpRight -88
+2
+Total_Enemy_Right_Dist Smaller 46 224 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 45 192 Hero Hunter Killer
+0 Zerg Zergling -6
+Terran Medic
+3
+0
+1 Attack_Closest 1
+0
+0 Hero Hunter Killer 40
+5
+This_HP Larger 7 64 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 28 256 Hero Hunter Killer
+Total_Enemy_Dist Smaller 28 288 Hero Hunter Killer
+This_Weapon_Cooldown Larger 1 32 Hero Hunter Killer
+Total_Enemy_Right_Dist Smaller 11 0 Hero Hunter Killer
+0 Hero Hunter Killer 72

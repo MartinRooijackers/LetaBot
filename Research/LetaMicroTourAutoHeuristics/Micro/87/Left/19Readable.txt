@@ -1,0 +1,31 @@
+1
+Zerg Zergling
+7
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Smaller 4 96 Protoss Observer
+Total_Enemy_Left_Dist Smaller 39 288 Hero Jim Raynor Marine
+1 Nothing 46
+1
+Total_Enemy_Dist Smaller 20 32 Terran Medic
+1 Attack_Move -27
+3
+Total_Friendly_Dist Larger 40 96 Protoss Observer
+Total_Enemy_Up_Dist Larger 0 128 Hero Gui Montag
+Closest_Burrowed_Lurker Larger 31 224 Terran Medic
+1 Attack_Move 43
+3
+Closest_Burrowed_Lurker Larger 32 256 Hero Gui Montag
+This_Weapon_Cooldown Smaller 8 128 Hero Gui Montag
+Total_Enemy_Up_Dist Smaller 7 256 Hero Jim Raynor Marine
+1 Move_Down 40
+5
+This_Weapon_Cooldown Larger 8 32 Protoss Observer
+Distance_Closest_Enemy Larger 44 96 Protoss Observer
+This_HP Smaller 5 96 Protoss Observer
+Distance_Closest_Enemy Smaller 1 64 Hero Gui Montag
+Distance_Closest_Enemy Larger 5 0 Hero Gui Montag
+1 Move_DownRight -30
+0
+0 Protoss Observer 48

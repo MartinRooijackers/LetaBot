@@ -1,0 +1,78 @@
+4
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+1
+Total_Friendly_Dist Larger 6 0 Hero Hunter Killer
+1 Move_Left 51
+0
+1 Move_Down 62
+4
+Distance_Closest_Enemy Larger 41 128 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 28 288 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 12 352 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 27 192 Zerg Zergling
+1 Attack_Closest 54
+Hero Gui Montag
+4
+0
+1 Attack_Closest 1
+4
+Total_Friendly_Dist Smaller 31 160 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 7 352 Hero Hunter Killer
+Distance_Closest_Enemy Smaller 30 64 Zerg Zergling
+This_HP Smaller 149 32 Zerg Zergling
+1 Attack_Closest_Type 94
+4
+Total_Friendly_Dist Smaller 27 0 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 0 256 Hero Hunter Killer
+This_HP Larger 123 352 Zerg Zergling
+Total_Enemy_Type_Dist Larger 4 352 Zerg Zergling
+1 Move_UpLeft 16
+5
+Total_Enemy_Down_Dist Smaller 30 192 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 35 96 Zerg Zergling
+Total_Enemy_Down_Dist Larger 0 192 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 7 0 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 21 64 Hero Hunter Killer
+1 Move_Up 29
+Terran Medic
+4
+0
+1 Attack_Closest 1
+4
+Total_Friendly_Dist Smaller 32 128 Zerg Zergling
+Total_Enemy_Type_Dist Larger 3 192 Hero Hunter Killer
+Distance_Closest_Enemy Larger 1 96 Hero Hunter Killer
+This_Energy Smaller 26 224 Zerg Zergling
+1 Attack_Move -87
+5
+This_HP Smaller 46 128 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 48 288 Zerg Zergling
+Total_Friendly_Dist Smaller 9 32 Zerg Zergling
+Distance_Closest_Enemy Larger 35 0 Hero Hunter Killer
+This_HP Larger 41 352 Hero Hunter Killer
+1 Move_DownLeft -80
+0
+0 Zerg Zergling -8
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Left_Dist Larger 40 64 Zerg Zergling
+Total_Enemy_Type_Dist Larger 13 64 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 35 320 Hero Hunter Killer
+This_Weapon_Cooldown Smaller 3 0 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 23 224 Hero Hunter Killer
+1 Nothing -98
+1
+This_Weapon_Cooldown Larger 11 160 Hero Hunter Killer
+1 Move_DownLeft -44
+4
+Closest_Burrowed_Lurker Larger 49 96 Hero Hunter Killer
+This_HP Smaller 180 256 Hero Hunter Killer
+Total_Enemy_Dist Smaller 9 320 Zerg Zergling
+Total_Enemy_Up_Dist Larger 45 288 Hero Hunter Killer
+0 Zerg Zergling 39

@@ -1,0 +1,20 @@
+1
+31
+4
+0
+1 Attack_Closest 1
+0
+0 5 6
+5
+Total_Enemy_Left_Dist Larger 44 352 0
+Total_Enemy_Type_Dist Larger 5 224 0
+Total_Enemy_Dist Larger 14 320 78
+Total_Enemy_Left_Dist Larger 25 32 5
+This_Weapon_Cooldown Larger 4 64 78
+1 Move_Left 83
+4
+Total_Enemy_Left_Dist Larger 17 64 0
+Total_Friendly_Dist Smaller 17 288 78
+Total_Enemy_Up_Dist Larger 32 64 78
+Total_Enemy_Dist Larger 46 64 0
+1 Move_Left 21

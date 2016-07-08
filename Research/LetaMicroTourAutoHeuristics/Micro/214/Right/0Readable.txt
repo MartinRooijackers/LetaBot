@@ -1,0 +1,17 @@
+4
+Terran Science Vessel
+1
+0
+1 Attack_Closest 1
+Hero Edmund Duke Tank Mode
+1
+0
+1 Attack_Closest 1
+Hero Jim Raynor Marine
+1
+0
+1 Attack_Closest 1
+Terran Medic
+1
+0
+1 Attack_Closest 1

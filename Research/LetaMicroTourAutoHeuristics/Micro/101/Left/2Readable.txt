@@ -1,0 +1,109 @@
+4
+Hero Devouring One
+7
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Dist Smaller 33 64 Terran Medic
+Distance_Closest_Enemy Smaller 27 224 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Larger 18 64 Terran Medic
+Total_Friendly_Dist Smaller 7 224 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 0 352 Terran Science Vessel
+1 Attack_Move 32
+2
+Total_Enemy_Type_Dist Larger 14 224 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 18 64 Terran Medic
+1 Attack_Closest -4
+0
+0 Terran Science Vessel 10
+1
+This_HP Larger 84 192 Terran Medic
+1 Move_UpLeft -4
+3
+Total_Friendly_Dist Smaller 19 256 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 33 128 Terran Medic
+Total_Enemy_Type_Dist Smaller 17 256 Terran Medic
+1 Attack_Lowest_HP -90
+0
+1 Attack_Closest_Type -23
+Zerg Queen
+7
+0
+1 Attack_Closest 1
+5
+Total_Friendly_Dist Larger 44 128 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 46 160 Terran Medic
+This_Weapon_Cooldown Larger 1 128 Terran Medic
+Total_Enemy_Type_Dist Larger 11 352 Terran Medic
+Total_Enemy_Down_Dist Larger 10 96 Terran Science Vessel
+0 Hero Edmund Duke Tank Mode 24
+5
+Total_Enemy_Dist Smaller 35 288 Terran Science Vessel
+Total_Enemy_Down_Dist Larger 30 32 Terran Science Vessel
+Total_Enemy_Left_Dist Smaller 13 160 Hero Edmund Duke Tank Mode
+This_HP Smaller 50 352 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Smaller 12 160 Terran Science Vessel
+1 Nothing -98
+4
+Total_Enemy_Up_Dist Larger 36 352 Terran Medic
+Total_Enemy_Left_Dist Smaller 43 32 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Larger 29 64 Terran Science Vessel
+Total_Friendly_Dist Larger 21 192 Terran Science Vessel
+1 Patrol -79
+1
+Closest_Burrowed_Lurker Larger 23 288 Terran Medic
+0 Hero Jim Raynor Marine 8
+4
+Total_Enemy_Type_Dist Larger 11 192 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Larger 7 96 Terran Medic
+Closest_Burrowed_Lurker Larger 22 128 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 21 192 Hero Edmund Duke Tank Mode
+1 Move_DownRight 97
+3
+Total_Enemy_Left_Dist Smaller 36 160 Terran Science Vessel
+This_Weapon_Cooldown Larger 1 32 Terran Science Vessel
+Total_Friendly_Dist Smaller 39 320 Hero Jim Raynor Marine
+1 Attack_Closest 36
+Zerg Lurker
+3
+0
+1 Attack_Closest 1
+0
+1 Flee 31
+5
+This_Burrowed Larger 37 288 Terran Medic
+Total_Enemy_Up_Dist Larger 32 96 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Larger 41 0 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Larger 19 160 Terran Science Vessel
+This_HP Smaller 81 64 Hero Edmund Duke Tank Mode
+1 Attack_Move 28
+Zerg Defiler
+7
+0
+1 Attack_Closest 1
+0
+1 Attack_Move 14
+4
+Distance_Closest_Enemy Larger 17 352 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 4 288 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 12 32 Terran Medic
+Total_Enemy_Up_Dist Smaller 24 288 Terran Science Vessel
+1 Plaguuu -50
+5
+Total_Enemy_Up_Dist Larger 42 224 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 34 128 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 33 192 Terran Medic
+Total_Enemy_Right_Dist Smaller 0 352 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 37 160 Hero Edmund Duke Tank Mode
+0 Hero Jim Raynor Marine -5
+3
+Distance_Closest_Enemy Smaller 33 160 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Smaller 18 256 Hero Edmund Duke Tank Mode
+Total_Enemy_Type_Dist Larger 12 224 Terran Medic
+0 Terran Medic 8
+0
+1 Move_UpRight 44
+2
+This_Weapon_Cooldown Larger 1 256 Hero Jim Raynor Marine
+This_Energy Larger 134 0 Hero Edmund Duke Tank Mode
+1 Consume 41

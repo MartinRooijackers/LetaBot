@@ -1,0 +1,13 @@
+3
+Zerg Drone
+1
+0
+1 Attack_Closest 1
+Zerg Overlord
+1
+0
+1 Attack_Closest 1
+Zerg Larva
+1
+0
+1 Attack_Closest 1

@@ -1,0 +1,33 @@
+1
+Hero Devouring One
+9
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Type_Dist Larger 6 352 Protoss Observer
+Total_Enemy_Dist Smaller 38 32 Protoss Observer
+1 Patrol -13
+3
+Total_Enemy_Down_Dist Larger 14 192 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 39 256 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 2 64 Protoss Observer
+1 Attack_Move -34
+1
+Total_Enemy_Down_Dist Larger 47 0 Protoss Observer
+1 Patrol -37
+1
+This_Weapon_Cooldown Larger 2 352 Protoss Observer
+0 Protoss Observer 32
+5
+Total_Enemy_Down_Dist Larger 10 352 Protoss Observer
+Total_Enemy_Left_Dist Smaller 29 128 Protoss Observer
+Total_Enemy_Dist Smaller 0 224 Protoss Observer
+Total_Enemy_Down_Dist Larger 36 224 Protoss Observer
+This_HP Larger 35 160 Protoss Observer
+1 Patrol 92
+0
+1 Move_Down -88
+0
+1 Move_Down 87
+0
+1 Attack_Move 68

@@ -1,0 +1,68 @@
+2
+Zerg Zergling
+12
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest -5
+1
+Total_Enemy_Up_Dist Larger 17 288 Terran Medic
+1 Flee 18
+1
+Closest_Burrowed_Lurker Larger 17 288 Protoss Observer
+1 Move_UpLeft -42
+3
+Total_Enemy_Left_Dist Larger 14 224 Protoss Observer
+Total_Enemy_Type_Dist Larger 13 224 Hero Gui Montag
+Total_Enemy_Dist Larger 15 320 Protoss Observer
+1 Move_DownLeft -2
+4
+This_Weapon_Cooldown Smaller 0 192 Protoss Observer
+Distance_Closest_Enemy Smaller 16 128 Hero Gui Montag
+Total_Enemy_Dist Larger 1 128 Hero Gui Montag
+Total_Enemy_Up_Dist Larger 44 224 Hero Gui Montag
+1 Move_Right 83
+4
+Total_Enemy_Up_Dist Larger 20 320 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 26 32 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 49 160 Protoss Observer
+Total_Enemy_Right_Dist Smaller 12 320 Protoss Observer
+1 Attack_Move 58
+1
+This_Weapon_Cooldown Larger 7 320 Terran Medic
+1 Patrol -94
+4
+This_HP Larger 26 0 Protoss Observer
+Total_Friendly_Dist Larger 48 320 Terran Medic
+Total_Enemy_Right_Dist Larger 8 32 Protoss Observer
+This_HP Larger 2 352 Hero Gui Montag
+1 Move_UpRight 64
+3
+Total_Enemy_Right_Dist Smaller 13 32 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 18 96 Protoss Observer
+Total_Enemy_Dist Smaller 35 128 Hero Jim Raynor Marine
+1 Attack_Lowest_HP 97
+5
+Total_Enemy_Right_Dist Smaller 33 352 Terran Medic
+This_HP Larger 16 288 Hero Jim Raynor Marine
+Distance_Closest_Enemy Larger 39 128 Terran Medic
+Total_Enemy_Type_Dist Larger 17 128 Protoss Observer
+Total_Friendly_Dist Larger 3 0 Terran Medic
+1 Patrol 88
+2
+Total_Enemy_Down_Dist Larger 42 64 Terran Medic
+Total_Enemy_Type_Dist Smaller 16 288 Hero Gui Montag
+0 Terran Medic -85
+Zerg Sunken Colony
+3
+0
+1 Attack_Closest 1
+0
+1 Move_Up 3
+5
+Total_Enemy_Right_Dist Larger 19 224 Hero Gui Montag
+Closest_Burrowed_Lurker Smaller 43 224 Terran Medic
+Total_Enemy_Left_Dist Larger 35 256 Protoss Observer
+Total_Friendly_Dist Smaller 27 320 Terran Medic
+Closest_Burrowed_Lurker Larger 3 160 Terran Medic
+1 Nothing -54

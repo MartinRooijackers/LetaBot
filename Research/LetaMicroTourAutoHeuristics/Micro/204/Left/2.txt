@@ -1,0 +1,29 @@
+2
+28
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Smaller 12 64 31
+1 Move_Left 1
+1
+Closest_Burrowed_Lurker Smaller 34 64 97
+1 Move_Right -38
+0
+1 Move_Down 33
+17
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Left_Dist Larger 6 32 97
+Total_Enemy_Down_Dist Smaller 39 256 97
+Closest_Burrowed_Lurker Smaller 36 288 97
+Total_Enemy_Down_Dist Larger 26 64 31
+1 Attack_Closest_Type -23
+0
+0 97 -76
+2
+Total_Enemy_Right_Dist Larger 17 224 97
+Closest_Burrowed_Lurker Smaller 31 192 97
+0 31 -29

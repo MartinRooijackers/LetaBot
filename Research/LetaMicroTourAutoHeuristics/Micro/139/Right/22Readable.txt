@@ -1,0 +1,82 @@
+4
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Right_Dist Smaller 37 160 Hero Hunter Killer
+This_HP Smaller 25 32 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 29 0 Zerg Zergling
+Closest_Burrowed_Lurker Larger 9 96 Zerg Zergling
+Total_Enemy_Left_Dist Larger 40 288 Zerg Zergling
+1 Attack_Closest_Type -20
+2
+Total_Enemy_Type_Dist Larger 5 64 Zerg Zergling
+This_HP Larger 1 224 Hero Hunter Killer
+1 Attack_Move -42
+3
+This_HP Larger 5 128 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 320 Zerg Zergling
+Total_Friendly_Dist Larger 13 0 Zerg Zergling
+0 Hero Hunter Killer -45
+Hero Gui Montag
+4
+0
+1 Attack_Closest 1
+4
+Distance_Closest_Enemy Larger 20 64 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 40 32 Zerg Zergling
+This_HP Smaller 154 224 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 18 32 Zerg Zergling
+1 Patrol 91
+4
+Total_Enemy_Right_Dist Larger 28 128 Hero Hunter Killer
+This_HP Smaller 127 192 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 8 0 Hero Hunter Killer
+This_HP Smaller 88 224 Zerg Zergling
+1 Attack_Move -6
+5
+Total_Enemy_Up_Dist Smaller 14 320 Zerg Zergling
+Total_Enemy_Right_Dist Larger 10 64 Zerg Zergling
+Distance_Closest_Enemy Smaller 3 128 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 20 160 Zerg Zergling
+Distance_Closest_Enemy Larger 19 192 Zerg Zergling
+0 Hero Hunter Killer 62
+Terran Medic
+4
+0
+1 Attack_Closest 1
+3
+Total_Friendly_Dist Larger 21 160 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 16 128 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 24 256 Zerg Zergling
+0 Hero Hunter Killer 75
+5
+Total_Enemy_Type_Dist Larger 13 0 Zerg Zergling
+Total_Enemy_Down_Dist Larger 8 32 Zerg Zergling
+Total_Enemy_Down_Dist Larger 3 192 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 26 320 Zerg Zergling
+Total_Friendly_Dist Smaller 42 224 Zerg Zergling
+0 Hero Hunter Killer 79
+3
+This_Energy Smaller 90 96 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 47 352 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 18 64 Hero Hunter Killer
+1 Heal -73
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+0
+0 Zerg Zergling -59
+2
+Total_Enemy_Type_Dist Smaller 9 256 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 29 64 Zerg Zergling
+0 Hero Hunter Killer 85
+5
+Total_Friendly_Dist Larger 16 160 Zerg Zergling
+Closest_Burrowed_Lurker Larger 49 160 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 39 320 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 30 192 Hero Hunter Killer
+This_HP Larger 143 64 Zerg Zergling
+1 Attack_Closest_Type -12

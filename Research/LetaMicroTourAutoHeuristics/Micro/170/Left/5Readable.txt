@@ -1,0 +1,10 @@
+1
+Zerg Zergling
+3
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest -5
+1
+Total_Enemy_Up_Dist Larger 17 288 Terran Medic
+1 Flee 18

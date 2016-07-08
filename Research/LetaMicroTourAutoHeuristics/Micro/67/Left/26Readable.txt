@@ -1,0 +1,36 @@
+2
+Hero Hunter Killer
+4
+0
+1 Attack_Closest 1
+4
+Distance_Closest_Enemy Larger 16 320 Hero Jim Raynor Marine
+This_HP Smaller 156 128 Hero Jim Raynor Marine
+This_HP Larger 19 96 Terran Science Vessel
+Distance_Closest_Enemy Smaller 6 64 Terran Science Vessel
+0 Terran Medic 58
+2
+Total_Enemy_Up_Dist Larger 45 160 Terran Medic
+This_HP Larger 55 160 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine -63
+0
+1 Attack_Lowest_HP -6
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Dist Smaller 2 96 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 40 128 Hero Jim Raynor Marine
+1 Move_UpLeft -49
+5
+Distance_Closest_Enemy Smaller 48 0 Terran Science Vessel
+This_Burrowed Larger 17 288 Terran Science Vessel
+Total_Enemy_Dist Smaller 5 160 Terran Science Vessel
+This_HP Smaller 97 128 Hero Jim Raynor Marine
+This_Burrowed Larger 34 288 Terran Science Vessel
+1 Flee 36
+2
+This_Weapon_Cooldown Larger 37 224 Terran Medic
+Total_Enemy_Dist Larger 38 192 Hero Jim Raynor Marine
+1 Attack_Closest -42

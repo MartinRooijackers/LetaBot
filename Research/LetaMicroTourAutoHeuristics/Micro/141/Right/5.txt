@@ -1,0 +1,76 @@
+4
+17
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Right_Dist Smaller 2 160 47
+Total_Enemy_Right_Dist Smaller 23 256 47
+1 Attack_Closest -14
+1
+Total_Enemy_Up_Dist Smaller 7 256 47
+0 47 42
+2
+Total_Enemy_Left_Dist Smaller 14 320 97
+Total_Enemy_Dist Smaller 18 192 47
+1 Move_DownRight 67
+28
+4
+0
+1 Attack_Closest 1
+5
+Total_Friendly_Dist Smaller 11 0 47
+Total_Enemy_Down_Dist Smaller 11 32 97
+This_Energy Smaller 59 96 47
+This_Weapon_Cooldown Smaller 1 320 97
+Total_Enemy_Right_Dist Larger 44 128 97
+1 Move_DownLeft 22
+4
+This_Energy Smaller 147 96 97
+Total_Friendly_Dist Smaller 45 0 97
+Total_Enemy_Left_Dist Smaller 34 192 47
+Total_Enemy_Down_Dist Larger 36 192 47
+1 Heal 27
+3
+Total_Enemy_Up_Dist Larger 13 256 97
+Total_Friendly_Dist Larger 8 320 47
+Total_Friendly_Dist Smaller 6 32 47
+1 Attack_Move 88
+7
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Down_Dist Smaller 5 352 47
+Total_Enemy_Left_Dist Smaller 47 128 97
+Total_Enemy_Right_Dist Larger 8 160 47
+0 97 40
+1
+Total_Friendly_Dist Smaller 9 96 47
+1 Attack_Closest -68
+3
+This_HP Smaller 20 352 97
+Distance_Closest_Enemy Larger 0 128 47
+This_HP Larger 111 320 97
+1 Move_Left -91
+20
+4
+0
+1 Attack_Closest 1
+5
+Closest_Burrowed_Lurker Larger 15 160 47
+Total_Friendly_Dist Smaller 37 96 97
+Total_Enemy_Left_Dist Larger 33 192 97
+Total_Enemy_Down_Dist Larger 25 224 47
+Total_Enemy_Down_Dist Larger 42 160 97
+1 Attack_Lowest_HP -29
+4
+Closest_Burrowed_Lurker Smaller 0 0 97
+Total_Enemy_Right_Dist Larger 35 192 47
+Total_Enemy_Up_Dist Larger 27 32 97
+This_Weapon_Cooldown Larger 6 128 97
+1 Move_UpRight -72
+2
+Total_Enemy_Right_Dist Larger 19 352 47
+Total_Enemy_Type_Dist Larger 9 0 97
+1 Attack_Closest_Type -81

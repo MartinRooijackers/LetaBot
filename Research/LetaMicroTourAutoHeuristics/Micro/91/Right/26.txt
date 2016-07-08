@@ -1,0 +1,176 @@
+3
+28
+16
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 21 320 31
+Total_Enemy_Up_Dist Smaller 49 288 97
+Total_Enemy_Type_Dist Larger 18 224 31
+This_HP Larger 2 96 31
+1 Move_DownLeft -9
+4
+This_Weapon_Cooldown Smaller 1 0 31
+This_Weapon_Cooldown Larger 1 64 31
+Total_Enemy_Type_Dist Smaller 9 0 97
+This_Weapon_Cooldown Smaller 1 352 97
+1 Attack_Closest 65
+0
+1 Move_Up -38
+5
+Total_Enemy_Type_Dist Smaller 15 160 97
+Total_Enemy_Type_Dist Larger 7 64 97
+Distance_Closest_Enemy Smaller 31 32 31
+This_Energy Larger 26 352 97
+This_HP Smaller 46 320 31
+1 Move_Right -68
+1
+Total_Friendly_Dist Smaller 39 320 31
+1 Move_UpRight -89
+1
+This_HP Larger 55 64 97
+1 Flee -44
+0
+1 Move_UpRight 3
+2
+This_HP Smaller 6 0 31
+Closest_Burrowed_Lurker Smaller 28 352 31
+1 Nothing -44
+2
+Total_Friendly_Dist Larger 26 192 31
+Total_Enemy_Down_Dist Larger 4 0 31
+1 Flee 51
+3
+Total_Enemy_Left_Dist Larger 20 320 97
+Total_Enemy_Left_Dist Smaller 48 0 31
+Total_Enemy_Down_Dist Smaller 44 320 31
+1 Move_Up -19
+0
+0 97 -53
+5
+Total_Enemy_Type_Dist Larger 7 0 31
+Total_Enemy_Up_Dist Larger 14 0 97
+Total_Enemy_Right_Dist Larger 37 224 31
+Total_Enemy_Down_Dist Larger 10 320 97
+Total_Enemy_Down_Dist Smaller 13 128 97
+1 Heal 33
+0
+1 Move_Left 96
+3
+Total_Enemy_Down_Dist Smaller 16 352 31
+This_HP Smaller 16 288 97
+Total_Enemy_Right_Dist Larger 17 288 97
+1 Nothing -2
+0
+1 Move_UpLeft 49
+17
+12
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Smaller 45 96 31
+Total_Enemy_Dist Larger 15 32 31
+Total_Enemy_Up_Dist Smaller 37 160 97
+Total_Enemy_Left_Dist Smaller 18 96 31
+Total_Enemy_Up_Dist Larger 7 64 31
+1 Move_DownRight 82
+3
+Total_Enemy_Dist Larger 33 128 97
+Total_Enemy_Up_Dist Smaller 18 128 97
+Total_Enemy_Right_Dist Smaller 28 256 97
+1 Move_UpLeft -26
+3
+Total_Enemy_Right_Dist Larger 5 0 97
+Total_Enemy_Up_Dist Smaller 36 256 31
+This_Weapon_Cooldown Larger 11 288 97
+1 Nothing -12
+2
+This_Weapon_Cooldown Smaller 9 320 31
+Total_Enemy_Right_Dist Larger 6 160 31
+1 Attack_Closest -98
+2
+Total_Enemy_Type_Dist Larger 6 0 97
+Total_Enemy_Type_Dist Smaller 10 160 31
+1 Move_DownLeft -38
+2
+This_HP Smaller 105 32 31
+This_Weapon_Cooldown Smaller 2 288 97
+1 Attack_Lowest_HP -64
+2
+This_Weapon_Cooldown Larger 3 160 31
+Distance_Closest_Enemy Smaller 3 160 97
+1 Flee -26
+3
+Total_Enemy_Type_Dist Smaller 13 0 31
+Total_Enemy_Type_Dist Larger 9 96 31
+Total_Enemy_Up_Dist Smaller 19 224 31
+1 Nothing 92
+0
+0 31 66
+2
+Total_Friendly_Dist Larger 7 128 31
+Total_Friendly_Dist Smaller 12 0 97
+1 Flee 99
+3
+Total_Enemy_Right_Dist Larger 9 128 97
+Total_Enemy_Type_Dist Larger 2 352 31
+Total_Enemy_Right_Dist Larger 25 32 97
+0 97 -99
+7
+12
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Left_Dist Larger 46 256 31
+Total_Enemy_Type_Dist Larger 19 288 31
+1 Move_UpLeft 17
+1
+Closest_Burrowed_Lurker Smaller 46 0 31
+0 97 51
+0
+1 Nothing 6
+5
+Distance_Closest_Enemy Larger 22 64 31
+Total_Enemy_Down_Dist Larger 38 288 31
+Total_Enemy_Up_Dist Larger 8 224 97
+Total_Enemy_Dist Larger 38 192 31
+Total_Enemy_Left_Dist Smaller 49 64 31
+1 Patrol 60
+4
+Total_Enemy_Right_Dist Larger 40 128 97
+Total_Enemy_Left_Dist Larger 45 320 97
+Total_Friendly_Dist Larger 10 0 97
+Total_Enemy_Type_Dist Smaller 9 224 31
+1 Move_Right -41
+4
+Total_Friendly_Dist Smaller 38 128 31
+This_Weapon_Cooldown Larger 1 96 31
+Total_Enemy_Right_Dist Smaller 11 224 31
+Total_Friendly_Dist Larger 1 224 97
+1 Attack_Closest 77
+4
+Total_Enemy_Up_Dist Larger 47 0 31
+This_HP Larger 165 64 31
+This_Weapon_Cooldown Larger 1 0 97
+This_HP Larger 123 288 97
+1 Move_DownRight 49
+0
+1 Irradiate -84
+4
+Total_Enemy_Right_Dist Smaller 14 160 31
+Closest_Burrowed_Lurker Larger 4 288 31
+Total_Enemy_Down_Dist Smaller 44 96 31
+This_Energy Larger 130 224 97
+0 97 -5
+4
+This_HP Larger 10 288 97
+Total_Enemy_Dist Larger 48 288 31
+This_HP Smaller 56 160 31
+This_Weapon_Cooldown Smaller 0 160 97
+1 Move_UpLeft 18
+4
+Closest_Burrowed_Lurker Smaller 45 160 31
+This_HP Larger 194 320 31
+Total_Friendly_Dist Larger 39 160 31
+Total_Enemy_Down_Dist Smaller 29 128 31
+1 Move_DownLeft 86

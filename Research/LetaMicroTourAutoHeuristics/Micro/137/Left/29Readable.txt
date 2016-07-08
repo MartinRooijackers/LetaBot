@@ -1,0 +1,73 @@
+3
+Zerg Mutalisk
+7
+0
+1 Attack_Closest 1
+0
+1 Move_Down 72
+4
+Total_Enemy_Right_Dist Smaller 14 352 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 46 32 Terran Medic
+Total_Enemy_Left_Dist Larger 34 64 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 33 192 Terran Medic
+0 Terran Science Vessel 51
+0
+1 Move_Down -94
+2
+Distance_Closest_Enemy Smaller 48 32 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 26 160 Hero Jim Raynor Marine
+0 Terran Science Vessel -64
+0
+1 Move_Up -34
+5
+Total_Friendly_Dist Smaller 18 32 Terran Science Vessel
+Total_Enemy_Down_Dist Larger 5 224 Terran Medic
+Total_Enemy_Left_Dist Larger 45 96 Terran Science Vessel
+Total_Enemy_Down_Dist Smaller 7 352 Terran Science Vessel
+This_Weapon_Cooldown Smaller 30 320 Terran Science Vessel
+1 Move_UpLeft 9
+Zerg Scourge
+3
+0
+1 Attack_Closest 1
+5
+This_HP Smaller 17 96 Terran Science Vessel
+Distance_Closest_Enemy Larger 38 160 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 26 0 Terran Science Vessel
+Total_Enemy_Down_Dist Larger 34 256 Hero Jim Raynor Marine
+Total_Friendly_Dist Larger 44 256 Hero Jim Raynor Marine
+0 Terran Medic -80
+0
+0 Terran Medic -45
+Zerg Guardian
+7
+0
+1 Attack_Closest 1
+4
+This_HP Larger 1 256 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 25 256 Terran Science Vessel
+This_HP Smaller 95 224 Terran Science Vessel
+Total_Enemy_Left_Dist Larger 22 0 Terran Science Vessel
+0 Terran Medic -7
+4
+Total_Enemy_Up_Dist Smaller 44 0 Terran Science Vessel
+Total_Enemy_Dist Smaller 34 288 Terran Science Vessel
+This_Weapon_Cooldown Larger 25 256 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 3 256 Terran Science Vessel
+0 Terran Medic 35
+0
+1 Flee -48
+5
+Total_Enemy_Right_Dist Larger 4 96 Hero Jim Raynor Marine
+This_HP Smaller 32 32 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 5 192 Terran Science Vessel
+This_Weapon_Cooldown Smaller 30 96 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 24 96 Terran Science Vessel
+1 Patrol 84
+3
+This_HP Smaller 5 64 Terran Medic
+Total_Enemy_Left_Dist Larger 27 320 Terran Medic
+Total_Enemy_Left_Dist Smaller 42 224 Terran Science Vessel
+1 Attack_Closest_Type 54
+0
+1 Attack_Closest_Type -8

@@ -1,0 +1,84 @@
+3
+Zerg Zergling
+10
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Down_Dist Larger 44 352 Protoss Observer
+Total_Enemy_Left_Dist Smaller 40 224 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 6 192 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 1 320 Protoss Observer
+1 Move_Right 76
+4
+Total_Enemy_Down_Dist Larger 47 64 Terran Medic
+Total_Enemy_Dist Smaller 44 0 Protoss Observer
+Total_Enemy_Up_Dist Larger 9 160 Protoss Observer
+This_HP Smaller 3 320 Terran Medic
+0 Terran Medic -87
+1
+Total_Enemy_Down_Dist Smaller 0 128 Hero Jim Raynor Marine
+1 Move_Down -84
+4
+This_HP Larger 17 320 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 4 224 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 45 352 Protoss Observer
+Total_Enemy_Right_Dist Larger 34 0 Protoss Observer
+0 Terran Medic 44
+2
+Total_Enemy_Down_Dist Larger 6 64 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 43 0 Protoss Observer
+0 Hero Jim Raynor Marine 1
+1
+Total_Enemy_Down_Dist Smaller 34 64 Hero Jim Raynor Marine
+0 Protoss Observer 6
+0
+1 Flee -91
+3
+This_HP Larger 14 160 Protoss Observer
+This_Weapon_Cooldown Larger 2 128 Protoss Observer
+Total_Enemy_Right_Dist Larger 5 256 Zerg Lurker
+0 Protoss Observer -92
+4
+Total_Enemy_Right_Dist Larger 28 224 Zerg Lurker
+Total_Enemy_Left_Dist Smaller 24 96 Terran Medic
+Total_Enemy_Down_Dist Larger 49 192 Zerg Lurker
+Total_Enemy_Dist Larger 19 352 Zerg Lurker
+1 Move_DownLeft -39
+Hero Hunter Killer
+10
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Down_Dist Larger 39 256 Hero Jim Raynor Marine
+1 Attack_Closest 41
+5
+Closest_Burrowed_Lurker Larger 31 0 Terran Medic
+Closest_Burrowed_Lurker Larger 45 160 Terran Medic
+This_HP Larger 115 32 Protoss Observer
+Total_Enemy_Dist Smaller 3 224 Terran Medic
+This_HP Smaller 128 64 Terran Medic
+0 Hero Jim Raynor Marine 56
+2
+Total_Enemy_Dist Smaller 12 32 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 14 288 Protoss Observer
+0 Terran Medic -4
+0
+0 Protoss Observer 51
+1
+This_Weapon_Cooldown Smaller 0 224 Protoss Observer
+1 Move_Right 43
+0
+0 Hero Jim Raynor Marine 50
+0
+1 Move_DownLeft -25
+1
+Total_Enemy_Right_Dist Larger 40 32 Zerg Lurker
+0 Protoss Observer -19
+4
+This_Weapon_Cooldown Smaller 5 32 Zerg Lurker
+Total_Enemy_Up_Dist Larger 22 96 Hero Jim Raynor Marine
+This_Weapon_Cooldown Larger 9 288 Terran Medic
+Closest_Burrowed_Lurker Smaller 43 96 Hero Jim Raynor Marine
+1 Flee 52
+Spell Scanner Sweep
+0

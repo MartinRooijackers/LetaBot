@@ -1,0 +1,41 @@
+3
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+0
+1 Attack_Lowest_HP -51
+3
+This_HP Smaller 41 256 Terran Vulture
+Closest_Burrowed_Lurker Larger 0 256 Terran Vulture
+Total_Enemy_Dist Larger 24 64 Terran Vulture
+1 Attack_Closest 41
+0
+1 Patrol -54
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+0
+0 Terran Vulture -45
+0
+1 Move_UpRight -12
+2
+This_Weapon_Cooldown Smaller 1 256 Terran Vulture
+Closest_Burrowed_Lurker Larger 12 128 Terran Vulture
+0 Terran Vulture 80
+Terran Medic
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Larger 40 128 Terran Vulture
+This_Weapon_Cooldown Larger 1 64 Terran Vulture
+Total_Enemy_Dist Larger 9 160 Terran Vulture
+This_HP Larger 50 64 Terran Vulture
+This_Energy Smaller 84 352 Terran Vulture
+1 Move_DownLeft -9
+0
+1 Flee -1
+0
+1 Attack_Lowest_HP -75

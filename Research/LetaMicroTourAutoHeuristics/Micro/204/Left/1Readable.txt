@@ -1,0 +1,39 @@
+2
+Terran Medic
+4
+0
+1 Attack_Closest 1
+0
+0 Zerg Lurker -26
+4
+This_Energy Smaller 87 0 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 2 192 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 7 352 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 2 256 Zerg Zergling
+1 Patrol 53
+1
+Total_Friendly_Dist Smaller 2 352 Zerg Zergling
+1 Move_Right 58
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+5
+Distance_Closest_Enemy Larger 48 32 Zerg Lurker
+Closest_Burrowed_Lurker Larger 36 192 Zerg Zergling
+Distance_Closest_Enemy Smaller 32 192 Zerg Lurker
+Total_Friendly_Dist Larger 40 128 Zerg Lurker
+Total_Enemy_Down_Dist Larger 2 96 Zerg Lurker
+1 Move_UpRight 75
+3
+Total_Friendly_Dist Smaller 29 96 Zerg Zergling
+This_Weapon_Cooldown Larger 1 128 Zerg Lurker
+Total_Enemy_Up_Dist Larger 8 160 Zerg Lurker
+1 Flee 92
+5
+Total_Enemy_Left_Dist Smaller 7 224 Zerg Zergling
+This_Weapon_Cooldown Larger 5 288 Zerg Lurker
+Closest_Burrowed_Lurker Smaller 10 160 Zerg Lurker
+Total_Enemy_Left_Dist Smaller 47 352 Zerg Zergling
+This_HP Larger 131 320 Zerg Zergling
+0 Zerg Lurker -1

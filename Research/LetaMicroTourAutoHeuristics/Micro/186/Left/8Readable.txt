@@ -1,0 +1,27 @@
+1
+Hero Hunter Killer
+7
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest_Type 53
+3
+Total_Friendly_Dist Larger 4 352 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Smaller 0 128 Hero Edmund Duke Tank Mode
+Total_Enemy_Up_Dist Smaller 22 224 Hero Jim Raynor Marine
+1 Flee -61
+2
+Total_Friendly_Dist Smaller 44 352 Terran Medic
+Total_Enemy_Left_Dist Smaller 27 96 Hero Jim Raynor Marine
+1 Move_DownLeft 5
+1
+Total_Enemy_Down_Dist Smaller 6 96 Protoss Observer
+1 Attack_Closest_Type 67
+3
+Closest_Burrowed_Lurker Smaller 34 64 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Larger 43 160 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Larger 35 224 Terran Medic
+1 Patrol -45
+1
+Distance_Closest_Enemy Smaller 4 320 Hero Jim Raynor Marine
+1 Attack_Closest_Type -34

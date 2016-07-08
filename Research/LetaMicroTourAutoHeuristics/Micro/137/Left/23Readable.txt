@@ -1,0 +1,89 @@
+3
+Zerg Mutalisk
+7
+0
+1 Attack_Closest 1
+0
+1 Move_Down 72
+4
+Total_Enemy_Right_Dist Smaller 14 352 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 46 32 Terran Medic
+Total_Enemy_Left_Dist Larger 34 64 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 33 192 Terran Medic
+0 Terran Science Vessel 51
+0
+1 Move_Down -94
+0
+1 Attack_Closest -94
+5
+Total_Enemy_Right_Dist Smaller 0 128 Terran Medic
+Total_Enemy_Right_Dist Larger 36 256 Terran Medic
+Total_Enemy_Dist Smaller 7 96 Terran Medic
+Distance_Closest_Enemy Smaller 1 128 Terran Science Vessel
+This_HP Smaller 75 0 Terran Science Vessel
+1 Attack_Move -14
+2
+Total_Enemy_Up_Dist Smaller 42 288 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 21 352 Terran Medic
+1 Move_UpLeft 98
+Zerg Scourge
+7
+0
+1 Attack_Closest 1
+5
+This_HP Smaller 17 96 Terran Science Vessel
+Distance_Closest_Enemy Larger 38 160 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 26 0 Terran Science Vessel
+Total_Enemy_Down_Dist Larger 34 256 Hero Jim Raynor Marine
+Total_Friendly_Dist Larger 44 256 Hero Jim Raynor Marine
+0 Terran Medic -80
+0
+0 Terran Medic -45
+1
+This_Weapon_Cooldown Smaller 0 160 Terran Science Vessel
+1 Attack_Move 10
+3
+Total_Friendly_Dist Larger 3 128 Terran Science Vessel
+Distance_Closest_Enemy Larger 11 320 Hero Jim Raynor Marine
+This_Weapon_Cooldown Larger 1 128 Terran Science Vessel
+1 Move_DownLeft 75
+3
+Total_Enemy_Dist Smaller 44 0 Hero Jim Raynor Marine
+This_HP Smaller 21 288 Terran Medic
+Total_Enemy_Down_Dist Larger 39 320 Terran Medic
+1 Move_DownRight -26
+0
+1 Attack_Closest -51
+Zerg Guardian
+7
+0
+1 Attack_Closest 1
+4
+This_HP Larger 1 256 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 25 256 Terran Science Vessel
+This_HP Smaller 95 224 Terran Science Vessel
+Total_Enemy_Left_Dist Larger 22 0 Terran Science Vessel
+0 Terran Medic -7
+4
+Total_Enemy_Up_Dist Smaller 44 0 Terran Science Vessel
+Total_Enemy_Dist Smaller 34 288 Terran Science Vessel
+This_Weapon_Cooldown Larger 25 256 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 3 256 Terran Science Vessel
+0 Terran Medic 35
+0
+1 Flee -48
+4
+Total_Friendly_Dist Smaller 49 320 Terran Medic
+Total_Enemy_Down_Dist Larger 13 224 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 33 256 Terran Medic
+Total_Enemy_Left_Dist Smaller 37 224 Terran Science Vessel
+1 Attack_Move -64
+3
+Total_Enemy_Left_Dist Smaller 6 96 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 12 64 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 0 256 Terran Science Vessel
+1 Move_Down 41
+2
+Total_Enemy_Type_Dist Smaller 0 64 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 19 320 Terran Science Vessel
+1 Flee -81

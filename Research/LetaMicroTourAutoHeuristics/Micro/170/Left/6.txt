@@ -1,0 +1,23 @@
+1
+31
+6
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest -5
+1
+Total_Enemy_Up_Dist Larger 17 288 28
+1 Flee 18
+3
+Total_Enemy_Down_Dist Smaller 14 160 78
+This_HP Smaller 8 0 8
+Total_Friendly_Dist Smaller 38 0 28
+1 Move_UpLeft -29
+3
+Total_Enemy_Up_Dist Larger 36 96 8
+Closest_Burrowed_Lurker Larger 26 352 17
+Total_Friendly_Dist Smaller 29 192 78
+1 Attack_Closest 77
+1
+Total_Enemy_Dist Larger 45 96 78
+1 Flee -15

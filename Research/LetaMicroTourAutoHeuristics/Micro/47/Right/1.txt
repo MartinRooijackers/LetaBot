@@ -1,0 +1,95 @@
+5
+20
+4
+0
+1 Attack_Closest 1
+4
+Total_Friendly_Dist Larger 36 288 97
+Total_Enemy_Type_Dist Larger 13 288 41
+This_Weapon_Cooldown Larger 18 352 36
+Total_Enemy_Type_Dist Larger 12 256 41
+1 Siege -67
+4
+Closest_Burrowed_Lurker Smaller 30 32 97
+Closest_Burrowed_Lurker Smaller 2 64 36
+This_Weapon_Cooldown Larger 25 224 36
+Total_Enemy_Type_Dist Larger 1 352 41
+1 Siege -39
+0
+0 41 -65
+17
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Left_Dist Smaller 23 160 31
+0 41 -13
+2
+Total_Enemy_Up_Dist Larger 47 224 31
+Total_Enemy_Down_Dist Smaller 41 32 36
+1 StimPack 48
+5
+Total_Enemy_Dist Larger 29 352 31
+This_Weapon_Cooldown Smaller 1 96 97
+This_Weapon_Cooldown Larger 1 192 36
+Total_Enemy_Up_Dist Smaller 49 32 31
+Total_Enemy_Right_Dist Larger 8 96 31
+0 31 -24
+2
+4
+0
+1 Attack_Closest 1
+2
+This_Weapon_Cooldown Smaller 5 288 41
+This_Mines Smaller 2 224 36
+1 Move_DownLeft -16
+5
+This_Weapon_Cooldown Larger 12 160 36
+Total_Enemy_Right_Dist Larger 12 0 41
+Total_Enemy_Left_Dist Larger 46 256 97
+This_Weapon_Cooldown Larger 4 128 97
+Closest_Burrowed_Lurker Smaller 30 192 36
+1 Move_UpRight 78
+1
+Distance_Closest_Enemy Smaller 7 256 36
+1 Move_UpLeft 71
+28
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Down_Dist Smaller 10 64 31
+Total_Enemy_Dist Larger 48 224 97
+This_Weapon_Cooldown Larger 1 64 31
+1 Heal -4
+2
+Total_Enemy_Dist Smaller 36 256 31
+Distance_Closest_Enemy Smaller 35 224 36
+1 Move_Up 80
+5
+Total_Enemy_Dist Smaller 19 0 36
+Distance_Closest_Enemy Smaller 28 128 31
+Total_Enemy_Type_Dist Smaller 13 192 41
+This_Weapon_Cooldown Smaller 1 192 36
+This_Weapon_Cooldown Larger 1 160 97
+1 Heal 57
+7
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Up_Dist Smaller 38 64 97
+Total_Enemy_Dist Smaller 14 0 36
+Distance_Closest_Enemy Larger 49 32 31
+Closest_Burrowed_Lurker Larger 38 128 36
+This_Energy Smaller 149 320 97
+1 Patrol 33
+2
+Total_Friendly_Dist Larger 9 320 31
+Total_Enemy_Down_Dist Smaller 11 320 41
+1 Irradiate 40
+3
+This_Weapon_Cooldown Smaller 1 0 97
+This_Weapon_Cooldown Larger 1 256 31
+This_Weapon_Cooldown Smaller 1 128 41
+0 36 -63

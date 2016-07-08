@@ -1,0 +1,41 @@
+3
+17
+4
+0
+1 Attack_Closest 1
+0
+1 Attack_Lowest_HP -51
+3
+This_HP Smaller 41 256 2
+Closest_Burrowed_Lurker Larger 0 256 2
+Total_Enemy_Dist Larger 24 64 2
+1 Attack_Closest 41
+0
+1 Patrol -54
+78
+4
+0
+1 Attack_Closest 1
+0
+0 2 -45
+0
+1 Move_UpRight -12
+2
+This_Weapon_Cooldown Smaller 1 256 2
+Closest_Burrowed_Lurker Larger 12 128 2
+0 2 80
+28
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Larger 40 128 2
+This_Weapon_Cooldown Larger 1 64 2
+Total_Enemy_Dist Larger 9 160 2
+This_HP Larger 50 64 2
+This_Energy Smaller 84 352 2
+1 Move_DownLeft -9
+0
+1 Flee -1
+0
+1 Attack_Lowest_HP -75

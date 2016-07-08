@@ -1,0 +1,147 @@
+4
+Hero Jim Raynor Marine
+7
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Smaller 49 32 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 5 320 Zerg Zergling
+This_HP Smaller 48 256 Zerg Zergling
+Total_Enemy_Type_Dist Larger 7 128 Zerg Zergling
+This_Weapon_Cooldown Larger 0 96 Zerg Zergling
+1 StimPack -20
+2
+Closest_Burrowed_Lurker Larger 26 128 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 26 96 Zerg Mutalisk
+0 Zerg Mutalisk 79
+2
+This_HP Larger 29 160 Zerg Mutalisk
+Closest_Burrowed_Lurker Smaller 33 192 Zerg Mutalisk
+1 Move_UpLeft -69
+3
+Total_Enemy_Down_Dist Smaller 3 288 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 20 128 Zerg Zergling
+Total_Enemy_Right_Dist Larger 35 128 Zerg Mutalisk
+0 Zerg Zergling 55
+2
+Total_Friendly_Dist Larger 20 320 Zerg Mutalisk
+Distance_Closest_Enemy Smaller 15 96 Zerg Zergling
+1 Attack_Closest 32
+5
+Distance_Closest_Enemy Larger 5 256 Zerg Zergling
+Distance_Closest_Enemy Larger 42 0 Zerg Zergling
+Total_Enemy_Dist Larger 4 128 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 36 160 Zerg Zergling
+Total_Enemy_Type_Dist Larger 9 96 Zerg Mutalisk
+1 Attack_Move -50
+Hero Gui Montag
+7
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Left_Dist Larger 37 64 Zerg Mutalisk
+This_HP Larger 144 192 Zerg Zergling
+Distance_Closest_Enemy Smaller 18 256 Zerg Mutalisk
+Total_Enemy_Up_Dist Smaller 0 352 Zerg Mutalisk
+Total_Enemy_Dist Larger 32 256 Zerg Zergling
+1 Patrol 89
+4
+Total_Enemy_Up_Dist Larger 5 32 Zerg Zergling
+Total_Enemy_Dist Larger 13 352 Zerg Mutalisk
+This_HP Smaller 47 0 Zerg Mutalisk
+This_Weapon_Cooldown Larger 21 256 Zerg Mutalisk
+1 Flee 38
+5
+Total_Enemy_Type_Dist Smaller 18 160 Zerg Mutalisk
+Distance_Closest_Enemy Larger 27 64 Zerg Zergling
+Distance_Closest_Enemy Larger 42 64 Zerg Zergling
+Total_Enemy_Dist Smaller 44 224 Zerg Mutalisk
+Total_Enemy_Type_Dist Larger 17 32 Zerg Mutalisk
+1 StimPack -48
+1
+Total_Enemy_Type_Dist Smaller 7 320 Zerg Mutalisk
+1 Flee -17
+5
+Closest_Burrowed_Lurker Larger 46 320 Zerg Zergling
+Total_Enemy_Down_Dist Larger 37 64 Zerg Zergling
+Total_Enemy_Dist Smaller 10 352 Zerg Mutalisk
+Total_Enemy_Up_Dist Smaller 19 224 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 28 256 Zerg Mutalisk
+1 Move_Down 7
+5
+Total_Friendly_Dist Smaller 19 96 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 5 128 Zerg Mutalisk
+Total_Enemy_Dist Larger 30 96 Zerg Mutalisk
+Total_Friendly_Dist Smaller 16 352 Zerg Mutalisk
+This_Weapon_Cooldown Smaller 19 32 Zerg Mutalisk
+1 Attack_Lowest_HP 49
+Protoss Observer
+7
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Larger 24 128 Zerg Zergling
+1 Attack_Lowest_HP 53
+1
+Total_Enemy_Type_Dist Larger 2 0 Zerg Zergling
+0 Zerg Mutalisk -57
+5
+Closest_Burrowed_Lurker Smaller 32 96 Zerg Mutalisk
+Total_Enemy_Left_Dist Larger 34 64 Zerg Mutalisk
+This_HP Smaller 6 0 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 33 64 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 32 Zerg Mutalisk
+1 Flee 85
+3
+Total_Enemy_Left_Dist Smaller 17 32 Zerg Zergling
+Total_Enemy_Right_Dist Larger 6 96 Zerg Mutalisk
+Distance_Closest_Enemy Larger 38 256 Zerg Zergling
+1 Attack_Move -12
+3
+Total_Enemy_Right_Dist Larger 3 320 Zerg Zergling
+Total_Enemy_Left_Dist Larger 0 64 Zerg Mutalisk
+Total_Friendly_Dist Smaller 0 224 Zerg Zergling
+1 Flee -15
+4
+This_HP Larger 35 192 Zerg Mutalisk
+This_HP Larger 15 320 Zerg Mutalisk
+Total_Enemy_Right_Dist Larger 7 32 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 25 32 Zerg Zergling
+0 Zerg Zergling -17
+Terran Medic
+7
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Dist Larger 1 64 Zerg Mutalisk
+Total_Enemy_Dist Larger 47 160 Zerg Mutalisk
+Total_Enemy_Left_Dist Larger 38 64 Zerg Mutalisk
+1 Attack_Closest 32
+5
+Total_Enemy_Right_Dist Smaller 16 96 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 7 288 Zerg Zergling
+Total_Enemy_Right_Dist Larger 36 96 Zerg Zergling
+This_Energy Smaller 96 0 Zerg Mutalisk
+Total_Enemy_Right_Dist Smaller 2 160 Zerg Zergling
+1 Flee -13
+2
+This_Weapon_Cooldown Smaller 1 224 Zerg Zergling
+Distance_Closest_Enemy Larger 44 288 Zerg Mutalisk
+0 Zerg Zergling -83
+3
+Total_Enemy_Down_Dist Larger 17 0 Zerg Zergling
+Closest_Burrowed_Lurker Larger 31 128 Zerg Mutalisk
+This_HP Larger 12 224 Zerg Zergling
+1 Attack_Closest_Type 63
+4
+Total_Enemy_Down_Dist Larger 7 224 Zerg Zergling
+Total_Enemy_Dist Smaller 49 224 Zerg Zergling
+Distance_Closest_Enemy Larger 4 192 Zerg Mutalisk
+Total_Enemy_Down_Dist Smaller 41 320 Zerg Zergling
+0 Zerg Zergling 64
+4
+This_Weapon_Cooldown Larger 1 160 Zerg Zergling
+This_HP Smaller 38 32 Zerg Zergling
+Total_Enemy_Dist Smaller 25 288 Zerg Mutalisk
+Total_Friendly_Dist Larger 2 224 Zerg Zergling
+0 Zerg Zergling -12

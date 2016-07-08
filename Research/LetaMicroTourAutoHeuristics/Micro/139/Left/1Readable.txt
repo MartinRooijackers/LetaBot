@@ -1,0 +1,29 @@
+2
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+3
+Distance_Closest_Enemy Smaller 23 64 Protoss Observer
+Distance_Closest_Enemy Larger 15 32 Terran Medic
+This_HP Larger 34 160 Terran Medic
+1 Move_UpLeft -37
+3
+This_Weapon_Cooldown Larger 4 96 Protoss Observer
+Closest_Burrowed_Lurker Larger 44 64 Terran Medic
+Distance_Closest_Enemy Larger 22 256 Protoss Observer
+1 Flee -25
+0
+1 Move_Up 48
+Hero Hunter Killer
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Down_Dist Larger 46 32 Terran Medic
+1 Attack_Lowest_HP 52
+1
+This_HP Smaller 110 256 Protoss Observer
+1 Move_UpRight 68
+0
+0 Hero Jim Raynor Marine 44

@@ -1,0 +1,198 @@
+4
+Hero Edmund Duke Tank Mode
+13
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Type_Dist Smaller 14 352 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 31 288 Hero Hunter Killer
+1 Flee 62
+0
+1 Attack_Closest_Type 71
+4
+Total_Friendly_Dist Larger 17 128 Hero Hunter Killer
+Total_Friendly_Dist Larger 1 320 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 31 320 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 47 224 Hero Hunter Killer
+1 Move_Right -12
+1
+Distance_Closest_Enemy Larger 7 224 Hero Hunter Killer
+1 Siege -84
+5
+This_Weapon_Cooldown Smaller 9 288 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 5 64 Hero Hunter Killer
+This_HP Smaller 294 352 Hero Hunter Killer
+Total_Enemy_Dist Smaller 33 288 Hero Hunter Killer
+This_HP Larger 91 320 Hero Hunter Killer
+0 Hero Hunter Killer 9
+1
+This_HP Smaller 112 320 Hero Hunter Killer
+1 Nothing -98
+0
+1 Flee 52
+1
+Total_Enemy_Up_Dist Larger 43 32 Hero Hunter Killer
+1 Move_UpLeft 44
+3
+This_HP Smaller 391 320 Hero Hunter Killer
+Total_Friendly_Dist Larger 13 160 Hero Hunter Killer
+Distance_Closest_Enemy Larger 45 64 Hero Hunter Killer
+1 Move_UpLeft 74
+1
+Total_Enemy_Down_Dist Smaller 17 0 Hero Hunter Killer
+1 Attack_Lowest_HP_Type 59
+5
+Closest_Burrowed_Lurker Smaller 20 64 Hero Hunter Killer
+This_HP Larger 150 32 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 27 256 Hero Hunter Killer
+Distance_Closest_Enemy Larger 19 288 Hero Hunter Killer
+This_HP Larger 301 160 Hero Hunter Killer
+0 Hero Hunter Killer 34
+1
+Total_Enemy_Type_Dist Larger 19 224 Hero Hunter Killer
+1 Move_Left -28
+Hero Jim Raynor Marine
+13
+0
+1 Attack_Closest 1
+5
+Distance_Closest_Enemy Larger 46 96 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 43 0 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 7 320 Hero Hunter Killer
+This_HP Smaller 64 64 Hero Hunter Killer
+Total_Enemy_Dist Smaller 36 64 Hero Hunter Killer
+0 Hero Hunter Killer -78
+1
+Total_Enemy_Right_Dist Larger 10 128 Hero Hunter Killer
+1 Attack_Move 85
+0
+1 Nothing 23
+5
+This_Weapon_Cooldown Smaller 7 288 Hero Hunter Killer
+Distance_Closest_Enemy Smaller 22 32 Hero Hunter Killer
+Distance_Closest_Enemy Larger 2 192 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 43 352 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 21 224 Hero Hunter Killer
+1 Attack_Closest_Type -35
+3
+Total_Enemy_Up_Dist Smaller 32 192 Hero Hunter Killer
+This_HP Larger 87 224 Hero Hunter Killer
+Total_Friendly_Dist Smaller 12 224 Hero Hunter Killer
+0 Hero Hunter Killer -77
+4
+Total_Enemy_Down_Dist Larger 29 128 Hero Hunter Killer
+Total_Friendly_Dist Smaller 13 352 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 40 128 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 34 320 Hero Hunter Killer
+1 Patrol -48
+2
+Closest_Burrowed_Lurker Larger 4 64 Hero Hunter Killer
+Distance_Closest_Enemy Larger 13 224 Hero Hunter Killer
+1 Move_Down -25
+1
+Closest_Burrowed_Lurker Smaller 39 224 Hero Hunter Killer
+1 Attack_Closest_Type -30
+2
+Total_Enemy_Right_Dist Smaller 19 352 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 39 256 Hero Hunter Killer
+1 Move_Up -90
+5
+This_Weapon_Cooldown Smaller 15 160 Hero Hunter Killer
+This_HP Larger 101 352 Hero Hunter Killer
+Total_Friendly_Dist Larger 32 160 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 42 256 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 16 96 Hero Hunter Killer
+1 Flee -54
+1
+Total_Enemy_Left_Dist Smaller 42 64 Hero Hunter Killer
+1 Move_Right -55
+5
+This_HP Smaller 76 0 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 14 0 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 37 96 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 15 256 Hero Hunter Killer
+Total_Enemy_Right_Dist Smaller 36 96 Hero Hunter Killer
+1 Move_Right 44
+Protoss Observer
+9
+0
+1 Attack_Closest 1
+1
+Closest_Burrowed_Lurker Smaller 13 320 Hero Hunter Killer
+1 Nothing -73
+1
+Total_Enemy_Up_Dist Smaller 4 0 Hero Hunter Killer
+0 Hero Hunter Killer 34
+1
+Total_Enemy_Dist Larger 20 64 Hero Hunter Killer
+0 Hero Hunter Killer 25
+0
+0 Hero Hunter Killer -91
+2
+This_Weapon_Cooldown Smaller 1 32 Hero Hunter Killer
+This_Weapon_Cooldown Smaller 1 0 Hero Hunter Killer
+1 Move_Up -40
+0
+1 Attack_Closest_Type 63
+0
+0 Hero Hunter Killer -7
+5
+Total_Friendly_Dist Larger 28 96 Hero Hunter Killer
+Total_Friendly_Dist Smaller 35 160 Hero Hunter Killer
+Distance_Closest_Enemy Larger 4 96 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 6 352 Hero Hunter Killer
+This_Weapon_Cooldown Larger 15 224 Hero Hunter Killer
+1 Move_Up -18
+Terran Medic
+13
+0
+1 Attack_Closest 1
+2
+This_Energy Larger 13 64 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 26 160 Hero Hunter Killer
+1 Move_UpRight -88
+1
+Total_Enemy_Right_Dist Smaller 27 288 Hero Hunter Killer
+0 Hero Hunter Killer 60
+2
+Distance_Closest_Enemy Larger 33 160 Hero Hunter Killer
+This_HP Larger 9 320 Hero Hunter Killer
+1 Move_DownRight -85
+2
+Total_Enemy_Dist Larger 7 288 Hero Hunter Killer
+This_Energy Smaller 138 352 Hero Hunter Killer
+1 Move_Down -56
+4
+This_Energy Smaller 9 192 Hero Hunter Killer
+This_Weapon_Cooldown Larger 1 256 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 15 32 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 10 64 Hero Hunter Killer
+1 Heal -58
+1
+This_HP Larger 14 320 Hero Hunter Killer
+1 Attack_Move 0
+1
+Total_Enemy_Left_Dist Smaller 18 192 Hero Hunter Killer
+0 Hero Hunter Killer 51
+1
+This_Energy Smaller 81 352 Hero Hunter Killer
+1 Heal 68
+0
+1 Heal 31
+2
+Total_Enemy_Down_Dist Larger 6 0 Hero Hunter Killer
+Total_Enemy_Right_Dist Larger 11 256 Hero Hunter Killer
+0 Hero Hunter Killer 74
+4
+Distance_Closest_Enemy Smaller 19 256 Hero Hunter Killer
+This_Weapon_Cooldown Larger 5 288 Hero Hunter Killer
+This_HP Smaller 40 256 Hero Hunter Killer
+Total_Enemy_Dist Smaller 0 192 Hero Hunter Killer
+1 Attack_Lowest_HP 46
+5
+This_Weapon_Cooldown Smaller 16 64 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 43 192 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 35 224 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 45 288 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 43 32 Hero Hunter Killer
+1 Nothing -95

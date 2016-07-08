@@ -1,0 +1,95 @@
+5
+17
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Smaller 27 64 48
+1 Move_DownLeft -67
+0
+1 Move_UpLeft 21
+2
+This_HP Larger 58 64 48
+Total_Enemy_Down_Dist Smaller 12 96 39
+1 Move_Down -89
+28
+4
+0
+1 Attack_Closest 1
+5
+This_Weapon_Cooldown Smaller 1 352 39
+This_HP Larger 46 224 33
+Total_Enemy_Type_Dist Larger 16 128 39
+This_HP Smaller 2 224 33
+Total_Friendly_Dist Smaller 6 352 48
+1 Move_DownRight 62
+5
+Total_Enemy_Left_Dist Smaller 46 32 39
+Total_Enemy_Left_Dist Smaller 40 320 48
+Total_Enemy_Dist Larger 27 32 39
+Closest_Burrowed_Lurker Smaller 12 0 33
+Distance_Closest_Enemy Smaller 15 32 33
+1 Attack_Move 18
+4
+Total_Enemy_Type_Dist Larger 3 0 48
+This_HP Smaller 46 96 48
+Total_Enemy_Dist Larger 40 64 48
+This_Weapon_Cooldown Smaller 1 256 39
+1 Move_Down -35
+8
+4
+0
+1 Attack_Closest 1
+1
+This_HP Smaller 97 288 39
+1 Flee 54
+4
+Total_Enemy_Type_Dist Smaller 10 32 33
+Closest_Burrowed_Lurker Smaller 12 192 33
+Total_Enemy_Up_Dist Larger 1 224 39
+This_HP Larger 136 192 33
+1 Move_Down -34
+3
+Total_Enemy_Down_Dist Smaller 30 160 48
+Total_Enemy_Down_Dist Smaller 0 320 39
+Total_Enemy_Type_Dist Smaller 8 256 39
+1 Patrol -96
+20
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Right_Dist Larger 41 192 39
+This_HP Smaller 156 160 39
+1 Attack_Lowest_HP -23
+5
+Total_Enemy_Down_Dist Smaller 25 352 39
+Distance_Closest_Enemy Smaller 3 192 33
+Distance_Closest_Enemy Smaller 35 288 39
+Total_Enemy_Left_Dist Larger 23 352 39
+Total_Enemy_Type_Dist Smaller 7 96 39
+1 Attack_Lowest_HP -42
+1
+Closest_Burrowed_Lurker Smaller 17 0 33
+1 Move_UpLeft -10
+7
+4
+0
+1 Attack_Closest 1
+5
+This_Energy Larger 176 288 33
+This_Weapon_Cooldown Smaller 1 288 39
+This_Weapon_Cooldown Smaller 1 32 33
+Total_Enemy_Type_Dist Smaller 15 160 33
+Total_Enemy_Dist Larger 18 320 39
+0 39 48
+4
+Total_Enemy_Dist Larger 49 224 33
+Total_Enemy_Down_Dist Smaller 38 224 39
+This_Energy Smaller 34 128 48
+Total_Enemy_Right_Dist Larger 34 64 39
+0 39 96
+2
+This_HP Smaller 125 256 48
+This_HP Larger 77 192 33
+1 Irradiate -78

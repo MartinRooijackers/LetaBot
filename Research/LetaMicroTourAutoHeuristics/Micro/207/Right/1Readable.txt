@@ -1,0 +1,65 @@
+4
+Terran Medic
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Up_Dist Smaller 32 224 Zerg Lurker
+This_Energy Larger 31 160 Zerg Zergling
+0 Zerg Mutalisk 25
+3
+Total_Enemy_Left_Dist Smaller 44 128 Zerg Zergling
+Total_Enemy_Type_Dist Larger 5 256 Zerg Zergling
+Closest_Burrowed_Lurker Larger 0 320 Zerg Zergling
+0 Zerg Zergling -18
+0
+1 Heal 61
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+1
+Closest_Burrowed_Lurker Smaller 38 192 Zerg Zergling
+1 Attack_Closest_Type -65
+4
+Total_Enemy_Left_Dist Smaller 24 96 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 22 224 Zerg Lurker
+Total_Enemy_Left_Dist Larger 10 64 Zerg Zergling
+Total_Enemy_Right_Dist Larger 38 352 Zerg Zergling
+1 Nothing -63
+0
+1 Flee 11
+Terran Science Vessel
+4
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Smaller 45 192 Zerg Lurker
+Total_Enemy_Down_Dist Larger 6 320 Zerg Mutalisk
+0 Zerg Zergling 68
+2
+Total_Enemy_Dist Smaller 49 32 Zerg Mutalisk
+Total_Enemy_Type_Dist Smaller 1 64 Zerg Mutalisk
+1 Irradiate -7
+0
+1 Move_DownRight -34
+Hero Edmund Duke Tank Mode
+4
+0
+1 Attack_Closest 1
+4
+This_Weapon_Cooldown Larger 33 192 Zerg Mutalisk
+Total_Enemy_Down_Dist Larger 18 96 Zerg Lurker
+This_HP Larger 68 64 Zerg Lurker
+Total_Friendly_Dist Smaller 21 224 Zerg Lurker
+1 Move_UpLeft 60
+5
+Total_Enemy_Left_Dist Larger 49 288 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 25 320 Zerg Zergling
+This_HP Larger 143 352 Zerg Zergling
+Total_Enemy_Down_Dist Larger 22 160 Zerg Mutalisk
+This_HP Smaller 208 128 Zerg Mutalisk
+1 Move_Up -86
+1
+Total_Enemy_Right_Dist Smaller 35 32 Zerg Mutalisk
+0 Zerg Lurker 48

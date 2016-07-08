@@ -1,0 +1,138 @@
+3
+Terran Science Vessel
+5
+2
+Total_Friendly_Dist Larger 40 32 Zerg Guardian
+Total_Friendly_Dist Larger 42 352 Zerg Guardian
+1 Attack_Closest 12
+1
+This_HP Smaller 102 96 Zerg Guardian
+1 Move_Up -26
+5
+This_Energy Larger 115 352 Zerg Scourge
+Total_Enemy_Dist Larger 5 256 Zerg Guardian
+Total_Enemy_Right_Dist Larger 19 192 Zerg Scourge
+Total_Enemy_Right_Dist Larger 15 32 Zerg Scourge
+Total_Enemy_Down_Dist Larger 32 128 Zerg Guardian
+0 Zerg Mutalisk -21
+4
+Total_Enemy_Down_Dist Smaller 26 192 Zerg Mutalisk
+Distance_Closest_Enemy Smaller 34 224 Zerg Scourge
+Total_Enemy_Up_Dist Smaller 16 352 Zerg Scourge
+Total_Enemy_Left_Dist Smaller 42 128 Zerg Mutalisk
+1 Move_Down 68
+3
+This_Weapon_Cooldown Smaller 1 256 Zerg Scourge
+Distance_Closest_Enemy Smaller 33 64 Zerg Guardian
+Total_Enemy_Left_Dist Larger 26 256 Zerg Guardian
+1 Attack_Closest -66
+Terran Medic
+13
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Larger 17 224 Zerg Mutalisk
+Total_Enemy_Down_Dist Smaller 33 128 Zerg Guardian
+1 Nothing -59
+4
+This_Energy Smaller 3 160 Zerg Mutalisk
+Total_Enemy_Down_Dist Larger 39 256 Zerg Guardian
+Total_Enemy_Up_Dist Smaller 43 224 Zerg Guardian
+Closest_Burrowed_Lurker Smaller 38 320 Zerg Guardian
+1 Attack_Move 49
+3
+Closest_Burrowed_Lurker Smaller 37 96 Zerg Guardian
+This_Weapon_Cooldown Larger 1 96 Zerg Guardian
+Distance_Closest_Enemy Larger 47 160 Zerg Scourge
+1 Attack_Lowest_HP 16
+3
+Closest_Burrowed_Lurker Larger 27 224 Zerg Scourge
+This_Energy Larger 8 128 Zerg Scourge
+This_Weapon_Cooldown Larger 1 160 Zerg Scourge
+1 Nothing -32
+4
+Total_Enemy_Type_Dist Larger 5 32 Zerg Mutalisk
+Distance_Closest_Enemy Smaller 24 160 Zerg Scourge
+This_Energy Smaller 23 256 Zerg Mutalisk
+Total_Enemy_Dist Larger 30 0 Zerg Mutalisk
+1 Move_UpRight -51
+5
+Total_Enemy_Type_Dist Larger 0 64 Zerg Mutalisk
+This_HP Larger 55 0 Zerg Mutalisk
+Total_Enemy_Up_Dist Larger 31 128 Zerg Scourge
+Closest_Burrowed_Lurker Smaller 17 192 Zerg Mutalisk
+This_Weapon_Cooldown Smaller 1 32 Zerg Mutalisk
+0 Zerg Scourge -53
+2
+Total_Enemy_Up_Dist Larger 5 160 Zerg Mutalisk
+This_HP Larger 31 288 Zerg Scourge
+1 Move_UpRight 83
+0
+1 Move_Up 48
+4
+This_HP Larger 46 320 Zerg Mutalisk
+This_Weapon_Cooldown Smaller 1 224 Zerg Mutalisk
+Total_Enemy_Type_Dist Larger 3 64 Zerg Guardian
+Distance_Closest_Enemy Larger 49 320 Zerg Scourge
+1 Flee -3
+2
+Closest_Burrowed_Lurker Larger 17 352 Zerg Scourge
+Total_Enemy_Left_Dist Smaller 11 32 Zerg Scourge
+1 Attack_Lowest_HP 78
+4
+This_Energy Smaller 182 352 Zerg Mutalisk
+Closest_Burrowed_Lurker Smaller 32 352 Zerg Scourge
+This_Weapon_Cooldown Smaller 1 256 Zerg Guardian
+Closest_Burrowed_Lurker Larger 10 288 Zerg Mutalisk
+1 Flee 48
+5
+Total_Friendly_Dist Smaller 7 128 Zerg Guardian
+Total_Enemy_Dist Smaller 37 320 Zerg Guardian
+Total_Enemy_Down_Dist Smaller 34 128 Zerg Mutalisk
+This_Energy Smaller 151 320 Zerg Guardian
+Total_Enemy_Right_Dist Smaller 44 320 Zerg Mutalisk
+1 Attack_Closest -91
+Hero Jim Raynor Marine
+9
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Smaller 3 352 Zerg Scourge
+Total_Enemy_Type_Dist Larger 3 64 Zerg Guardian
+1 Nothing -37
+3
+Total_Friendly_Dist Larger 36 96 Zerg Mutalisk
+Total_Enemy_Left_Dist Larger 5 32 Zerg Guardian
+Total_Enemy_Down_Dist Larger 14 96 Zerg Guardian
+1 Attack_Closest_Type 59
+5
+Total_Enemy_Dist Larger 22 0 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 2 96 Zerg Scourge
+Total_Enemy_Left_Dist Smaller 23 0 Zerg Mutalisk
+Total_Enemy_Left_Dist Smaller 11 224 Zerg Guardian
+Total_Enemy_Right_Dist Smaller 42 256 Zerg Guardian
+1 Attack_Lowest_HP -5
+2
+Total_Enemy_Up_Dist Smaller 0 256 Zerg Scourge
+Total_Enemy_Left_Dist Smaller 21 224 Zerg Scourge
+1 Move_Down -9
+5
+Total_Enemy_Left_Dist Smaller 45 0 Zerg Mutalisk
+Total_Enemy_Right_Dist Larger 8 96 Zerg Scourge
+Total_Enemy_Left_Dist Larger 44 128 Zerg Guardian
+This_HP Larger 138 96 Zerg Scourge
+Closest_Burrowed_Lurker Larger 39 96 Zerg Scourge
+1 Patrol 32
+2
+This_HP Smaller 115 352 Zerg Scourge
+Total_Enemy_Up_Dist Larger 40 64 Zerg Mutalisk
+1 Attack_Closest_Type -29
+0
+1 StimPack 78
+5
+This_Weapon_Cooldown Smaller 14 0 Zerg Guardian
+Total_Enemy_Dist Larger 37 224 Zerg Mutalisk
+Total_Friendly_Dist Smaller 7 192 Zerg Mutalisk
+Total_Enemy_Right_Dist Larger 39 256 Zerg Guardian
+Total_Enemy_Dist Smaller 33 224 Zerg Scourge
+1 Move_Right -53

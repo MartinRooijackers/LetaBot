@@ -1,0 +1,5 @@
+1
+Terran Valkyrie
+1
+0
+1 Attack_Closest 1

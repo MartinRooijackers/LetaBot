@@ -1,0 +1,72 @@
+4
+Hero Devouring One
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Smaller 11 64 Terran Medic
+This_Weapon_Cooldown Larger 4 224 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 39 96 Terran Science Vessel
+Total_Enemy_Dist Smaller 1 320 Terran Science Vessel
+0 Terran Science Vessel -34
+2
+Total_Enemy_Right_Dist Smaller 3 352 Terran Medic
+Total_Friendly_Dist Smaller 33 64 Hero Jim Raynor Marine
+1 Attack_Closest 6
+3
+Total_Enemy_Dist Larger 42 128 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Smaller 44 224 Terran Science Vessel
+Total_Enemy_Up_Dist Larger 42 64 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine 53
+Zerg Queen
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Larger 42 64 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Smaller 30 0 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 27 128 Terran Science Vessel
+This_Energy Smaller 110 256 Terran Science Vessel
+This_Energy Smaller 147 0 Terran Medic
+1 Move_Down -83
+2
+This_Weapon_Cooldown Smaller 1 64 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Smaller 18 64 Terran Medic
+1 Attack_Lowest_HP_Type -62
+4
+This_Energy Smaller 112 192 Terran Medic
+This_Energy Larger 29 288 Hero Jim Raynor Marine
+This_Weapon_Cooldown Smaller 1 192 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Larger 2 96 Terran Science Vessel
+1 Flee -65
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+0
+0 Terran Science Vessel -50
+0
+1 Attack_Lowest_HP_Type 17
+0
+0 Terran Science Vessel -62
+Zerg Defiler
+4
+0
+1 Attack_Closest 1
+5
+Closest_Burrowed_Lurker Larger 9 128 Terran Science Vessel
+This_Energy Smaller 31 32 Hero Jim Raynor Marine
+This_Weapon_Cooldown Larger 1 224 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 8 128 Terran Science Vessel
+Total_Enemy_Left_Dist Smaller 45 160 Terran Science Vessel
+1 Attack_Lowest_HP 5
+5
+Total_Enemy_Left_Dist Smaller 43 128 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Smaller 28 352 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Larger 45 224 Hero Jim Raynor Marine
+This_Weapon_Cooldown Larger 1 32 Terran Science Vessel
+Total_Friendly_Dist Smaller 41 96 Terran Science Vessel
+1 Patrol 52
+1
+This_Weapon_Cooldown Smaller 1 288 Hero Jim Raynor Marine
+1 Consume -93

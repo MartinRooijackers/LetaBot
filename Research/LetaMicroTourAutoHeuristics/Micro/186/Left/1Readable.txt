@@ -1,0 +1,17 @@
+1
+Hero Hunter Killer
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Dist Larger 47 96 Protoss Observer
+This_Weapon_Cooldown Larger 0 256 Hero Edmund Duke Tank Mode
+Total_Enemy_Type_Dist Larger 9 256 Hero Edmund Duke Tank Mode
+0 Hero Edmund Duke Tank Mode -30
+3
+Total_Friendly_Dist Smaller 4 96 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Smaller 3 192 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 8 224 Hero Edmund Duke Tank Mode
+0 Hero Jim Raynor Marine 42
+0
+1 Nothing 8

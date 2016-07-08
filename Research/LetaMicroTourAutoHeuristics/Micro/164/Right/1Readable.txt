@@ -1,0 +1,68 @@
+4
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+0
+1 Move_UpLeft -86
+1
+Distance_Closest_Enemy Smaller 36 320 Zerg Ultralisk
+1 Move_Down -90
+1
+This_Weapon_Cooldown Smaller 1 256 Hero Devouring One
+1 Move_Right 73
+Hero Fenix Zealot
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Left_Dist Larger 1 128 Hero Hunter Killer
+This_Weapon_Cooldown Larger 1 128 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 46 256 Zerg Ultralisk
+Total_Enemy_Dist Smaller 6 352 Hero Hunter Killer
+1 Move_Right 8
+5
+This_Weapon_Cooldown Larger 0 288 Zerg Ultralisk
+Distance_Closest_Enemy Larger 47 192 Hero Devouring One
+Total_Enemy_Type_Dist Larger 1 288 Zerg Ultralisk
+This_Weapon_Cooldown Larger 21 320 Hero Hunter Killer
+Total_Friendly_Dist Larger 21 160 Zerg Ultralisk
+1 Attack_Lowest_HP 91
+0
+0 Zerg Ultralisk -40
+Protoss High Templar
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Smaller 33 64 Hero Devouring One
+Total_Enemy_Left_Dist Larger 43 96 Hero Devouring One
+Total_Enemy_Down_Dist Smaller 24 256 Hero Devouring One
+Distance_Closest_Enemy Larger 37 192 Hero Hunter Killer
+1 Move_Down 1
+3
+Total_Enemy_Left_Dist Larger 25 96 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 13 64 Hero Devouring One
+Distance_Closest_Enemy Larger 37 224 Zerg Ultralisk
+1 Flee 98
+2
+Closest_Burrowed_Lurker Smaller 2 160 Hero Hunter Killer
+This_HP Smaller 26 320 Zerg Ultralisk
+1 Move_Down 49
+Protoss Archon
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Down_Dist Larger 12 0 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 12 224 Zerg Ultralisk
+Total_Enemy_Down_Dist Larger 6 0 Hero Hunter Killer
+Total_Enemy_Dist Larger 31 224 Hero Devouring One
+1 Move_DownRight -99
+0
+0 Hero Devouring One -28
+3
+Total_Enemy_Dist Smaller 34 352 Hero Hunter Killer
+Total_Friendly_Dist Smaller 22 320 Zerg Ultralisk
+Total_Enemy_Up_Dist Smaller 17 160 Hero Hunter Killer
+1 Attack_Closest 39

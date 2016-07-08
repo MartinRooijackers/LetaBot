@@ -1,0 +1,21 @@
+5
+Zerg Lurker
+1
+0
+1 Attack_Closest 1
+Zerg Mutalisk
+1
+0
+1 Attack_Closest 1
+Zerg Queen
+1
+0
+1 Attack_Closest 1
+Zerg Scourge
+1
+0
+1 Attack_Closest 1
+Zerg Zergling
+1
+0
+1 Attack_Closest 1

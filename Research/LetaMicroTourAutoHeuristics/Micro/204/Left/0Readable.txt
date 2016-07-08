@@ -1,0 +1,9 @@
+2
+Terran Medic
+1
+0
+1 Attack_Closest 1
+Hero Jim Raynor Marine
+1
+0
+1 Attack_Closest 1

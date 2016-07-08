@@ -1,0 +1,119 @@
+3
+Hero Jim Raynor Marine
+10
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Dist Smaller 26 256 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 35 192 Zerg Lurker
+Total_Friendly_Dist Smaller 20 192 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 23 224 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 38 64 Hero Hunter Killer
+1 Flee -86
+2
+Total_Enemy_Dist Larger 20 288 Zerg Lurker
+Total_Enemy_Down_Dist Larger 4 32 Hero Hunter Killer
+1 Nothing -51
+2
+Total_Enemy_Left_Dist Smaller 23 32 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 0 96 Zerg Lurker
+1 Attack_Closest_Type -33
+4
+This_Weapon_Cooldown Larger 12 192 Zerg Lurker
+Total_Enemy_Right_Dist Larger 41 32 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 14 224 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 30 352 Zerg Lurker
+1 Flee -13
+3
+This_Weapon_Cooldown Larger 9 160 Zerg Lurker
+Closest_Burrowed_Lurker Smaller 3 224 Zerg Lurker
+This_HP Smaller 170 32 Hero Hunter Killer
+0 Hero Hunter Killer 14
+2
+Total_Enemy_Right_Dist Larger 48 64 Hero Hunter Killer
+Distance_Closest_Enemy Larger 19 128 Hero Hunter Killer
+1 Attack_Lowest_HP -83
+5
+This_Weapon_Cooldown Larger 11 160 Zerg Lurker
+This_Weapon_Cooldown Smaller 9 256 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 40 128 Zerg Lurker
+This_HP Smaller 135 160 Hero Hunter Killer
+Distance_Closest_Enemy Larger 35 32 Hero Hunter Killer
+0 Hero Hunter Killer -54
+3
+Total_Enemy_Left_Dist Smaller 32 0 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 4 192 Zerg Lurker
+Total_Enemy_Type_Dist Smaller 17 64 Zerg Lurker
+1 Attack_Closest_Type -81
+2
+Total_Enemy_Up_Dist Smaller 8 160 Hero Hunter Killer
+Total_Friendly_Dist Larger 23 352 Hero Hunter Killer
+1 Move_DownLeft 63
+Terran Medic
+6
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Dist Larger 39 160 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 4 256 Hero Hunter Killer
+0 Zerg Lurker 26
+5
+Total_Enemy_Left_Dist Smaller 34 128 Hero Hunter Killer
+This_Energy Smaller 115 32 Zerg Lurker
+Total_Enemy_Dist Larger 12 64 Zerg Lurker
+This_Energy Larger 54 64 Hero Hunter Killer
+This_HP Smaller 11 32 Zerg Lurker
+1 Patrol -53
+4
+Total_Enemy_Up_Dist Larger 2 128 Zerg Lurker
+Total_Enemy_Dist Smaller 40 160 Hero Hunter Killer
+Total_Enemy_Dist Larger 7 64 Zerg Lurker
+Total_Enemy_Left_Dist Larger 1 224 Zerg Lurker
+0 Hero Hunter Killer -30
+0
+1 Heal -33
+5
+This_Energy Smaller 29 160 Zerg Lurker
+This_HP Larger 41 32 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 46 0 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 2 128 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 6 64 Zerg Lurker
+1 Move_UpRight -35
+Terran Science Vessel
+10
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Type_Dist Larger 7 352 Hero Hunter Killer
+1 Move_Up -44
+2
+Total_Friendly_Dist Larger 37 128 Zerg Lurker
+Total_Enemy_Right_Dist Larger 20 96 Zerg Lurker
+1 Attack_Move -37
+0
+1 Move_Right 24
+0
+1 Move_Up -39
+4
+Total_Enemy_Down_Dist Larger 12 160 Hero Hunter Killer
+Total_Friendly_Dist Smaller 6 192 Hero Hunter Killer
+Total_Enemy_Right_Dist Larger 21 256 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 24 320 Zerg Lurker
+1 EMP 11
+5
+This_Weapon_Cooldown Larger 1 288 Zerg Lurker
+This_HP Larger 150 64 Hero Hunter Killer
+Total_Friendly_Dist Larger 42 0 Hero Hunter Killer
+Total_Enemy_Dist Smaller 33 224 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 33 96 Hero Hunter Killer
+1 Move_UpLeft 8
+0
+0 Zerg Lurker -64
+0
+0 Hero Hunter Killer 45
+4
+Total_Enemy_Left_Dist Larger 26 32 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 42 320 Zerg Lurker
+This_Energy Larger 151 224 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 12 96 Zerg Lurker
+1 Attack_Closest -51

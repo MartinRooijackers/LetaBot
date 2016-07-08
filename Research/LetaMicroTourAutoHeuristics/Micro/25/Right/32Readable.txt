@@ -1,0 +1,345 @@
+3
+Protoss Observer
+15
+0
+1 Attack_Closest 1
+5
+This_HP Smaller 3 192 Zerg Defiler
+Total_Enemy_Dist Larger 27 128 Zerg Defiler
+Total_Enemy_Down_Dist Smaller 23 64 Zerg Defiler
+Total_Enemy_Right_Dist Larger 10 32 Zerg Defiler
+Total_Enemy_Right_Dist Smaller 7 96 Zerg Defiler
+1 Attack_Closest_Type -46
+4
+Total_Enemy_Down_Dist Smaller 38 352 Zerg Queen
+This_HP Larger 26 224 Zerg Defiler
+This_Weapon_Cooldown Smaller 1 192 Zerg Queen
+Distance_Closest_Enemy Smaller 40 160 Zerg Defiler
+1 Move_DownLeft -58
+2
+Total_Enemy_Right_Dist Larger 42 32 Zerg Queen
+Total_Enemy_Down_Dist Smaller 6 160 Zerg Queen
+1 Attack_Move 82
+0
+1 Nothing -64
+5
+Total_Enemy_Right_Dist Larger 36 256 Zerg Queen
+This_Weapon_Cooldown Larger 1 0 Zerg Queen
+Total_Enemy_Left_Dist Smaller 45 96 Zerg Queen
+Total_Enemy_Type_Dist Smaller 8 160 Zerg Queen
+Total_Enemy_Type_Dist Smaller 19 352 Zerg Defiler
+1 Nothing -31
+2
+Total_Enemy_Right_Dist Larger 45 320 Hero Devouring One
+This_Weapon_Cooldown Larger 1 256 Hero Devouring One
+1 Attack_Closest 74
+4
+Total_Friendly_Dist Smaller 10 96 Zerg Queen
+Total_Enemy_Type_Dist Larger 9 352 Zerg Defiler
+This_Weapon_Cooldown Smaller 1 160 Hero Devouring One
+Distance_Closest_Enemy Smaller 33 96 Hero Devouring One
+1 Attack_Closest 83
+5
+Total_Enemy_Down_Dist Larger 25 192 Zerg Defiler
+Total_Friendly_Dist Larger 8 224 Zerg Queen
+Total_Enemy_Dist Larger 25 96 Hero Devouring One
+Total_Enemy_Right_Dist Larger 20 320 Hero Devouring One
+Total_Friendly_Dist Smaller 41 224 Zerg Queen
+0 Hero Devouring One -38
+1
+This_HP Larger 33 128 Hero Devouring One
+0 Zerg Defiler 54
+2
+Total_Enemy_Left_Dist Smaller 2 160 Hero Devouring One
+Total_Enemy_Right_Dist Smaller 39 224 Hero Devouring One
+1 Nothing -90
+0
+1 Nothing 2
+5
+Total_Enemy_Down_Dist Smaller 25 256 Zerg Queen
+Distance_Closest_Enemy Smaller 15 160 Zerg Defiler
+Total_Friendly_Dist Larger 41 224 Zerg Queen
+This_HP Larger 2 256 Zerg Defiler
+Total_Enemy_Left_Dist Smaller 23 64 Hero Devouring One
+1 Move_UpLeft -15
+2
+This_Weapon_Cooldown Larger 1 320 Zerg Queen
+Total_Enemy_Down_Dist Smaller 4 96 Zerg Defiler
+0 Hero Devouring One -95
+3
+Total_Enemy_Right_Dist Smaller 3 32 Zerg Queen
+Total_Enemy_Right_Dist Larger 27 96 Zerg Defiler
+Distance_Closest_Enemy Smaller 26 128 Zerg Defiler
+1 Move_DownLeft 48
+Terran Medic
+31
+0
+1 Attack_Closest 1
+1
+This_Weapon_Cooldown Smaller 1 192 Hero Devouring One
+1 Attack_Closest_Type -38
+1
+Total_Enemy_Type_Dist Larger 15 192 Hero Devouring One
+1 Move_DownLeft 92
+5
+Distance_Closest_Enemy Larger 27 64 Zerg Defiler
+Total_Enemy_Down_Dist Smaller 23 288 Zerg Queen
+Total_Friendly_Dist Larger 32 192 Zerg Defiler
+This_Energy Larger 106 192 Zerg Defiler
+Total_Friendly_Dist Smaller 35 96 Hero Devouring One
+1 Move_DownRight 57
+2
+Total_Enemy_Left_Dist Larger 2 256 Zerg Defiler
+Total_Enemy_Dist Larger 33 0 Zerg Defiler
+1 Move_Right -93
+3
+Total_Enemy_Type_Dist Larger 1 192 Zerg Queen
+This_Energy Smaller 42 224 Zerg Queen
+Total_Enemy_Right_Dist Smaller 16 64 Zerg Defiler
+1 Nothing 8
+4
+This_Weapon_Cooldown Smaller 1 320 Zerg Defiler
+Total_Enemy_Dist Smaller 16 192 Hero Devouring One
+This_HP Smaller 8 288 Zerg Defiler
+Total_Friendly_Dist Smaller 21 192 Hero Devouring One
+1 Attack_Closest -86
+2
+Total_Friendly_Dist Larger 23 192 Hero Devouring One
+Closest_Burrowed_Lurker Smaller 24 224 Zerg Defiler
+0 Hero Devouring One 56
+5
+Total_Enemy_Up_Dist Smaller 3 160 Hero Devouring One
+This_Energy Smaller 184 32 Zerg Queen
+Total_Enemy_Right_Dist Smaller 44 160 Zerg Queen
+Total_Enemy_Down_Dist Smaller 49 96 Zerg Queen
+This_Weapon_Cooldown Smaller 1 352 Zerg Queen
+1 Attack_Closest_Type 61
+3
+Total_Enemy_Dist Larger 1 224 Hero Devouring One
+Closest_Burrowed_Lurker Larger 21 352 Zerg Queen
+Distance_Closest_Enemy Smaller 31 0 Zerg Defiler
+1 Attack_Lowest_HP 38
+5
+Distance_Closest_Enemy Smaller 20 64 Zerg Queen
+This_Weapon_Cooldown Larger 1 192 Zerg Defiler
+Total_Friendly_Dist Smaller 24 224 Hero Devouring One
+This_Weapon_Cooldown Larger 1 64 Zerg Defiler
+This_Weapon_Cooldown Smaller 1 320 Hero Devouring One
+1 Attack_Move -37
+1
+Closest_Burrowed_Lurker Larger 49 96 Zerg Queen
+1 Attack_Closest -48
+0
+1 Attack_Lowest_HP 53
+1
+This_Energy Smaller 74 160 Zerg Defiler
+0 Zerg Defiler -86
+3
+Total_Friendly_Dist Larger 36 64 Hero Devouring One
+Closest_Burrowed_Lurker Smaller 23 256 Hero Devouring One
+Total_Enemy_Right_Dist Larger 1 0 Zerg Queen
+1 Move_Up 97
+3
+Total_Enemy_Type_Dist Smaller 1 32 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 49 32 Zerg Queen
+Total_Enemy_Down_Dist Larger 48 192 Zerg Defiler
+1 Attack_Move 60
+0
+0 Hero Devouring One -73
+5
+Distance_Closest_Enemy Smaller 41 96 Zerg Defiler
+Total_Enemy_Dist Smaller 36 224 Zerg Queen
+This_Energy Larger 91 256 Zerg Queen
+This_Weapon_Cooldown Larger 1 128 Zerg Defiler
+Total_Enemy_Type_Dist Larger 0 288 Hero Devouring One
+1 Heal -51
+3
+Total_Enemy_Type_Dist Larger 17 192 Hero Devouring One
+Distance_Closest_Enemy Smaller 44 160 Zerg Defiler
+Distance_Closest_Enemy Smaller 49 160 Zerg Defiler
+1 Move_Down -82
+4
+Total_Enemy_Up_Dist Smaller 20 352 Zerg Defiler
+This_Energy Smaller 160 320 Zerg Defiler
+Total_Enemy_Dist Smaller 38 320 Zerg Queen
+Total_Enemy_Down_Dist Smaller 13 320 Hero Devouring One
+1 Heal 57
+2
+This_HP Larger 34 64 Zerg Defiler
+Distance_Closest_Enemy Larger 28 160 Zerg Queen
+1 Nothing 70
+5
+Total_Enemy_Up_Dist Smaller 0 288 Zerg Queen
+This_Energy Larger 69 0 Zerg Defiler
+Total_Enemy_Left_Dist Smaller 32 32 Zerg Defiler
+Closest_Burrowed_Lurker Larger 29 64 Zerg Defiler
+Total_Enemy_Down_Dist Smaller 17 288 Zerg Queen
+1 Move_Up 44
+1
+Total_Friendly_Dist Smaller 34 128 Zerg Defiler
+1 Attack_Closest -76
+3
+Closest_Burrowed_Lurker Larger 49 224 Hero Devouring One
+Distance_Closest_Enemy Smaller 1 96 Hero Devouring One
+This_Energy Smaller 192 160 Zerg Defiler
+0 Zerg Queen 32
+0
+1 Heal 75
+4
+Closest_Burrowed_Lurker Smaller 37 64 Hero Devouring One
+Distance_Closest_Enemy Larger 4 64 Zerg Queen
+Closest_Burrowed_Lurker Larger 3 96 Zerg Defiler
+Total_Enemy_Dist Larger 16 320 Zerg Defiler
+0 Zerg Defiler 57
+3
+Total_Enemy_Left_Dist Larger 16 64 Hero Devouring One
+This_HP Smaller 26 256 Hero Devouring One
+Total_Enemy_Down_Dist Larger 5 352 Hero Devouring One
+1 Heal 9
+0
+1 Move_Right 59
+1
+Total_Enemy_Down_Dist Larger 20 64 Zerg Defiler
+0 Zerg Queen -20
+4
+Total_Enemy_Up_Dist Larger 26 64 Hero Devouring One
+Total_Enemy_Left_Dist Larger 10 224 Zerg Defiler
+Total_Enemy_Type_Dist Smaller 18 320 Zerg Queen
+Total_Enemy_Right_Dist Smaller 43 160 Zerg Defiler
+1 Attack_Move 52
+2
+Total_Enemy_Right_Dist Larger 24 64 Hero Devouring One
+This_Weapon_Cooldown Smaller 18 128 Zerg Defiler
+1 Attack_Lowest_HP -98
+Hero Jim Raynor Marine
+27
+4
+Total_Enemy_Right_Dist Larger 13 256 Hero Devouring One
+Total_Enemy_Dist Larger 7 160 Hero Devouring One
+Total_Enemy_Right_Dist Larger 2 160 Hero Devouring One
+Total_Enemy_Right_Dist Larger 40 352 Hero Devouring One
+0 Zerg Defiler 24
+3
+This_HP Smaller 103 288 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 35 352 Hero Devouring One
+This_HP Larger 157 320 Zerg Queen
+1 Attack_Closest_Type 23
+3
+This_HP Larger 68 160 Zerg Defiler
+Closest_Burrowed_Lurker Larger 3 352 Hero Devouring One
+Total_Enemy_Left_Dist Smaller 0 128 Hero Devouring One
+1 Nothing 70
+5
+This_Weapon_Cooldown Larger 3 96 Zerg Queen
+Total_Enemy_Right_Dist Smaller 6 224 Zerg Queen
+Total_Friendly_Dist Smaller 33 32 Zerg Queen
+Total_Enemy_Left_Dist Smaller 4 256 Zerg Queen
+Total_Enemy_Left_Dist Smaller 35 128 Zerg Queen
+0 Zerg Queen -69
+0
+0 Hero Devouring One 59
+5
+Total_Enemy_Up_Dist Larger 46 352 Hero Devouring One
+Total_Enemy_Dist Larger 10 256 Zerg Defiler
+This_Weapon_Cooldown Smaller 1 256 Zerg Queen
+Total_Enemy_Left_Dist Larger 39 32 Zerg Defiler
+This_HP Smaller 148 64 Hero Devouring One
+1 Attack_Closest_Type -29
+4
+Total_Enemy_Right_Dist Smaller 36 256 Zerg Defiler
+Total_Enemy_Left_Dist Larger 24 128 Zerg Defiler
+Total_Enemy_Down_Dist Smaller 6 320 Zerg Defiler
+Total_Friendly_Dist Larger 48 256 Zerg Defiler
+1 Attack_Closest_Type 47
+4
+Total_Enemy_Right_Dist Smaller 44 352 Zerg Defiler
+Distance_Closest_Enemy Larger 20 320 Zerg Defiler
+Total_Enemy_Up_Dist Smaller 37 224 Zerg Defiler
+Total_Enemy_Right_Dist Larger 17 32 Zerg Queen
+1 Attack_Move 33
+5
+Closest_Burrowed_Lurker Larger 29 352 Zerg Queen
+Total_Enemy_Up_Dist Smaller 48 256 Zerg Queen
+Total_Enemy_Type_Dist Larger 4 96 Hero Devouring One
+This_Weapon_Cooldown Larger 6 192 Zerg Queen
+Total_Enemy_Left_Dist Larger 0 160 Zerg Queen
+1 Attack_Closest_Type 85
+2
+Closest_Burrowed_Lurker Larger 2 320 Hero Devouring One
+Distance_Closest_Enemy Larger 11 192 Zerg Defiler
+1 Move_DownRight 87
+4
+Total_Enemy_Left_Dist Smaller 22 224 Zerg Queen
+Total_Enemy_Type_Dist Smaller 15 0 Zerg Defiler
+Total_Enemy_Right_Dist Smaller 28 160 Hero Devouring One
+Total_Enemy_Dist Larger 7 256 Zerg Queen
+1 Move_UpLeft -61
+1
+Total_Enemy_Type_Dist Larger 14 32 Zerg Defiler
+1 Attack_Move -35
+5
+Total_Enemy_Left_Dist Larger 23 288 Hero Devouring One
+Total_Enemy_Dist Smaller 31 256 Zerg Defiler
+Distance_Closest_Enemy Larger 32 256 Zerg Queen
+Total_Enemy_Right_Dist Smaller 39 352 Zerg Queen
+This_Weapon_Cooldown Larger 14 256 Zerg Queen
+1 Nothing -58
+2
+Total_Enemy_Dist Smaller 29 96 Hero Devouring One
+Total_Enemy_Dist Smaller 39 96 Hero Devouring One
+1 Move_UpRight -3
+1
+This_Weapon_Cooldown Smaller 5 320 Zerg Queen
+1 Nothing 72
+3
+This_HP Smaller 146 288 Hero Devouring One
+Total_Friendly_Dist Larger 47 32 Zerg Defiler
+This_HP Smaller 163 256 Zerg Queen
+1 Move_Down -91
+3
+Total_Enemy_Right_Dist Larger 13 160 Zerg Defiler
+Total_Enemy_Type_Dist Smaller 6 0 Zerg Defiler
+Total_Enemy_Type_Dist Smaller 12 352 Zerg Defiler
+1 Attack_Lowest_HP 15
+2
+This_HP Larger 182 288 Zerg Queen
+Total_Friendly_Dist Larger 30 192 Hero Devouring One
+1 Nothing 68
+4
+Total_Enemy_Down_Dist Smaller 8 32 Hero Devouring One
+Total_Friendly_Dist Larger 12 96 Hero Devouring One
+Total_Enemy_Up_Dist Smaller 39 32 Zerg Queen
+Total_Enemy_Up_Dist Larger 44 288 Zerg Queen
+1 Patrol -33
+3
+Total_Enemy_Up_Dist Larger 30 224 Hero Devouring One
+This_HP Smaller 176 160 Zerg Defiler
+Closest_Burrowed_Lurker Larger 46 128 Zerg Defiler
+1 Attack_Move 79
+3
+Total_Enemy_Up_Dist Larger 16 192 Hero Devouring One
+This_HP Smaller 199 64 Zerg Queen
+Total_Enemy_Left_Dist Larger 49 0 Zerg Defiler
+1 Move_Up -41
+2
+Distance_Closest_Enemy Smaller 18 64 Zerg Queen
+Total_Enemy_Down_Dist Smaller 8 320 Hero Devouring One
+1 Flee -97
+1
+Distance_Closest_Enemy Larger 33 192 Hero Devouring One
+0 Zerg Defiler -53
+0
+1 Patrol -18
+2
+Total_Friendly_Dist Larger 13 96 Zerg Queen
+Total_Enemy_Left_Dist Smaller 8 128 Zerg Defiler
+1 Attack_Closest_Type 41
+1
+Total_Enemy_Type_Dist Smaller 5 320 Hero Devouring One
+1 Move_UpRight 32
+4
+Total_Enemy_Right_Dist Larger 34 224 Hero Devouring One
+Total_Enemy_Dist Larger 44 320 Zerg Queen
+Total_Enemy_Up_Dist Smaller 44 128 Zerg Defiler
+Total_Enemy_Down_Dist Smaller 29 160 Zerg Defiler
+1 Nothing 81

@@ -1,0 +1,71 @@
+3
+Terran Medic
+7
+0
+1 Attack_Closest 1
+4
+This_Energy Smaller 186 0 Zerg Zergling
+Total_Enemy_Up_Dist Larger 32 128 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 29 0 Zerg Zergling
+Total_Enemy_Left_Dist Larger 38 96 Zerg Zergling
+1 Attack_Closest_Type 24
+5
+This_Energy Larger 152 352 Zerg Zergling
+Distance_Closest_Enemy Smaller 27 320 Zerg Zergling
+This_Weapon_Cooldown Larger 1 64 Zerg Zergling
+This_Energy Larger 56 288 Zerg Zergling
+Distance_Closest_Enemy Smaller 43 96 Zerg Zergling
+1 Patrol -32
+0
+1 Attack_Closest_Type 0
+2
+This_HP Larger 54 128 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 1 320 Zerg Zergling
+1 Patrol 96
+3
+Total_Friendly_Dist Larger 1 320 Zerg Zergling
+This_HP Larger 20 0 Zerg Zergling
+Total_Enemy_Down_Dist Larger 46 0 Zerg Zergling
+0 Zerg Zergling 3
+1
+Total_Enemy_Dist Larger 4 224 Zerg Zergling
+1 Move_Up 67
+Protoss Observer
+7
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Larger 27 192 Zerg Zergling
+0 Zerg Zergling 87
+2
+Closest_Burrowed_Lurker Smaller 47 320 Zerg Zergling
+Total_Enemy_Down_Dist Larger 0 0 Zerg Zergling
+1 Attack_Move -43
+0
+0 Zerg Zergling -56
+3
+Distance_Closest_Enemy Larger 12 288 Zerg Zergling
+Total_Enemy_Down_Dist Larger 46 160 Zerg Zergling
+Total_Friendly_Dist Smaller 23 224 Zerg Zergling
+1 Patrol 63
+1
+This_Weapon_Cooldown Smaller 1 192 Zerg Zergling
+1 Move_UpRight -42
+4
+Total_Enemy_Left_Dist Smaller 30 256 Zerg Zergling
+Total_Enemy_Type_Dist Larger 7 64 Zerg Zergling
+Total_Enemy_Dist Smaller 42 0 Zerg Zergling
+Distance_Closest_Enemy Larger 36 224 Zerg Zergling
+1 Move_Up 43
+Hero Gui Montag
+3
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Right_Dist Smaller 43 320 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 25 96 Zerg Zergling
+1 Attack_Lowest_HP -47
+2
+Distance_Closest_Enemy Larger 45 160 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 8 256 Zerg Zergling
+1 Attack_Closest -28

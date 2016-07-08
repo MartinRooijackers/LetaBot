@@ -1,0 +1,33 @@
+2
+41
+4
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Smaller 6 160 52
+Total_Enemy_Type_Dist Larger 3 32 52
+1 Patrol -42
+4
+Total_Enemy_Left_Dist Smaller 31 0 52
+Total_Enemy_Down_Dist Larger 15 128 52
+This_Weapon_Cooldown Smaller 0 224 52
+Total_Friendly_Dist Smaller 10 64 52
+0 52 -67
+0
+1 Attack_Closest_Type 88
+37
+4
+0
+1 Attack_Closest 1
+0
+1 Move_UpRight 2
+3
+This_Weapon_Cooldown Larger 29 352 52
+Distance_Closest_Enemy Larger 39 0 52
+Closest_Burrowed_Lurker Smaller 33 352 52
+0 52 74
+3
+Total_Enemy_Down_Dist Smaller 26 128 52
+Closest_Burrowed_Lurker Smaller 45 224 52
+Distance_Closest_Enemy Smaller 44 96 52
+1 Patrol 2

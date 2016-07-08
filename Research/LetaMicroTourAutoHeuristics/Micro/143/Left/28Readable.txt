@@ -1,0 +1,140 @@
+2
+Zerg Mutalisk
+15
+0
+1 Attack_Closest 1
+4
+This_HP Larger 111 288 Terran Valkyrie
+This_HP Larger 26 352 Terran Valkyrie
+Total_Enemy_Dist Smaller 1 192 Terran Valkyrie
+Total_Enemy_Dist Larger 19 256 Terran Valkyrie
+0 Terran Valkyrie -42
+0
+1 Nothing -61
+0
+1 Attack_Closest_Type -72
+4
+Total_Enemy_Right_Dist Larger 7 288 Terran Valkyrie
+Total_Enemy_Right_Dist Smaller 30 256 Terran Valkyrie
+Closest_Burrowed_Lurker Larger 43 96 Terran Valkyrie
+Total_Enemy_Right_Dist Larger 2 128 Terran Valkyrie
+1 Nothing 88
+4
+Total_Enemy_Type_Dist Smaller 19 160 Terran Valkyrie
+Total_Enemy_Down_Dist Larger 15 128 Terran Valkyrie
+This_HP Smaller 85 320 Terran Valkyrie
+Distance_Closest_Enemy Larger 49 320 Terran Valkyrie
+1 Move_Up -16
+1
+Total_Enemy_Right_Dist Larger 4 128 Terran Valkyrie
+1 Attack_Closest_Type 68
+1
+Distance_Closest_Enemy Larger 24 224 Terran Valkyrie
+1 Move_DownLeft -76
+4
+This_Weapon_Cooldown Larger 17 64 Terran Valkyrie
+Total_Enemy_Type_Dist Larger 6 288 Terran Valkyrie
+Total_Friendly_Dist Smaller 5 128 Terran Valkyrie
+Total_Enemy_Left_Dist Larger 47 96 Terran Valkyrie
+0 Terran Valkyrie 30
+1
+Total_Enemy_Left_Dist Larger 49 160 Terran Valkyrie
+1 Attack_Move -32
+4
+Total_Enemy_Dist Larger 18 64 Terran Valkyrie
+Total_Enemy_Down_Dist Larger 28 128 Terran Valkyrie
+Total_Enemy_Right_Dist Smaller 4 192 Terran Valkyrie
+Total_Enemy_Dist Smaller 11 160 Terran Valkyrie
+0 Terran Valkyrie -45
+3
+Total_Enemy_Type_Dist Larger 16 192 Terran Valkyrie
+Total_Friendly_Dist Smaller 0 192 Terran Valkyrie
+Distance_Closest_Enemy Larger 13 96 Terran Valkyrie
+1 Patrol 71
+4
+Total_Enemy_Type_Dist Smaller 19 224 Terran Valkyrie
+Total_Enemy_Dist Larger 2 192 Terran Valkyrie
+Closest_Burrowed_Lurker Larger 4 32 Terran Valkyrie
+Total_Friendly_Dist Smaller 33 256 Terran Valkyrie
+1 Attack_Lowest_HP -50
+4
+This_HP Larger 18 32 Terran Valkyrie
+This_HP Smaller 75 160 Terran Valkyrie
+Total_Friendly_Dist Larger 47 64 Terran Valkyrie
+Total_Enemy_Up_Dist Larger 38 64 Terran Valkyrie
+0 Terran Valkyrie 92
+5
+Closest_Burrowed_Lurker Smaller 43 128 Terran Valkyrie
+Closest_Burrowed_Lurker Larger 37 160 Terran Valkyrie
+Total_Enemy_Left_Dist Larger 34 0 Terran Valkyrie
+This_HP Larger 80 224 Terran Valkyrie
+This_Weapon_Cooldown Smaller 13 192 Terran Valkyrie
+0 Terran Valkyrie -45
+Zerg Scourge
+15
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Down_Dist Smaller 12 256 Terran Valkyrie
+Total_Enemy_Left_Dist Larger 35 96 Terran Valkyrie
+0 Terran Valkyrie 45
+2
+Total_Enemy_Dist Larger 21 0 Terran Valkyrie
+Total_Enemy_Type_Dist Larger 8 320 Terran Valkyrie
+1 Move_Up -29
+4
+Total_Enemy_Up_Dist Smaller 16 256 Terran Valkyrie
+Total_Enemy_Left_Dist Smaller 32 128 Terran Valkyrie
+This_Weapon_Cooldown Smaller 0 64 Terran Valkyrie
+Total_Enemy_Left_Dist Smaller 45 192 Terran Valkyrie
+1 Move_Right 85
+3
+Total_Enemy_Down_Dist Larger 16 32 Terran Valkyrie
+Distance_Closest_Enemy Larger 15 192 Terran Valkyrie
+This_HP Larger 24 288 Terran Valkyrie
+0 Terran Valkyrie -23
+1
+Total_Enemy_Left_Dist Larger 32 0 Terran Valkyrie
+0 Terran Valkyrie 99
+5
+Total_Enemy_Left_Dist Larger 22 224 Terran Valkyrie
+Distance_Closest_Enemy Smaller 41 224 Terran Valkyrie
+Distance_Closest_Enemy Smaller 44 224 Terran Valkyrie
+Total_Enemy_Dist Smaller 26 0 Terran Valkyrie
+Total_Friendly_Dist Larger 24 224 Terran Valkyrie
+1 Flee -45
+3
+Total_Enemy_Down_Dist Smaller 29 0 Terran Valkyrie
+This_HP Larger 3 352 Terran Valkyrie
+Total_Enemy_Dist Larger 18 256 Terran Valkyrie
+1 Move_Down -60
+0
+1 Move_Right -16
+0
+0 Terran Valkyrie -91
+5
+Total_Enemy_Down_Dist Smaller 27 96 Terran Valkyrie
+Total_Enemy_Right_Dist Larger 23 352 Terran Valkyrie
+This_Weapon_Cooldown Larger 0 256 Terran Valkyrie
+This_HP Smaller 23 0 Terran Valkyrie
+Distance_Closest_Enemy Smaller 15 64 Terran Valkyrie
+1 Move_Down 48
+3
+Distance_Closest_Enemy Larger 43 96 Terran Valkyrie
+This_HP Larger 3 320 Terran Valkyrie
+Closest_Burrowed_Lurker Larger 28 96 Terran Valkyrie
+0 Terran Valkyrie -88
+5
+Closest_Burrowed_Lurker Larger 17 256 Terran Valkyrie
+Closest_Burrowed_Lurker Larger 10 288 Terran Valkyrie
+Closest_Burrowed_Lurker Smaller 10 192 Terran Valkyrie
+Total_Enemy_Type_Dist Larger 4 320 Terran Valkyrie
+Closest_Burrowed_Lurker Smaller 40 224 Terran Valkyrie
+1 Move_DownLeft -39
+2
+Total_Enemy_Down_Dist Larger 25 96 Terran Valkyrie
+Total_Enemy_Dist Larger 48 32 Terran Valkyrie
+1 Move_UpRight 33
+1
+This_Weapon_Cooldown Smaller 0 256 Terran Valkyrie
+0 Terran Valkyrie -14

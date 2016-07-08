@@ -1,0 +1,81 @@
+3
+Hero Jim Raynor Marine
+7
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Larger 48 32 Zerg Queen
+This_Weapon_Cooldown Smaller 4 288 Zerg Lurker
+1 Nothing -80
+1
+Total_Enemy_Dist Larger 41 128 Zerg Lurker
+1 Move_DownLeft 6
+3
+Total_Friendly_Dist Smaller 37 160 Zerg Zergling
+This_Weapon_Cooldown Smaller 6 0 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 19 256 Zerg Zergling
+1 Move_UpRight -95
+0
+1 Move_DownRight -94
+4
+Total_Enemy_Left_Dist Smaller 28 32 Zerg Queen
+Total_Friendly_Dist Smaller 28 192 Zerg Lurker
+Total_Enemy_Right_Dist Larger 1 160 Zerg Lurker
+Total_Enemy_Down_Dist Smaller 7 352 Zerg Zergling
+0 Zerg Zergling 51
+4
+Total_Enemy_Dist Larger 37 96 Zerg Lurker
+Total_Enemy_Left_Dist Larger 30 256 Zerg Zergling
+Total_Enemy_Down_Dist Larger 1 160 Zerg Lurker
+Total_Enemy_Dist Smaller 18 256 Zerg Lurker
+0 Zerg Zergling 30
+Terran Medic
+7
+0
+1 Attack_Closest 1
+2
+This_Weapon_Cooldown Smaller 1 256 Zerg Zergling
+Total_Enemy_Right_Dist Larger 27 192 Zerg Zergling
+1 Attack_Move -88
+0
+1 Move_Right -19
+5
+This_HP Larger 30 128 Zerg Lurker
+Total_Enemy_Left_Dist Larger 20 96 Zerg Zergling
+This_HP Smaller 59 224 Zerg Lurker
+This_HP Smaller 25 128 Zerg Queen
+Distance_Closest_Enemy Smaller 7 96 Zerg Zergling
+1 Attack_Move 5
+2
+Total_Enemy_Left_Dist Larger 47 256 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 25 192 Zerg Zergling
+1 Flee -5
+1
+Closest_Burrowed_Lurker Smaller 6 96 Zerg Zergling
+1 Attack_Lowest_HP_Type -95
+2
+Total_Friendly_Dist Larger 5 320 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 34 64 Zerg Lurker
+1 Flee 91
+Terran Science Vessel
+7
+0
+1 Attack_Closest 1
+0
+1 Move_UpLeft -71
+1
+Total_Friendly_Dist Smaller 3 0 Zerg Zergling
+1 Nothing 27
+1
+Total_Enemy_Up_Dist Smaller 4 32 Zerg Lurker
+1 Move_UpRight -29
+2
+This_Energy Larger 119 224 Zerg Lurker
+Total_Friendly_Dist Smaller 12 0 Zerg Zergling
+1 Move_DownRight -70
+1
+Total_Enemy_Left_Dist Smaller 33 224 Zerg Zergling
+1 Irradiate 43
+1
+Total_Friendly_Dist Larger 6 128 Zerg Queen
+1 Move_DownLeft 30

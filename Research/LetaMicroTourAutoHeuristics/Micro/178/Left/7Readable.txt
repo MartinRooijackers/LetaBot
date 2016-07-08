@@ -1,0 +1,45 @@
+3
+Zerg Overlord
+4
+0
+1 Attack_Closest 1
+0
+1 Nothing -23
+1
+Total_Friendly_Dist Larger 49 128 Protoss Observer
+1 Attack_Closest -78
+4
+Total_Friendly_Dist Larger 7 352 Terran Marine
+Total_Enemy_Left_Dist Larger 4 224 Terran SCV
+Closest_Burrowed_Lurker Smaller 17 160 Terran Marine
+Total_Enemy_Dist Larger 7 160 Protoss Observer
+1 Attack_Lowest_HP_Type 74
+Zerg Drone
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Smaller 35 32 Protoss Observer
+1 Flee 72
+1
+Total_Enemy_Down_Dist Larger 19 224 Terran SCV
+1 Move_UpRight 78
+3
+Total_Enemy_Left_Dist Larger 1 64 Protoss Observer
+Total_Enemy_Left_Dist Smaller 26 352 Terran Marine
+Distance_Closest_Enemy Smaller 48 0 Protoss Observer
+1 Nothing 63
+Zerg Larva
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Down_Dist Smaller 43 256 Protoss Observer
+1 Move_UpLeft 9
+2
+Total_Enemy_Down_Dist Smaller 2 256 Terran Marine
+This_HP Larger 20 192 Protoss Observer
+0 Terran SCV 8
+1
+Total_Enemy_Type_Dist Smaller 18 64 Terran SCV
+1 Move_DownRight -55

@@ -1,0 +1,24 @@
+1
+31
+6
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest -5
+1
+Total_Enemy_Up_Dist Larger 17 288 28
+1 Flee 18
+1
+Closest_Burrowed_Lurker Larger 17 288 78
+1 Move_UpLeft -42
+3
+Total_Enemy_Left_Dist Larger 14 224 78
+Total_Enemy_Type_Dist Larger 13 224 8
+Total_Enemy_Dist Larger 15 320 78
+1 Move_DownLeft -2
+4
+This_Weapon_Cooldown Smaller 0 192 78
+Distance_Closest_Enemy Smaller 16 128 8
+Total_Enemy_Dist Larger 1 128 8
+Total_Enemy_Up_Dist Larger 44 224 8
+1 Move_Right 83

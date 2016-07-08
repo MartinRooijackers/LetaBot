@@ -1,0 +1,38 @@
+1
+Terran Valkyrie
+11
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Larger 35 160 Zerg Mutalisk
+1 Move_UpRight -17
+4
+Total_Enemy_Type_Dist Smaller 5 0 Zerg Scourge
+Distance_Closest_Enemy Larger 43 256 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 8 0 Zerg Scourge
+Total_Friendly_Dist Smaller 28 320 Zerg Scourge
+1 Nothing -10
+0
+1 Attack_Closest_Type 70
+2
+This_HP Smaller 22 288 Zerg Scourge
+Total_Enemy_Dist Smaller 5 192 Zerg Scourge
+1 Flee 4
+0
+1 Move_DownLeft -56
+0
+1 Attack_Move -58
+1
+This_HP Larger 13 256 Zerg Mutalisk
+0 Zerg Scourge 71
+0
+1 Attack_Closest_Type 49
+2
+This_HP Larger 45 64 Zerg Mutalisk
+Total_Friendly_Dist Smaller 30 96 Zerg Mutalisk
+0 Zerg Scourge -13
+3
+This_Weapon_Cooldown Smaller 32 256 Zerg Scourge
+Total_Enemy_Up_Dist Smaller 27 96 Zerg Scourge
+Total_Enemy_Up_Dist Larger 48 0 Zerg Mutalisk
+1 Patrol 97

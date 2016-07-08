@@ -1,0 +1,116 @@
+5
+7
+7
+0
+1 Attack_Closest 1
+0
+1 Move_DownLeft -27
+4
+Total_Friendly_Dist Larger 9 192 40
+This_Energy Smaller 128 352 40
+Distance_Closest_Enemy Smaller 26 128 48
+Total_Friendly_Dist Smaller 5 192 41
+1 Move_Down -29
+4
+Total_Enemy_Left_Dist Smaller 30 128 33
+Total_Enemy_Type_Dist Smaller 0 288 41
+This_Weapon_Cooldown Smaller 17 0 33
+Total_Enemy_Dist Smaller 47 288 41
+1 Irradiate -33
+0
+0 47 -11
+2
+Closest_Burrowed_Lurker Larger 32 160 40
+Total_Enemy_Type_Dist Larger 9 320 41
+0 48 -1
+0
+0 41 -73
+28
+7
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Up_Dist Larger 21 192 48
+Total_Enemy_Right_Dist Smaller 14 224 33
+Total_Enemy_Left_Dist Smaller 2 96 40
+Closest_Burrowed_Lurker Smaller 42 160 47
+Total_Enemy_Up_Dist Smaller 1 224 33
+1 Heal -29
+1
+Total_Enemy_Right_Dist Smaller 1 160 33
+1 Move_DownRight -40
+0
+0 47 71
+5
+Total_Enemy_Right_Dist Smaller 38 160 40
+This_HP Smaller 1 64 40
+This_HP Larger 55 192 33
+Total_Friendly_Dist Smaller 4 320 40
+Total_Enemy_Left_Dist Larger 20 64 48
+0 40 -84
+0
+1 Nothing 1
+0
+1 Move_UpRight -57
+17
+7
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Down_Dist Larger 15 0 47
+1 Flee -86
+3
+Total_Enemy_Up_Dist Smaller 17 192 41
+Total_Enemy_Type_Dist Smaller 5 288 48
+Distance_Closest_Enemy Smaller 41 352 47
+1 Move_UpLeft 4
+0
+1 Move_DownRight 86
+4
+This_HP Larger 46 352 33
+Total_Enemy_Down_Dist Smaller 35 32 48
+Total_Enemy_Dist Larger 43 0 48
+Distance_Closest_Enemy Larger 38 64 33
+0 47 10
+0
+1 Flee 46
+0
+1 Move_Up 90
+5
+3
+0
+1 Attack_Closest 1
+4
+This_Weapon_Cooldown Larger 15 256 40
+Total_Enemy_Down_Dist Smaller 36 128 40
+Total_Enemy_Type_Dist Smaller 17 0 41
+Closest_Burrowed_Lurker Smaller 27 192 41
+1 Move_UpRight 44
+0
+1 Move_DownRight 15
+10
+7
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Larger 46 160 41
+1 Yamato 37
+2
+This_HP Larger 17 192 48
+Total_Enemy_Left_Dist Larger 47 160 33
+0 48 -63
+0
+1 Move_Down 65
+0
+1 Move_UpRight 86
+5
+Total_Enemy_Down_Dist Smaller 14 320 47
+Total_Enemy_Left_Dist Larger 45 32 48
+Total_Enemy_Down_Dist Smaller 22 192 48
+This_Weapon_Cooldown Larger 30 352 47
+This_HP Smaller 244 224 41
+0 48 -55
+2
+This_HP Larger 216 32 47
+This_Weapon_Cooldown Smaller 30 224 40
+0 41 92

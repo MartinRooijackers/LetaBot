@@ -1,0 +1,171 @@
+5
+Terran Science Vessel
+6
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Larger 41 352 Zerg Ultralisk
+Total_Enemy_Right_Dist Smaller 33 64 Zerg Ultralisk
+1 Move_UpRight 79
+5
+Closest_Burrowed_Lurker Smaller 23 0 Zerg Scourge
+Total_Enemy_Up_Dist Larger 25 288 Zerg Ultralisk
+Distance_Closest_Enemy Larger 22 32 Zerg Scourge
+This_HP Smaller 151 224 Hero Devouring One
+Total_Enemy_Type_Dist Larger 3 352 Hero Hunter Killer
+0 Zerg Defiler 56
+5
+Closest_Burrowed_Lurker Larger 24 32 Zerg Ultralisk
+This_Energy Larger 158 256 Zerg Defiler
+Total_Enemy_Up_Dist Larger 26 256 Zerg Defiler
+Distance_Closest_Enemy Smaller 35 192 Hero Hunter Killer
+Total_Friendly_Dist Larger 29 64 Hero Hunter Killer
+1 Nothing 26
+0
+1 Irradiate 98
+1
+Total_Friendly_Dist Smaller 3 64 Zerg Ultralisk
+0 Hero Devouring One -46
+Terran Medic
+6
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Smaller 39 352 Hero Devouring One
+1 Flee -86
+2
+This_Weapon_Cooldown Smaller 1 224 Zerg Ultralisk
+This_Weapon_Cooldown Larger 1 224 Zerg Defiler
+1 Heal -82
+4
+Distance_Closest_Enemy Smaller 34 160 Zerg Defiler
+Total_Enemy_Dist Smaller 5 32 Zerg Scourge
+This_Energy Larger 181 0 Zerg Ultralisk
+Total_Friendly_Dist Smaller 5 96 Zerg Ultralisk
+0 Hero Hunter Killer -37
+2
+Total_Enemy_Left_Dist Larger 21 192 Zerg Ultralisk
+Total_Enemy_Down_Dist Smaller 2 32 Hero Hunter Killer
+1 Heal -36
+0
+1 Attack_Move 36
+Hero Jim Raynor Marine
+10
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Left_Dist Larger 7 96 Hero Devouring One
+Total_Enemy_Left_Dist Larger 48 64 Zerg Defiler
+Total_Enemy_Right_Dist Larger 30 256 Zerg Scourge
+1 Attack_Closest -60
+1
+Total_Enemy_Right_Dist Smaller 31 32 Zerg Defiler
+1 Move_Down -30
+5
+This_HP Larger 61 32 Zerg Scourge
+Closest_Burrowed_Lurker Larger 11 32 Zerg Scourge
+Distance_Closest_Enemy Smaller 18 320 Zerg Ultralisk
+Total_Enemy_Dist Smaller 32 160 Zerg Scourge
+This_Weapon_Cooldown Larger 7 352 Zerg Scourge
+1 Move_UpLeft 85
+5
+Total_Enemy_Down_Dist Larger 2 0 Zerg Defiler
+Total_Enemy_Up_Dist Larger 9 288 Zerg Defiler
+Total_Enemy_Left_Dist Larger 28 288 Zerg Defiler
+This_HP Smaller 108 0 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 32 224 Hero Hunter Killer
+0 Hero Hunter Killer -30
+1
+Total_Enemy_Down_Dist Smaller 15 288 Hero Devouring One
+1 Move_Down -8
+3
+Closest_Burrowed_Lurker Larger 20 224 Zerg Ultralisk
+Total_Enemy_Down_Dist Smaller 20 224 Zerg Ultralisk
+Total_Enemy_Type_Dist Larger 17 256 Zerg Defiler
+0 Zerg Scourge 79
+3
+This_HP Smaller 26 160 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 13 128 Zerg Scourge
+This_HP Smaller 173 320 Zerg Scourge
+1 Attack_Move 26
+4
+Closest_Burrowed_Lurker Smaller 16 128 Hero Devouring One
+Total_Enemy_Type_Dist Larger 13 224 Hero Hunter Killer
+This_HP Larger 77 288 Zerg Defiler
+Total_Enemy_Up_Dist Smaller 34 320 Zerg Scourge
+1 Attack_Lowest_HP 46
+4
+Total_Enemy_Right_Dist Smaller 42 256 Hero Hunter Killer
+This_HP Larger 159 192 Zerg Scourge
+Total_Enemy_Down_Dist Larger 31 32 Zerg Scourge
+Total_Enemy_Left_Dist Larger 17 32 Hero Devouring One
+1 Attack_Move 43
+Terran SCV
+10
+0
+1 Attack_Closest 1
+0
+1 Move_Down -97
+1
+Total_Enemy_Dist Smaller 4 192 Hero Devouring One
+0 Hero Hunter Killer 0
+4
+Total_Enemy_Up_Dist Larger 22 352 Hero Hunter Killer
+Distance_Closest_Enemy Smaller 15 192 Hero Devouring One
+Distance_Closest_Enemy Smaller 0 256 Zerg Defiler
+Total_Enemy_Down_Dist Larger 41 160 Zerg Scourge
+1 Nothing -7
+3
+Total_Enemy_Dist Smaller 35 320 Hero Devouring One
+Total_Enemy_Dist Larger 49 0 Zerg Defiler
+This_Weapon_Cooldown Larger 13 128 Hero Hunter Killer
+1 Nothing 76
+3
+This_Weapon_Cooldown Larger 12 224 Hero Hunter Killer
+Distance_Closest_Enemy Larger 18 320 Hero Hunter Killer
+This_HP Smaller 14 0 Zerg Ultralisk
+0 Zerg Ultralisk -59
+5
+Total_Enemy_Dist Smaller 30 192 Zerg Defiler
+Total_Enemy_Down_Dist Larger 12 32 Hero Devouring One
+Total_Friendly_Dist Smaller 38 352 Hero Devouring One
+Total_Enemy_Left_Dist Larger 9 0 Zerg Defiler
+Total_Enemy_Right_Dist Larger 34 256 Zerg Scourge
+1 Patrol -16
+0
+1 Attack_Move 5
+5
+Total_Enemy_Dist Smaller 34 96 Hero Hunter Killer
+Total_Enemy_Type_Dist Smaller 9 288 Hero Hunter Killer
+This_HP Smaller 16 0 Hero Devouring One
+Total_Enemy_Type_Dist Smaller 11 320 Hero Hunter Killer
+Total_Enemy_Up_Dist Smaller 36 32 Zerg Ultralisk
+1 Move_UpRight 45
+0
+1 Move_UpRight 63
+Terran Battlecruiser
+6
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Left_Dist Larger 32 0 Zerg Defiler
+1 Attack_Move -34
+1
+This_HP Smaller 200 64 Zerg Defiler
+1 Attack_Closest_Type 52
+0
+0 Zerg Scourge -83
+5
+Total_Enemy_Right_Dist Smaller 43 32 Hero Devouring One
+Distance_Closest_Enemy Larger 13 320 Hero Devouring One
+Closest_Burrowed_Lurker Larger 32 192 Hero Devouring One
+Total_Enemy_Right_Dist Smaller 4 256 Hero Hunter Killer
+Closest_Burrowed_Lurker Larger 19 160 Zerg Ultralisk
+1 Attack_Move -93
+5
+This_Energy Smaller 12 192 Hero Devouring One
+Total_Enemy_Right_Dist Smaller 24 160 Hero Hunter Killer
+Closest_Burrowed_Lurker Smaller 12 0 Zerg Scourge
+Total_Enemy_Up_Dist Smaller 17 128 Zerg Scourge
+This_Weapon_Cooldown Larger 7 320 Zerg Ultralisk
+0 Hero Hunter Killer -8

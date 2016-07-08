@@ -1,0 +1,66 @@
+4
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 0 320 Terran Vulture
+Total_Enemy_Left_Dist Larger 2 64 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Smaller 6 128 Hero Edmund Duke Tank Mode
+Total_Enemy_Up_Dist Smaller 13 256 Terran Science Vessel
+1 Nothing 24
+1
+Total_Enemy_Right_Dist Smaller 37 224 Hero Jim Raynor Marine
+1 Move_Right 31
+3
+Distance_Closest_Enemy Smaller 31 288 Terran Science Vessel
+This_HP Larger 23 224 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Larger 39 32 Terran Vulture
+1 Move_UpRight -50
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+3
+Closest_Burrowed_Lurker Larger 5 288 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Larger 11 64 Terran Science Vessel
+This_HP Larger 11 224 Hero Jim Raynor Marine
+1 Attack_Lowest_HP_Type -26
+1
+Total_Enemy_Right_Dist Larger 14 192 Terran Vulture
+0 Terran Vulture -48
+3
+Total_Enemy_Down_Dist Larger 26 0 Terran Vulture
+This_Burrowed Smaller 35 352 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 17 32 Terran Science Vessel
+1 Move_Up 8
+Zerg Overlord
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Type_Dist Smaller 8 352 Terran Vulture
+Distance_Closest_Enemy Larger 5 32 Terran Medic
+1 Move_UpLeft 34
+0
+1 Move_Right -87
+2
+This_HP Larger 185 128 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 1 64 Terran Vulture
+0 Terran Vulture -58
+Zerg Scourge
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Larger 36 0 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 27 64 Terran Vulture
+This_Weapon_Cooldown Larger 0 96 Terran Medic
+This_HP Larger 9 96 Terran Vulture
+1 Flee 30
+0
+1 Attack_Move -24
+2
+Total_Enemy_Left_Dist Larger 25 160 Terran Vulture
+Closest_Burrowed_Lurker Smaller 10 256 Terran Medic
+1 Move_UpRight -87

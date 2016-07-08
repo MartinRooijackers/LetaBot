@@ -1,0 +1,17 @@
+4
+Protoss Observer
+1
+0
+1 Attack_Closest 1
+Hero Fenix Zealot
+1
+0
+1 Attack_Closest 1
+Protoss High Templar
+1
+0
+1 Attack_Closest 1
+Protoss Archon
+1
+0
+1 Attack_Closest 1

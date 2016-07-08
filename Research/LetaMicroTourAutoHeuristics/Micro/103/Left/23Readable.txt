@@ -1,0 +1,126 @@
+3
+Zerg Ultralisk
+10
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Down_Dist Smaller 35 288 Terran Science Vessel
+Total_Enemy_Up_Dist Larger 43 0 Hero Edmund Duke Tank Mode
+1 Flee -33
+5
+Total_Enemy_Dist Smaller 25 160 Terran Medic
+Total_Friendly_Dist Larger 17 352 Terran Medic
+Total_Friendly_Dist Smaller 25 224 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 0 32 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Larger 13 128 Hero Gui Montag
+1 Move_Up -48
+3
+Distance_Closest_Enemy Larger 45 64 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 2 192 Hero Gui Montag
+Total_Enemy_Down_Dist Smaller 28 192 Hero Jim Raynor Marine
+1 Nothing 84
+3
+This_HP Larger 265 352 Terran Medic
+Total_Enemy_Right_Dist Larger 9 288 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 18 64 Hero Gui Montag
+0 Hero Edmund Duke Tank Mode 52
+3
+Total_Enemy_Type_Dist Smaller 2 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Smaller 36 0 Terran Science Vessel
+Total_Enemy_Dist Smaller 41 160 Hero Gui Montag
+0 Hero Gui Montag -71
+4
+Total_Friendly_Dist Larger 19 192 Hero Edmund Duke Tank Mode
+Total_Enemy_Type_Dist Smaller 2 0 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 47 32 Terran Medic
+Total_Enemy_Type_Dist Smaller 1 128 Hero Gui Montag
+1 Move_UpRight -92
+4
+Total_Enemy_Left_Dist Larger 41 320 Terran Medic
+Total_Friendly_Dist Smaller 22 256 Hero Gui Montag
+Total_Enemy_Up_Dist Smaller 21 0 Hero Jim Raynor Marine
+This_HP Larger 175 192 Hero Gui Montag
+1 Move_UpLeft 90
+3
+Total_Enemy_Right_Dist Larger 7 288 Terran Medic
+Total_Enemy_Up_Dist Smaller 12 352 Terran Science Vessel
+Total_Friendly_Dist Larger 6 352 Hero Jim Raynor Marine
+1 Attack_Closest_Type -72
+0
+0 Hero Jim Raynor Marine 20
+Hero Devouring One
+10
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Larger 0 192 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 9 96 Hero Jim Raynor Marine
+1 Nothing -81
+5
+Total_Enemy_Dist Smaller 26 320 Hero Gui Montag
+Total_Enemy_Down_Dist Larger 10 320 Terran Medic
+Total_Enemy_Up_Dist Smaller 44 192 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Smaller 37 0 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Smaller 28 288 Hero Jim Raynor Marine
+1 Attack_Closest_Type -50
+5
+Closest_Burrowed_Lurker Larger 43 256 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Larger 27 352 Terran Science Vessel
+Total_Friendly_Dist Larger 20 224 Terran Medic
+Total_Friendly_Dist Larger 33 0 Terran Medic
+Total_Enemy_Left_Dist Smaller 13 352 Hero Gui Montag
+0 Hero Gui Montag 75
+2
+Total_Enemy_Down_Dist Larger 32 256 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 42 256 Terran Medic
+1 Nothing 99
+2
+Distance_Closest_Enemy Larger 41 320 Terran Science Vessel
+Closest_Burrowed_Lurker Larger 29 96 Terran Science Vessel
+0 Hero Gui Montag -77
+1
+Total_Friendly_Dist Larger 12 32 Hero Edmund Duke Tank Mode
+1 Move_Down -68
+2
+Total_Enemy_Up_Dist Larger 1 160 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 3 64 Terran Science Vessel
+1 Attack_Closest 4
+3
+Total_Enemy_Right_Dist Larger 20 128 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 25 96 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 34 64 Terran Medic
+1 Attack_Lowest_HP 43
+4
+Distance_Closest_Enemy Larger 2 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Larger 29 32 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 9 64 Hero Gui Montag
+Total_Friendly_Dist Smaller 25 0 Hero Edmund Duke Tank Mode
+1 Attack_Lowest_HP 61
+Zerg Queen
+6
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Larger 22 160 Hero Gui Montag
+This_Energy Smaller 149 0 Terran Science Vessel
+This_Weapon_Cooldown Larger 1 160 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Smaller 0 96 Terran Science Vessel
+This_Energy Smaller 80 96 Hero Gui Montag
+1 Spawn_Broodling -56
+3
+Total_Enemy_Type_Dist Larger 6 288 Terran Science Vessel
+Distance_Closest_Enemy Larger 20 128 Terran Science Vessel
+This_HP Smaller 51 256 Hero Edmund Duke Tank Mode
+0 Terran Science Vessel -89
+1
+This_Weapon_Cooldown Larger 1 192 Terran Medic
+1 Attack_Lowest_HP -95
+3
+This_HP Smaller 107 352 Hero Gui Montag
+Total_Friendly_Dist Smaller 1 224 Hero Gui Montag
+Distance_Closest_Enemy Smaller 31 352 Terran Medic
+1 Move_Right 92
+2
+Total_Enemy_Type_Dist Smaller 12 320 Terran Science Vessel
+Closest_Burrowed_Lurker Smaller 26 96 Terran Science Vessel
+0 Hero Jim Raynor Marine -13

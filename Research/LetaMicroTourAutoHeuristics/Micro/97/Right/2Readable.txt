@@ -1,0 +1,73 @@
+4
+Hero Jim Raynor Marine
+3
+0
+1 Attack_Closest 1
+1
+Total_Friendly_Dist Larger 3 64 Zerg Lurker
+1 Flee -18
+0
+1 Move_DownLeft 3
+Terran Medic
+7
+0
+1 Attack_Closest 1
+0
+0 Zerg Lurker -1
+2
+Total_Friendly_Dist Larger 6 96 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 28 64 Zerg Lurker
+0 Zerg Zergling 80
+2
+This_HP Smaller 44 352 Zerg Zergling
+Total_Enemy_Dist Smaller 12 256 Zerg Zergling
+1 Nothing 34
+2
+This_Weapon_Cooldown Smaller 1 96 Zerg Lurker
+Distance_Closest_Enemy Larger 46 320 Zerg Zergling
+1 Move_Down -73
+1
+Total_Enemy_Down_Dist Larger 35 64 Zerg Lurker
+0 Zerg Lurker 13
+1
+Total_Enemy_Dist Larger 9 64 Zerg Lurker
+1 Attack_Lowest_HP -86
+Hero Edmund Duke Tank Mode
+3
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Smaller 48 64 Zerg Lurker
+Total_Enemy_Left_Dist Larger 29 64 Zerg Lurker
+This_Weapon_Cooldown Larger 5 352 Zerg Lurker
+This_HP Larger 44 224 Zerg Lurker
+Distance_Closest_Enemy Smaller 6 320 Zerg Zergling
+1 Attack_Closest_Type -9
+5
+Total_Enemy_Down_Dist Smaller 43 288 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 35 320 Zerg Zergling
+Distance_Closest_Enemy Larger 37 64 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 4 0 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 7 288 Zerg Lurker
+1 Move_UpRight 21
+Terran Science Vessel
+7
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Smaller 27 0 Zerg Lurker
+1 Nothing 44
+3
+Total_Enemy_Type_Dist Larger 12 160 Zerg Zergling
+Distance_Closest_Enemy Smaller 26 96 Zerg Lurker
+This_HP Larger 37 320 Zerg Lurker
+0 Zerg Zergling -26
+0
+1 Nothing -47
+1
+This_Energy Smaller 86 96 Zerg Lurker
+1 Move_Down -68
+0
+0 Zerg Lurker -38
+0
+1 Attack_Lowest_HP_Type 5

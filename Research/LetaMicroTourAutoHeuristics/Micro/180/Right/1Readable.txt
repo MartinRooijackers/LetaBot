@@ -1,0 +1,54 @@
+3
+Protoss Probe
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Right_Dist Smaller 43 160 Zerg Drone
+Total_Enemy_Left_Dist Larger 34 224 Zerg Larva
+Distance_Closest_Enemy Larger 17 32 Zerg Overlord
+1 Patrol -50
+5
+Distance_Closest_Enemy Smaller 0 160 Zerg Drone
+This_HP Larger 4 256 Zerg Larva
+Total_Enemy_Dist Smaller 15 64 Zerg Larva
+This_Weapon_Cooldown Smaller 2 288 Zerg Overlord
+Total_Enemy_Up_Dist Smaller 48 32 Zerg Overlord
+1 Patrol -44
+2
+This_HP Smaller 9 0 Zerg Overlord
+Total_Enemy_Right_Dist Larger 18 256 Zerg Larva
+1 Move_Left 88
+Protoss Observer
+4
+0
+1 Attack_Closest 1
+0
+1 Attack_Lowest_HP_Type 87
+3
+Total_Friendly_Dist Larger 25 160 Zerg Larva
+Total_Enemy_Up_Dist Larger 39 160 Zerg Drone
+Distance_Closest_Enemy Smaller 5 288 Zerg Drone
+1 Move_Up 4
+0
+1 Move_Left 64
+Protoss Zealot
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Type_Dist Smaller 17 96 Zerg Overlord
+Total_Friendly_Dist Larger 1 352 Zerg Larva
+Total_Friendly_Dist Smaller 48 160 Zerg Drone
+Total_Enemy_Left_Dist Larger 31 0 Zerg Overlord
+1 Patrol -45
+5
+Total_Enemy_Dist Smaller 30 288 Zerg Drone
+This_Weapon_Cooldown Smaller 10 320 Zerg Larva
+Total_Enemy_Left_Dist Larger 42 256 Zerg Larva
+Total_Enemy_Right_Dist Larger 49 256 Zerg Larva
+Total_Enemy_Right_Dist Larger 48 96 Zerg Larva
+1 Move_DownLeft -38
+1
+Total_Enemy_Type_Dist Smaller 6 32 Zerg Larva
+1 Move_Down 56

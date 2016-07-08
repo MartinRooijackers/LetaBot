@@ -1,0 +1,69 @@
+4
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Left_Dist Smaller 15 288 Zerg Lurker
+1 Move_UpLeft -47
+0
+1 Patrol -87
+0
+1 Move_UpRight 87
+Terran Medic
+4
+0
+1 Attack_Closest 1
+4
+This_HP Smaller 26 352 Zerg Lurker
+Total_Friendly_Dist Smaller 17 32 Zerg Lurker
+This_HP Smaller 53 96 Zerg Zergling
+Total_Friendly_Dist Larger 47 96 Zerg Lurker
+0 Zerg Lurker 42
+0
+1 Move_UpLeft 71
+2
+Total_Enemy_Dist Smaller 26 288 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 48 320 Zerg Lurker
+1 Nothing 96
+Hero Edmund Duke Tank Mode
+4
+0
+1 Attack_Closest 1
+4
+Closest_Burrowed_Lurker Smaller 29 352 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 36 0 Zerg Zergling
+This_Weapon_Cooldown Larger 0 32 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 44 320 Zerg Zergling
+1 Move_UpRight 48
+4
+This_Weapon_Cooldown Larger 21 192 Zerg Lurker
+Total_Enemy_Down_Dist Smaller 4 32 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 32 256 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 32 0 Zerg Zergling
+0 Zerg Zergling 95
+5
+Total_Enemy_Left_Dist Larger 8 96 Zerg Lurker
+This_Weapon_Cooldown Smaller 2 0 Zerg Lurker
+This_Weapon_Cooldown Larger 2 288 Zerg Lurker
+Closest_Burrowed_Lurker Larger 4 64 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 49 160 Zerg Zergling
+1 Patrol -96
+Terran Science Vessel
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Right_Dist Larger 47 160 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 17 128 Zerg Zergling
+Total_Enemy_Down_Dist Larger 8 0 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 27 32 Zerg Lurker
+Total_Friendly_Dist Smaller 2 288 Zerg Lurker
+1 Move_DownRight 0
+2
+This_Energy Larger 28 0 Zerg Zergling
+Total_Enemy_Down_Dist Larger 36 288 Zerg Lurker
+0 Zerg Lurker -11
+1
+This_Energy Smaller 49 320 Zerg Lurker
+1 Attack_Move 48

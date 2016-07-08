@@ -1,0 +1,83 @@
+2
+Zerg Lurker
+5
+0
+1 Attack_Closest 1
+3
+This_Burrowed Smaller 26 160 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 39 128 Hero Jim Raynor Marine
+This_Burrowed Smaller 45 288 Terran Medic
+1 Attack_Move 16
+0
+1 Move_UpLeft -15
+1
+Total_Enemy_Type_Dist Larger 10 96 Terran Medic
+1 Move_Left -66
+2
+This_Weapon_Cooldown Smaller 37 192 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 37 224 Terran Medic
+0 Terran Medic -52
+Zerg Zergling
+13
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 17 96 Terran Medic
+Distance_Closest_Enemy Larger 16 256 Terran Medic
+This_HP Smaller 1 320 Terran Medic
+This_HP Smaller 33 352 Terran Medic
+0 Terran Medic -40
+2
+Total_Enemy_Dist Smaller 40 32 Terran Medic
+Total_Enemy_Dist Smaller 20 160 Terran Medic
+1 Patrol -69
+4
+Total_Enemy_Type_Dist Larger 9 320 Terran Medic
+Total_Enemy_Up_Dist Larger 45 320 Hero Jim Raynor Marine
+This_HP Smaller 17 128 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 18 288 Hero Jim Raynor Marine
+1 Attack_Lowest_HP 97
+1
+Total_Enemy_Down_Dist Larger 31 320 Hero Jim Raynor Marine
+0 Terran Medic -77
+3
+Total_Enemy_Left_Dist Larger 20 256 Terran Medic
+Closest_Burrowed_Lurker Smaller 44 320 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 31 352 Hero Jim Raynor Marine
+1 Flee 54
+5
+Total_Friendly_Dist Smaller 1 96 Terran Medic
+Closest_Burrowed_Lurker Larger 43 96 Terran Medic
+Total_Enemy_Dist Smaller 35 224 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 4 320 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 39 96 Terran Medic
+1 Move_Up -55
+4
+Total_Enemy_Left_Dist Smaller 37 160 Terran Medic
+Total_Enemy_Type_Dist Larger 17 224 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 16 64 Terran Medic
+This_HP Smaller 9 224 Hero Jim Raynor Marine
+1 Attack_Closest 21
+4
+Total_Enemy_Up_Dist Smaller 7 352 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 6 256 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 35 288 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 37 288 Hero Jim Raynor Marine
+1 Move_DownRight -16
+0
+1 Nothing 81
+2
+Total_Enemy_Left_Dist Larger 30 128 Terran Medic
+Total_Enemy_Dist Smaller 8 96 Hero Jim Raynor Marine
+1 Move_Right 10
+5
+Total_Enemy_Dist Larger 21 64 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 24 288 Terran Medic
+Distance_Closest_Enemy Smaller 23 128 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 11 224 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 29 160 Terran Medic
+1 Attack_Lowest_HP -85
+2
+Total_Enemy_Dist Larger 14 192 Terran Medic
+Distance_Closest_Enemy Smaller 44 32 Hero Jim Raynor Marine
+1 Move_Up 95

@@ -1,0 +1,18 @@
+1
+48
+4
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Larger 47 160 17
+Total_Enemy_Type_Dist Smaller 15 288 17
+1 Move_Down 20
+1
+This_HP Larger 9 320 17
+0 78 -62
+4
+This_HP Smaller 86 352 17
+Total_Enemy_Up_Dist Smaller 22 288 17
+Distance_Closest_Enemy Larger 10 256 17
+Total_Enemy_Up_Dist Larger 24 64 78
+1 Move_Right -22

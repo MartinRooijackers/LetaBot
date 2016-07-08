@@ -1,0 +1,103 @@
+3
+Terran Medic
+6
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 21 320 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 49 288 Zerg Lurker
+Total_Enemy_Type_Dist Larger 18 224 Zerg Zergling
+This_HP Larger 2 96 Zerg Zergling
+1 Move_DownLeft -9
+4
+This_Weapon_Cooldown Smaller 1 0 Zerg Zergling
+This_Weapon_Cooldown Larger 1 64 Zerg Zergling
+Total_Enemy_Type_Dist Smaller 9 0 Zerg Lurker
+This_Weapon_Cooldown Smaller 1 352 Zerg Lurker
+1 Attack_Closest 65
+0
+1 Move_Up -38
+5
+Total_Enemy_Type_Dist Smaller 15 160 Zerg Lurker
+Total_Enemy_Type_Dist Larger 7 64 Zerg Lurker
+Distance_Closest_Enemy Smaller 31 32 Zerg Zergling
+This_Energy Larger 26 352 Zerg Lurker
+This_HP Smaller 46 320 Zerg Zergling
+1 Move_Right -68
+1
+Total_Friendly_Dist Smaller 39 320 Zerg Zergling
+1 Move_UpRight -89
+Hero Jim Raynor Marine
+6
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Down_Dist Smaller 45 96 Zerg Zergling
+Total_Enemy_Dist Larger 15 32 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 37 160 Zerg Lurker
+Total_Enemy_Left_Dist Smaller 18 96 Zerg Zergling
+Total_Enemy_Up_Dist Larger 7 64 Zerg Zergling
+1 Move_DownRight 82
+3
+Total_Enemy_Dist Larger 33 128 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 18 128 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 28 256 Zerg Lurker
+1 Move_UpLeft -26
+4
+Distance_Closest_Enemy Smaller 14 64 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 38 256 Zerg Zergling
+Total_Friendly_Dist Larger 17 256 Zerg Lurker
+Total_Enemy_Left_Dist Smaller 31 160 Zerg Lurker
+0 Zerg Lurker 91
+1
+Total_Enemy_Up_Dist Larger 6 288 Zerg Zergling
+0 Zerg Lurker 58
+0
+1 Move_Right 25
+Terran Science Vessel
+10
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Left_Dist Larger 46 256 Zerg Zergling
+Total_Enemy_Type_Dist Larger 19 288 Zerg Zergling
+1 Move_UpLeft 17
+1
+Closest_Burrowed_Lurker Smaller 46 0 Zerg Zergling
+0 Zerg Lurker 51
+0
+1 Nothing 6
+1
+Closest_Burrowed_Lurker Larger 20 256 Zerg Lurker
+1 Irradiate -40
+5
+Distance_Closest_Enemy Larger 22 64 Zerg Zergling
+Total_Enemy_Down_Dist Larger 38 288 Zerg Zergling
+Total_Enemy_Up_Dist Larger 8 224 Zerg Lurker
+Total_Enemy_Dist Larger 38 192 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 49 64 Zerg Zergling
+1 Patrol 60
+4
+Total_Enemy_Right_Dist Larger 40 128 Zerg Lurker
+Total_Enemy_Left_Dist Larger 45 320 Zerg Lurker
+Total_Friendly_Dist Larger 10 0 Zerg Lurker
+Total_Enemy_Type_Dist Smaller 9 224 Zerg Zergling
+1 Move_Right -41
+3
+This_Weapon_Cooldown Smaller 1 160 Zerg Zergling
+This_Energy Larger 52 0 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 6 352 Zerg Zergling
+1 Move_UpRight -1
+4
+Total_Enemy_Type_Dist Larger 5 128 Zerg Zergling
+Total_Enemy_Up_Dist Larger 36 256 Zerg Zergling
+Total_Enemy_Down_Dist Larger 44 352 Zerg Lurker
+Distance_Closest_Enemy Smaller 7 224 Zerg Lurker
+1 Move_Up 52
+5
+Closest_Burrowed_Lurker Smaller 3 288 Zerg Zergling
+This_Energy Larger 140 256 Zerg Zergling
+Total_Friendly_Dist Smaller 7 288 Zerg Zergling
+This_HP Smaller 40 224 Zerg Zergling
+Distance_Closest_Enemy Smaller 38 128 Zerg Lurker
+0 Zerg Lurker -98

@@ -1,0 +1,35 @@
+2
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+0
+0 Terran Medic -30
+1
+Total_Enemy_Right_Dist Larger 0 64 Hero Jim Raynor Marine
+0 Terran Medic -24
+3
+This_Burrowed Smaller 26 160 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 39 128 Hero Jim Raynor Marine
+This_Burrowed Smaller 45 288 Terran Medic
+1 Attack_Move 16
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 17 96 Terran Medic
+Distance_Closest_Enemy Larger 16 256 Terran Medic
+This_HP Smaller 1 320 Terran Medic
+This_HP Smaller 33 352 Terran Medic
+0 Terran Medic -40
+2
+Total_Enemy_Dist Smaller 40 32 Terran Medic
+Total_Enemy_Dist Smaller 20 160 Terran Medic
+1 Patrol -69
+4
+Total_Enemy_Type_Dist Larger 9 320 Terran Medic
+Total_Enemy_Up_Dist Larger 45 320 Hero Jim Raynor Marine
+This_HP Smaller 17 128 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 18 288 Hero Jim Raynor Marine
+1 Attack_Lowest_HP 97

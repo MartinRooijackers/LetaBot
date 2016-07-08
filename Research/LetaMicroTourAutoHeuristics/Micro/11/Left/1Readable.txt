@@ -1,0 +1,19 @@
+1
+Protoss Corsair
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Smaller 21 352 Zerg Mutalisk
+Total_Enemy_Type_Dist Smaller 5 288 Zerg Mutalisk
+Total_Enemy_Up_Dist Larger 26 64 Zerg Mutalisk
+Total_Enemy_Type_Dist Smaller 19 192 Zerg Mutalisk
+1 Patrol 34
+3
+Total_Enemy_Left_Dist Smaller 32 224 Zerg Mutalisk
+Total_Enemy_Type_Dist Larger 2 352 Zerg Mutalisk
+This_Weapon_Cooldown Smaller 6 192 Zerg Mutalisk
+1 Attack_Move 21
+1
+This_Weapon_Cooldown Smaller 2 96 Zerg Mutalisk
+1 Patrol 79

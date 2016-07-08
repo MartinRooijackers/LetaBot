@@ -1,0 +1,47 @@
+3
+Hero Devouring One
+4
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Larger 32 160 Hero Jim Raynor Marine
+This_HP Smaller 45 32 Protoss Observer
+1 Move_DownLeft -58
+4
+Total_Friendly_Dist Larger 25 256 Hero Jim Raynor Marine
+This_HP Smaller 2 96 Protoss Observer
+Total_Friendly_Dist Smaller 34 32 Terran Medic
+This_HP Larger 14 128 Protoss Observer
+0 Terran Medic 15
+0
+1 Move_UpRight 11
+Zerg Defiler
+4
+0
+1 Attack_Closest 1
+4
+This_Weapon_Cooldown Larger 1 96 Hero Gui Montag
+Total_Enemy_Right_Dist Larger 46 64 Protoss Observer
+This_Weapon_Cooldown Larger 1 160 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 30 320 Hero Gui Montag
+1 Plaguuu -56
+2
+Closest_Burrowed_Lurker Smaller 41 192 Terran Medic
+Closest_Burrowed_Lurker Larger 19 64 Protoss Observer
+1 Attack_Lowest_HP -92
+2
+Total_Enemy_Left_Dist Smaller 15 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Up_Dist Larger 27 96 Hero Edmund Duke Tank Mode
+0 Hero Jim Raynor Marine -61
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+0
+1 Flee 93
+0
+0 Hero Gui Montag -96
+2
+Total_Enemy_Type_Dist Smaller 11 32 Terran Medic
+Total_Enemy_Up_Dist Smaller 4 288 Terran Medic
+1 Move_DownRight 53

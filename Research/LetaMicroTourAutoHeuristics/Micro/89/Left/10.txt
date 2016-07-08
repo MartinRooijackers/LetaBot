@@ -1,0 +1,31 @@
+2
+31
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Left_Dist Larger 5 160 28
+0 17 -95
+5
+Total_Enemy_Up_Dist Smaller 47 128 17
+This_HP Larger 5 96 17
+Total_Enemy_Up_Dist Larger 44 32 28
+Closest_Burrowed_Lurker Larger 22 320 28
+Total_Enemy_Down_Dist Smaller 37 160 17
+0 78 -7
+4
+Total_Enemy_Right_Dist Smaller 6 192 28
+Total_Enemy_Up_Dist Larger 45 224 17
+This_HP Larger 25 64 78
+Total_Enemy_Dist Larger 34 192 17
+1 Attack_Closest 78
+47
+4
+0
+1 Attack_Closest 1
+0
+1 Patrol -73
+0
+0 78 -43
+0
+1 Attack_Closest_Type 79

@@ -1,0 +1,150 @@
+3
+Hero Devouring One
+12
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Type_Dist Smaller 3 224 Protoss Observer
+This_HP Larger 108 64 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Larger 39 128 Hero Gui Montag
+Distance_Closest_Enemy Larger 31 320 Hero Edmund Duke Tank Mode
+1 Move_Right 9
+2
+Total_Enemy_Right_Dist Smaller 4 160 Protoss Observer
+Total_Friendly_Dist Larger 18 320 Hero Edmund Duke Tank Mode
+1 Move_Up 10
+4
+Total_Enemy_Dist Smaller 9 352 Hero Gui Montag
+Total_Enemy_Right_Dist Smaller 48 320 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 18 288 Protoss Observer
+This_Weapon_Cooldown Smaller 3 128 Terran Medic
+1 Attack_Move 80
+2
+Total_Enemy_Up_Dist Larger 27 288 Hero Gui Montag
+Total_Enemy_Up_Dist Larger 25 320 Hero Edmund Duke Tank Mode
+0 Hero Gui Montag 19
+4
+Total_Friendly_Dist Smaller 46 192 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 13 192 Terran Medic
+Total_Enemy_Dist Larger 17 0 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Smaller 11 224 Hero Gui Montag
+1 Attack_Move 22
+2
+Closest_Burrowed_Lurker Larger 42 288 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 9 320 Hero Gui Montag
+1 Flee 54
+1
+Total_Enemy_Down_Dist Larger 23 0 Hero Edmund Duke Tank Mode
+1 Attack_Closest -56
+3
+Distance_Closest_Enemy Larger 34 64 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Smaller 12 160 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Larger 1 64 Hero Edmund Duke Tank Mode
+1 Move_DownLeft -35
+3
+Closest_Burrowed_Lurker Larger 18 224 Terran Medic
+Total_Enemy_Dist Smaller 8 224 Hero Gui Montag
+Distance_Closest_Enemy Smaller 25 256 Hero Jim Raynor Marine
+1 Nothing -19
+1
+Total_Enemy_Down_Dist Smaller 36 288 Hero Edmund Duke Tank Mode
+0 Terran Medic -91
+4
+Distance_Closest_Enemy Smaller 33 64 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 0 160 Hero Gui Montag
+This_Weapon_Cooldown Smaller 8 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Dist Smaller 34 352 Terran Medic
+1 Attack_Lowest_HP_Type -16
+Zerg Defiler
+12
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Left_Dist Smaller 47 160 Protoss Observer
+Total_Enemy_Left_Dist Larger 10 64 Hero Gui Montag
+0 Hero Gui Montag -48
+3
+This_Energy Larger 139 64 Terran Medic
+This_Weapon_Cooldown Smaller 1 32 Hero Edmund Duke Tank Mode
+Total_Friendly_Dist Smaller 19 32 Terran Medic
+1 Flee 10
+4
+This_Energy Larger 16 0 Hero Jim Raynor Marine
+This_Energy Larger 64 320 Protoss Observer
+This_HP Larger 53 320 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Smaller 1 160 Hero Edmund Duke Tank Mode
+1 Attack_Lowest_HP 39
+2
+Distance_Closest_Enemy Smaller 47 128 Terran Medic
+Total_Enemy_Dist Smaller 31 128 Hero Edmund Duke Tank Mode
+1 Flee -50
+4
+Total_Enemy_Type_Dist Smaller 16 64 Protoss Observer
+Distance_Closest_Enemy Smaller 49 256 Terran Medic
+Total_Enemy_Type_Dist Smaller 2 288 Hero Edmund Duke Tank Mode
+Total_Enemy_Type_Dist Larger 6 192 Terran Medic
+1 Attack_Closest 62
+3
+Total_Enemy_Type_Dist Larger 12 0 Protoss Observer
+Distance_Closest_Enemy Larger 31 64 Protoss Observer
+Total_Enemy_Up_Dist Smaller 30 320 Hero Gui Montag
+0 Protoss Observer 30
+1
+This_Weapon_Cooldown Smaller 1 96 Protoss Observer
+1 Move_Right 4
+0
+1 Move_Up -84
+1
+This_HP Larger 29 352 Hero Edmund Duke Tank Mode
+1 Move_Down 39
+5
+This_HP Smaller 8 320 Hero Edmund Duke Tank Mode
+Closest_Burrowed_Lurker Larger 23 320 Terran Medic
+This_HP Smaller 25 192 Protoss Observer
+Total_Enemy_Up_Dist Smaller 7 32 Terran Medic
+Total_Enemy_Dist Larger 20 352 Terran Medic
+1 Move_Up -90
+2
+This_Energy Smaller 177 32 Hero Gui Montag
+Total_Enemy_Type_Dist Smaller 17 352 Protoss Observer
+1 Plaguuu -26
+Zerg Lurker
+12
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Larger 43 32 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Smaller 36 288 Protoss Observer
+Total_Enemy_Dist Larger 20 32 Hero Edmund Duke Tank Mode
+Distance_Closest_Enemy Smaller 37 256 Hero Edmund Duke Tank Mode
+1 Attack_Closest_Type -98
+0
+1 Move_Right 87
+0
+0 Hero Jim Raynor Marine -57
+2
+Total_Enemy_Right_Dist Larger 31 320 Hero Edmund Duke Tank Mode
+Total_Enemy_Left_Dist Smaller 22 256 Protoss Observer
+0 Protoss Observer 7
+0
+1 Attack_Move -72
+0
+1 Attack_Lowest_HP -83
+3
+Total_Friendly_Dist Larger 42 320 Hero Gui Montag
+Total_Enemy_Down_Dist Larger 9 256 Hero Gui Montag
+This_Burrowed Smaller 18 64 Hero Jim Raynor Marine
+1 Move_Up 32
+2
+Total_Enemy_Dist Smaller 28 224 Protoss Observer
+Total_Friendly_Dist Smaller 41 64 Hero Edmund Duke Tank Mode
+0 Protoss Observer -25
+0
+1 Nothing 29
+1
+Total_Friendly_Dist Smaller 36 64 Protoss Observer
+1 Move_UpRight 17
+2
+Total_Enemy_Dist Larger 49 64 Hero Gui Montag
+Total_Enemy_Up_Dist Larger 24 96 Hero Jim Raynor Marine
+1 Burrow -79

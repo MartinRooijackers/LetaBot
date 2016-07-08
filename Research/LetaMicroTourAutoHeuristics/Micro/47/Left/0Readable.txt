@@ -1,0 +1,17 @@
+4
+Zerg Zergling
+1
+0
+1 Attack_Closest 1
+Zerg Lurker
+1
+0
+1 Attack_Closest 1
+Zerg Overlord
+1
+0
+1 Attack_Closest 1
+Zerg Scourge
+1
+0
+1 Attack_Closest 1

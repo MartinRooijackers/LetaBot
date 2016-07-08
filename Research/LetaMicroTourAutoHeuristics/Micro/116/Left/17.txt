@@ -1,0 +1,87 @@
+1
+31
+17
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Right_Dist Larger 22 288 28
+Total_Enemy_Right_Dist Larger 5 352 78
+This_Weapon_Cooldown Larger 3 352 78
+Total_Enemy_Down_Dist Smaller 37 96 28
+0 78 -86
+3
+This_Weapon_Cooldown Larger 0 320 8
+Total_Enemy_Down_Dist Smaller 5 224 78
+This_HP Larger 32 192 8
+1 Move_UpRight 33
+5
+Total_Enemy_Down_Dist Smaller 22 64 28
+Total_Enemy_Up_Dist Larger 19 96 78
+Total_Enemy_Up_Dist Larger 13 160 8
+Total_Enemy_Down_Dist Larger 47 288 28
+This_HP Larger 1 288 78
+1 Nothing 66
+1
+Closest_Burrowed_Lurker Larger 21 128 8
+1 Flee -90
+5
+This_HP Smaller 15 224 28
+Total_Friendly_Dist Smaller 22 352 28
+Total_Friendly_Dist Larger 6 320 8
+Total_Friendly_Dist Smaller 23 128 78
+This_Weapon_Cooldown Larger 4 256 78
+0 28 58
+5
+Total_Enemy_Type_Dist Smaller 1 32 28
+Total_Enemy_Type_Dist Smaller 3 32 8
+Distance_Closest_Enemy Smaller 22 64 28
+Total_Enemy_Left_Dist Larger 35 224 28
+Total_Enemy_Left_Dist Larger 40 192 8
+1 Flee 30
+4
+Total_Enemy_Up_Dist Smaller 20 128 8
+Total_Enemy_Down_Dist Smaller 28 256 28
+Closest_Burrowed_Lurker Larger 14 64 78
+Total_Enemy_Right_Dist Larger 10 256 78
+0 28 -76
+2
+Total_Enemy_Right_Dist Larger 23 128 78
+Total_Friendly_Dist Smaller 33 224 28
+1 Move_UpRight -33
+2
+This_HP Smaller 9 192 28
+Total_Enemy_Down_Dist Larger 22 256 8
+0 28 -18
+4
+This_Weapon_Cooldown Smaller 7 0 28
+Total_Friendly_Dist Larger 33 96 28
+Total_Enemy_Up_Dist Smaller 47 192 28
+Total_Enemy_Type_Dist Smaller 5 320 78
+1 Flee -83
+4
+This_Weapon_Cooldown Larger 1 192 8
+Total_Enemy_Dist Larger 32 160 8
+Total_Friendly_Dist Larger 30 192 78
+Total_Friendly_Dist Smaller 33 288 78
+0 28 -35
+0
+1 Nothing -45
+4
+Total_Enemy_Down_Dist Smaller 34 352 78
+This_Weapon_Cooldown Smaller 6 288 28
+Distance_Closest_Enemy Larger 32 288 78
+Total_Friendly_Dist Smaller 9 64 28
+1 Move_UpRight -63
+3
+Total_Enemy_Left_Dist Smaller 46 192 78
+Closest_Burrowed_Lurker Smaller 27 96 78
+Total_Enemy_Type_Dist Larger 9 128 28
+0 78 -77
+2
+Distance_Closest_Enemy Smaller 19 160 78
+Total_Enemy_Right_Dist Smaller 12 256 8
+0 78 5
+2
+Total_Enemy_Type_Dist Smaller 11 256 28
+Total_Enemy_Type_Dist Larger 1 352 28
+1 Nothing -52

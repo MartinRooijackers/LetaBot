@@ -1,0 +1,41 @@
+2
+Zerg Zergling
+7
+0
+1 Attack_Closest 1
+0
+1 Move_Down -59
+3
+Total_Enemy_Left_Dist Smaller 34 192 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 45 288 Hero Jim Raynor Marine
+Total_Friendly_Dist Larger 35 256 Hero Gui Montag
+1 Attack_Closest_Type 37
+4
+Total_Enemy_Left_Dist Smaller 44 0 Hero Gui Montag
+Total_Enemy_Left_Dist Smaller 25 224 Terran Medic
+Total_Enemy_Down_Dist Smaller 25 288 Terran Medic
+This_HP Smaller 22 96 Terran Medic
+0 Hero Jim Raynor Marine 56
+0
+1 Move_UpRight 48
+4
+Distance_Closest_Enemy Larger 23 192 Terran Medic
+Distance_Closest_Enemy Larger 1 224 Hero Gui Montag
+This_HP Larger 16 224 Hero Gui Montag
+Closest_Burrowed_Lurker Larger 48 96 Terran Medic
+1 Move_Up -79
+2
+Closest_Burrowed_Lurker Larger 3 352 Terran Medic
+Total_Enemy_Down_Dist Smaller 17 352 Hero Gui Montag
+1 Move_UpRight -56
+Hero Hunter Killer
+3
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Smaller 8 256 Hero Gui Montag
+1 Patrol -88
+2
+Total_Enemy_Down_Dist Smaller 26 160 Hero Gui Montag
+This_Weapon_Cooldown Smaller 1 32 Protoss Observer
+1 Move_Up -27

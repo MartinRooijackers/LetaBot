@@ -1,0 +1,134 @@
+3
+Terran Science Vessel
+5
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Larger 40 32 Zerg Guardian
+Total_Friendly_Dist Larger 42 352 Zerg Guardian
+1 Attack_Closest 12
+5
+Total_Enemy_Up_Dist Larger 21 192 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 3 224 Zerg Guardian
+Total_Friendly_Dist Larger 10 288 Zerg Guardian
+Total_Enemy_Type_Dist Larger 14 96 Zerg Scourge
+Closest_Burrowed_Lurker Larger 33 160 Zerg Mutalisk
+1 Irradiate 50
+2
+This_HP Smaller 181 288 Zerg Mutalisk
+This_Energy Larger 106 0 Zerg Mutalisk
+1 Move_DownLeft -42
+5
+Total_Enemy_Up_Dist Larger 24 320 Zerg Mutalisk
+This_Energy Larger 102 128 Zerg Scourge
+This_Energy Larger 142 64 Zerg Scourge
+Total_Enemy_Type_Dist Smaller 6 96 Zerg Mutalisk
+Closest_Burrowed_Lurker Smaller 30 160 Zerg Mutalisk
+1 Flee 77
+Terran Medic
+13
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Larger 17 224 Zerg Mutalisk
+Total_Enemy_Down_Dist Smaller 33 128 Zerg Guardian
+1 Nothing -59
+4
+This_Energy Smaller 3 160 Zerg Mutalisk
+Total_Enemy_Down_Dist Larger 39 256 Zerg Guardian
+Total_Enemy_Up_Dist Smaller 43 224 Zerg Guardian
+Closest_Burrowed_Lurker Smaller 38 320 Zerg Guardian
+1 Attack_Move 49
+3
+Closest_Burrowed_Lurker Smaller 37 96 Zerg Guardian
+This_Weapon_Cooldown Larger 1 96 Zerg Guardian
+Distance_Closest_Enemy Larger 47 160 Zerg Scourge
+1 Attack_Lowest_HP 16
+3
+Closest_Burrowed_Lurker Larger 27 224 Zerg Scourge
+This_Energy Larger 8 128 Zerg Scourge
+This_Weapon_Cooldown Larger 1 160 Zerg Scourge
+1 Nothing -32
+4
+Total_Enemy_Type_Dist Larger 5 32 Zerg Mutalisk
+Distance_Closest_Enemy Smaller 24 160 Zerg Scourge
+This_Energy Smaller 23 256 Zerg Mutalisk
+Total_Enemy_Dist Larger 30 0 Zerg Mutalisk
+1 Move_UpRight -51
+5
+Total_Enemy_Type_Dist Larger 0 64 Zerg Mutalisk
+This_HP Larger 55 0 Zerg Mutalisk
+Total_Enemy_Up_Dist Larger 31 128 Zerg Scourge
+Closest_Burrowed_Lurker Smaller 17 192 Zerg Mutalisk
+This_Weapon_Cooldown Smaller 1 32 Zerg Mutalisk
+0 Zerg Scourge -53
+5
+Total_Enemy_Type_Dist Smaller 17 192 Zerg Guardian
+Total_Enemy_Dist Larger 13 128 Zerg Mutalisk
+Total_Enemy_Dist Smaller 25 192 Zerg Scourge
+This_Energy Larger 101 192 Zerg Scourge
+Total_Enemy_Left_Dist Larger 44 320 Zerg Mutalisk
+1 Move_Right 43
+3
+Total_Enemy_Up_Dist Larger 13 192 Zerg Scourge
+This_Energy Larger 109 32 Zerg Scourge
+Total_Enemy_Dist Smaller 38 352 Zerg Guardian
+0 Zerg Scourge -83
+0
+1 Heal -57
+5
+Total_Enemy_Up_Dist Larger 44 288 Zerg Mutalisk
+Total_Enemy_Down_Dist Larger 39 224 Zerg Mutalisk
+Total_Enemy_Right_Dist Smaller 28 128 Zerg Guardian
+Total_Enemy_Type_Dist Smaller 17 96 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 31 320 Zerg Scourge
+1 Attack_Closest 30
+2
+Total_Enemy_Down_Dist Larger 25 96 Zerg Scourge
+Total_Enemy_Left_Dist Larger 43 256 Zerg Guardian
+0 Zerg Scourge 37
+3
+Total_Enemy_Down_Dist Smaller 6 192 Zerg Scourge
+Closest_Burrowed_Lurker Smaller 3 32 Zerg Guardian
+This_Weapon_Cooldown Smaller 3 96 Zerg Guardian
+1 Heal -53
+Hero Jim Raynor Marine
+9
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Smaller 3 352 Zerg Scourge
+Total_Enemy_Type_Dist Larger 3 64 Zerg Guardian
+1 Nothing -37
+3
+Total_Friendly_Dist Larger 36 96 Zerg Mutalisk
+Total_Enemy_Left_Dist Larger 5 32 Zerg Guardian
+Total_Enemy_Down_Dist Larger 14 96 Zerg Guardian
+1 Attack_Closest_Type 59
+3
+Total_Friendly_Dist Smaller 17 64 Zerg Scourge
+Closest_Burrowed_Lurker Larger 23 128 Zerg Mutalisk
+Total_Enemy_Dist Larger 45 320 Zerg Guardian
+1 Attack_Move 67
+3
+Total_Enemy_Right_Dist Larger 45 224 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 27 256 Zerg Mutalisk
+Total_Enemy_Up_Dist Smaller 43 192 Zerg Scourge
+1 Move_UpRight -50
+2
+Closest_Burrowed_Lurker Larger 42 320 Zerg Guardian
+Total_Enemy_Up_Dist Larger 38 288 Zerg Guardian
+1 Move_Right 72
+2
+This_HP Smaller 188 0 Zerg Scourge
+Closest_Burrowed_Lurker Larger 32 288 Zerg Guardian
+1 Patrol -7
+4
+Total_Enemy_Down_Dist Smaller 16 128 Zerg Guardian
+Total_Friendly_Dist Smaller 47 288 Zerg Guardian
+Total_Enemy_Dist Larger 40 32 Zerg Scourge
+Total_Friendly_Dist Larger 25 352 Zerg Guardian
+1 Move_UpRight 96
+1
+Closest_Burrowed_Lurker Smaller 7 32 Zerg Mutalisk
+1 Attack_Closest -34

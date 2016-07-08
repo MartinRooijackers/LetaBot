@@ -1,0 +1,152 @@
+5
+Hero Devouring One
+6
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Left_Dist Larger 18 96 Terran Medic
+This_Weapon_Cooldown Larger 2 352 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 6 64 Hero Jim Raynor Marine
+This_HP Smaller 46 352 Hero Jim Raynor Marine
+Total_Friendly_Dist Smaller 12 128 Terran Science Vessel
+0 Hero Jim Raynor Marine -88
+5
+This_HP Smaller 49 256 Terran SCV
+Total_Enemy_Right_Dist Larger 35 0 Terran Battlecruiser
+Distance_Closest_Enemy Larger 41 96 Terran Battlecruiser
+Total_Enemy_Down_Dist Smaller 2 128 Terran Medic
+Distance_Closest_Enemy Smaller 49 64 Terran Science Vessel
+1 Attack_Lowest_HP -89
+5
+Distance_Closest_Enemy Smaller 13 0 Terran SCV
+Total_Enemy_Up_Dist Larger 28 32 Terran Battlecruiser
+Total_Enemy_Down_Dist Smaller 20 352 Terran Science Vessel
+Closest_Burrowed_Lurker Smaller 9 352 Terran Battlecruiser
+Total_Enemy_Dist Smaller 25 0 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine -17
+3
+Closest_Burrowed_Lurker Larger 13 224 Terran Medic
+Closest_Burrowed_Lurker Larger 17 96 Terran Medic
+Total_Enemy_Up_Dist Smaller 34 0 Terran SCV
+0 Terran Medic -15
+0
+0 Terran SCV -7
+Zerg Defiler
+10
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Dist Larger 28 352 Terran Science Vessel
+This_Weapon_Cooldown Larger 1 256 Hero Jim Raynor Marine
+This_HP Larger 18 64 Terran Battlecruiser
+This_HP Larger 12 224 Terran Battlecruiser
+1 Dark_Swarm -79
+0
+0 Hero Jim Raynor Marine 31
+3
+This_Energy Larger 37 192 Terran Battlecruiser
+Distance_Closest_Enemy Larger 39 224 Terran Battlecruiser
+This_HP Larger 21 224 Terran Science Vessel
+1 Flee -35
+0
+1 Consume 32
+1
+Closest_Burrowed_Lurker Smaller 14 224 Terran Medic
+0 Hero Jim Raynor Marine 97
+4
+Total_Friendly_Dist Larger 2 96 Terran SCV
+Total_Enemy_Left_Dist Larger 45 0 Terran SCV
+Total_Friendly_Dist Smaller 44 128 Terran Medic
+Closest_Burrowed_Lurker Larger 1 288 Hero Jim Raynor Marine
+1 Move_Down 25
+1
+This_HP Smaller 65 32 Terran Battlecruiser
+0 Hero Jim Raynor Marine 49
+1
+Total_Friendly_Dist Larger 9 160 Hero Jim Raynor Marine
+1 Attack_Closest -90
+0
+1 Move_Right 5
+Hero Hunter Killer
+10
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Smaller 27 32 Terran Science Vessel
+1 Move_Up -36
+1
+Total_Enemy_Up_Dist Smaller 39 224 Terran SCV
+1 Attack_Lowest_HP -81
+2
+Closest_Burrowed_Lurker Larger 33 0 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 17 224 Terran SCV
+1 Move_DownRight -96
+0
+0 Terran SCV 65
+0
+1 Attack_Move 58
+2
+Closest_Burrowed_Lurker Larger 29 320 Terran Battlecruiser
+Total_Enemy_Dist Smaller 7 352 Terran Science Vessel
+1 Move_DownRight 56
+0
+0 Terran Battlecruiser 6
+3
+This_HP Larger 91 224 Terran Battlecruiser
+Total_Enemy_Right_Dist Smaller 16 32 Terran Science Vessel
+This_HP Larger 3 128 Terran Science Vessel
+1 Attack_Lowest_HP_Type -97
+4
+Distance_Closest_Enemy Larger 3 256 Terran Science Vessel
+Total_Enemy_Down_Dist Larger 19 64 Terran Battlecruiser
+Closest_Burrowed_Lurker Larger 27 32 Terran Battlecruiser
+Distance_Closest_Enemy Larger 18 256 Terran Battlecruiser
+1 Nothing 33
+Zerg Scourge
+2
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Type_Dist Smaller 6 320 Hero Jim Raynor Marine
+1 Move_DownRight 31
+Zerg Ultralisk
+10
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Smaller 25 224 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 43 352 Terran SCV
+0 Hero Jim Raynor Marine 58
+3
+Total_Friendly_Dist Smaller 28 160 Terran Medic
+Total_Enemy_Dist Smaller 16 256 Terran Science Vessel
+Total_Enemy_Up_Dist Smaller 36 320 Terran Medic
+1 Nothing -39
+4
+Total_Enemy_Right_Dist Smaller 27 320 Terran SCV
+Total_Enemy_Left_Dist Larger 3 160 Terran SCV
+This_Weapon_Cooldown Smaller 5 320 Terran Medic
+Total_Friendly_Dist Smaller 38 224 Terran Science Vessel
+1 Move_UpLeft 67
+2
+Closest_Burrowed_Lurker Smaller 15 224 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 25 64 Terran Medic
+1 Flee -45
+1
+Distance_Closest_Enemy Larger 11 288 Terran SCV
+0 Terran Medic 83
+0
+1 Nothing -2
+5
+Distance_Closest_Enemy Smaller 21 128 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 7 96 Terran Medic
+This_Weapon_Cooldown Smaller 3 352 Terran Medic
+Closest_Burrowed_Lurker Larger 39 224 Terran Medic
+This_HP Smaller 227 288 Terran SCV
+1 Flee -6
+0
+1 Move_UpRight 14
+2
+Total_Enemy_Up_Dist Smaller 16 128 Terran Battlecruiser
+Total_Enemy_Dist Smaller 28 288 Terran Battlecruiser
+1 Move_DownLeft -3

@@ -1,0 +1,90 @@
+1
+Terran Valkyrie
+22
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Up_Dist Larger 35 160 Zerg Mutalisk
+1 Move_UpRight -17
+4
+Total_Enemy_Type_Dist Smaller 5 0 Zerg Scourge
+Distance_Closest_Enemy Larger 43 256 Zerg Mutalisk
+Closest_Burrowed_Lurker Larger 8 0 Zerg Scourge
+Total_Friendly_Dist Smaller 28 320 Zerg Scourge
+1 Nothing -10
+0
+1 Attack_Closest_Type 70
+2
+This_HP Smaller 22 288 Zerg Scourge
+Total_Enemy_Dist Smaller 5 192 Zerg Scourge
+1 Flee 4
+0
+1 Move_DownRight 40
+0
+1 Move_DownLeft -56
+0
+1 Attack_Move -58
+1
+This_HP Larger 13 256 Zerg Mutalisk
+0 Zerg Scourge 71
+0
+1 Attack_Closest_Type 49
+2
+This_HP Larger 45 64 Zerg Mutalisk
+Total_Friendly_Dist Smaller 30 96 Zerg Mutalisk
+0 Zerg Scourge -13
+3
+This_Weapon_Cooldown Smaller 32 256 Zerg Scourge
+Total_Enemy_Up_Dist Smaller 27 96 Zerg Scourge
+Total_Enemy_Up_Dist Larger 48 0 Zerg Mutalisk
+1 Patrol 97
+3
+Total_Enemy_Dist Larger 19 256 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 21 96 Zerg Mutalisk
+Distance_Closest_Enemy Smaller 44 288 Zerg Mutalisk
+0 Zerg Mutalisk -76
+3
+Closest_Burrowed_Lurker Smaller 3 128 Zerg Scourge
+Total_Enemy_Dist Larger 5 160 Zerg Scourge
+Total_Enemy_Up_Dist Smaller 19 224 Zerg Mutalisk
+1 Move_Right 55
+5
+This_Weapon_Cooldown Larger 35 288 Zerg Scourge
+Closest_Burrowed_Lurker Smaller 20 32 Zerg Scourge
+Total_Enemy_Type_Dist Larger 9 192 Zerg Scourge
+Distance_Closest_Enemy Smaller 12 0 Zerg Mutalisk
+Total_Enemy_Dist Smaller 48 352 Zerg Scourge
+1 Move_DownLeft -21
+5
+Total_Enemy_Up_Dist Larger 47 192 Zerg Mutalisk
+Total_Enemy_Type_Dist Smaller 7 128 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 14 288 Zerg Mutalisk
+Total_Enemy_Left_Dist Larger 36 0 Zerg Scourge
+Closest_Burrowed_Lurker Smaller 24 320 Zerg Scourge
+1 Flee 85
+4
+Distance_Closest_Enemy Smaller 1 160 Zerg Scourge
+This_Weapon_Cooldown Larger 57 256 Zerg Scourge
+Total_Enemy_Down_Dist Larger 13 64 Zerg Mutalisk
+Total_Enemy_Left_Dist Smaller 41 320 Zerg Scourge
+1 Move_DownLeft -71
+2
+Total_Enemy_Down_Dist Smaller 23 288 Zerg Scourge
+Total_Enemy_Right_Dist Smaller 33 320 Zerg Scourge
+1 Attack_Lowest_HP -73
+3
+Total_Enemy_Down_Dist Larger 22 256 Zerg Scourge
+This_HP Smaller 143 288 Zerg Scourge
+Total_Enemy_Left_Dist Smaller 49 224 Zerg Mutalisk
+1 Flee 9
+0
+1 Move_Right 52
+4
+This_Weapon_Cooldown Smaller 62 352 Zerg Scourge
+This_HP Larger 171 128 Zerg Mutalisk
+Total_Enemy_Type_Dist Larger 7 128 Zerg Mutalisk
+This_Weapon_Cooldown Larger 34 352 Zerg Scourge
+0 Zerg Mutalisk -92
+1
+Total_Enemy_Right_Dist Smaller 10 192 Zerg Mutalisk
+1 Nothing 84

@@ -1,0 +1,27 @@
+2
+37
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Smaller 20 224 8
+1 Move_DownLeft -88
+4
+Total_Enemy_Down_Dist Larger 38 192 8
+Total_Enemy_Right_Dist Larger 21 256 78
+This_Weapon_Cooldown Smaller 9 192 78
+Distance_Closest_Enemy Smaller 16 288 8
+1 Move_UpLeft 20
+0
+1 Attack_Closest 52
+31
+4
+0
+1 Attack_Closest 1
+0
+0 28 -93
+1
+Total_Enemy_Right_Dist Smaller 10 224 78
+1 Nothing 100
+0
+1 Attack_Lowest_HP -56

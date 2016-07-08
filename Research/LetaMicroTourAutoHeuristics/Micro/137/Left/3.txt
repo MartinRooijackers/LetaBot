@@ -1,0 +1,49 @@
+3
+37
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Type_Dist Larger 15 96 7
+Distance_Closest_Enemy Smaller 40 192 17
+0 28 -54
+2
+Total_Enemy_Type_Dist Larger 16 352 28
+Total_Friendly_Dist Larger 40 96 28
+1 Move_Right 21
+5
+Total_Enemy_Type_Dist Smaller 14 160 17
+Distance_Closest_Enemy Smaller 5 256 28
+This_HP Smaller 44 224 28
+Total_Enemy_Left_Dist Larger 7 320 17
+Total_Enemy_Left_Dist Smaller 47 352 7
+0 7 -67
+41
+4
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Up_Dist Smaller 32 160 28
+Total_Enemy_Up_Dist Larger 10 32 7
+Total_Enemy_Down_Dist Smaller 27 288 17
+Total_Friendly_Dist Smaller 34 0 28
+0 28 20
+0
+1 Attack_Closest 73
+2
+Total_Enemy_Type_Dist Larger 2 64 7
+Total_Enemy_Up_Dist Larger 48 192 7
+1 Attack_Closest_Type 34
+38
+4
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Larger 10 128 7
+Total_Enemy_Up_Dist Smaller 31 96 28
+1 Attack_Lowest_HP_Type -42
+0
+1 Move_Right 35
+1
+Total_Friendly_Dist Smaller 6 96 7
+1 Attack_Move 97

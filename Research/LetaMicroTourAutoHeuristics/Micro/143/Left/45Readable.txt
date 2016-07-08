@@ -1,0 +1,28 @@
+2
+Zerg Mutalisk
+4
+0
+1 Attack_Closest 1
+2
+This_HP Smaller 19 352 Terran Valkyrie
+Total_Friendly_Dist Larger 21 32 Terran Valkyrie
+1 Attack_Closest_Type -13
+1
+This_HP Smaller 110 192 Terran Valkyrie
+0 Terran Valkyrie 64
+1
+This_HP Smaller 42 192 Terran Valkyrie
+1 Attack_Closest_Type 70
+Zerg Scourge
+4
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Smaller 14 256 Terran Valkyrie
+Total_Enemy_Left_Dist Larger 25 128 Terran Valkyrie
+1 Attack_Lowest_HP 78
+0
+1 Patrol -85
+1
+Total_Enemy_Left_Dist Larger 2 128 Terran Valkyrie
+0 Terran Valkyrie -27

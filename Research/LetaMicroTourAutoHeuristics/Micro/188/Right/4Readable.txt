@@ -1,0 +1,127 @@
+4
+Terran Science Vessel
+6
+0
+1 Attack_Closest 1
+0
+0 Zerg Lurker -97
+3
+Distance_Closest_Enemy Larger 28 288 Zerg Lurker
+Total_Enemy_Type_Dist Larger 16 288 Zerg Queen
+Total_Enemy_Type_Dist Larger 18 0 Zerg Lurker
+1 Move_UpLeft -46
+1
+Total_Enemy_Down_Dist Smaller 47 192 Hero Hunter Killer
+1 Flee -71
+1
+Total_Enemy_Type_Dist Smaller 6 32 Zerg Queen
+1 Patrol -79
+0
+1 Attack_Move 65
+Hero Edmund Duke Siege Mode
+10
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Up_Dist Larger 22 160 Zerg Lurker
+Total_Enemy_Dist Smaller 3 256 Hero Hunter Killer
+1 Move_Right -23
+2
+Total_Enemy_Left_Dist Smaller 42 224 Zerg Queen
+This_Weapon_Cooldown Larger 62 192 Hero Hunter Killer
+0 Hero Hunter Killer 50
+0
+1 Move_UpLeft -16
+5
+Distance_Closest_Enemy Smaller 37 64 Zerg Lurker
+This_Weapon_Cooldown Larger 12 32 Zerg Lurker
+Total_Friendly_Dist Larger 28 224 Zerg Lurker
+Total_Friendly_Dist Smaller 39 128 Zerg Lurker
+Total_Friendly_Dist Larger 12 288 Zerg Lurker
+1 Flee -56
+1
+Total_Friendly_Dist Smaller 38 352 Zerg Lurker
+1 Attack_Closest_Type 10
+4
+Total_Enemy_Dist Larger 21 96 Hero Hunter Killer
+This_Weapon_Cooldown Larger 24 288 Zerg Queen
+Total_Enemy_Type_Dist Smaller 13 224 Zerg Lurker
+Total_Enemy_Dist Smaller 20 0 Zerg Lurker
+1 Move_Up 99
+1
+Total_Enemy_Right_Dist Larger 38 256 Hero Hunter Killer
+0 Zerg Lurker -43
+2
+Total_Enemy_Right_Dist Smaller 36 352 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 5 32 Zerg Queen
+1 Move_Down -86
+5
+Total_Enemy_Up_Dist Larger 37 256 Hero Hunter Killer
+This_Weapon_Cooldown Smaller 46 256 Zerg Queen
+Total_Enemy_Down_Dist Smaller 20 96 Hero Hunter Killer
+This_HP Smaller 167 160 Hero Hunter Killer
+Total_Enemy_Dist Larger 8 224 Hero Hunter Killer
+0 Zerg Queen -20
+Terran Medic
+6
+0
+1 Attack_Closest 1
+0
+1 Attack_Move -37
+4
+This_HP Smaller 34 128 Zerg Lurker
+This_Weapon_Cooldown Smaller 1 128 Zerg Lurker
+Total_Enemy_Up_Dist Larger 29 352 Zerg Lurker
+Closest_Burrowed_Lurker Larger 21 224 Zerg Queen
+1 Move_UpRight 65
+4
+Total_Enemy_Type_Dist Smaller 16 352 Zerg Lurker
+This_Weapon_Cooldown Larger 1 160 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 17 256 Hero Hunter Killer
+Total_Friendly_Dist Smaller 40 64 Zerg Lurker
+1 Attack_Lowest_HP -84
+5
+Closest_Burrowed_Lurker Smaller 27 288 Zerg Lurker
+Total_Enemy_Type_Dist Larger 15 352 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 40 32 Zerg Lurker
+This_HP Larger 49 352 Zerg Queen
+Total_Enemy_Up_Dist Larger 13 288 Hero Hunter Killer
+1 Flee -98
+5
+Closest_Burrowed_Lurker Larger 5 64 Zerg Queen
+Total_Enemy_Dist Larger 30 288 Zerg Lurker
+Closest_Burrowed_Lurker Larger 17 320 Zerg Lurker
+This_Energy Smaller 122 96 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 35 32 Hero Hunter Killer
+0 Hero Hunter Killer -18
+Hero Jim Raynor Marine
+6
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Right_Dist Smaller 40 32 Hero Hunter Killer
+Total_Enemy_Left_Dist Smaller 16 128 Hero Hunter Killer
+Total_Enemy_Type_Dist Larger 15 0 Zerg Queen
+Total_Friendly_Dist Smaller 4 256 Hero Hunter Killer
+Total_Enemy_Down_Dist Larger 30 352 Hero Hunter Killer
+1 StimPack 8
+3
+Total_Enemy_Dist Larger 44 32 Hero Hunter Killer
+Distance_Closest_Enemy Smaller 18 96 Hero Hunter Killer
+Distance_Closest_Enemy Larger 27 0 Zerg Queen
+1 Flee 86
+2
+This_Weapon_Cooldown Larger 4 96 Zerg Queen
+This_Weapon_Cooldown Larger 13 96 Zerg Queen
+1 Move_DownRight 12
+3
+Closest_Burrowed_Lurker Larger 40 160 Zerg Queen
+Total_Enemy_Right_Dist Smaller 0 224 Zerg Queen
+This_Weapon_Cooldown Smaller 1 160 Hero Hunter Killer
+1 Move_DownLeft -51
+4
+Total_Enemy_Down_Dist Larger 40 96 Hero Hunter Killer
+Total_Enemy_Up_Dist Larger 13 320 Hero Hunter Killer
+Total_Enemy_Dist Smaller 31 352 Zerg Lurker
+This_HP Larger 25 224 Zerg Queen
+1 Move_Up -77

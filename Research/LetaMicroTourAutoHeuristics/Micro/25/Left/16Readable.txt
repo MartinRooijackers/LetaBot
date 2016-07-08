@@ -1,0 +1,115 @@
+3
+Hero Devouring One
+6
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Left_Dist Smaller 10 224 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Smaller 29 224 Protoss Observer
+Total_Enemy_Type_Dist Smaller 2 0 Terran Medic
+0 Protoss Observer 28
+3
+This_Weapon_Cooldown Smaller 2 224 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Smaller 4 96 Protoss Observer
+Total_Enemy_Type_Dist Smaller 9 32 Terran Medic
+1 Attack_Lowest_HP 53
+1
+Total_Enemy_Left_Dist Larger 39 96 Terran Medic
+0 Protoss Observer -92
+5
+Total_Enemy_Type_Dist Larger 17 192 Protoss Observer
+This_Weapon_Cooldown Smaller 7 224 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 32 320 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Smaller 47 288 Hero Jim Raynor Marine
+This_Weapon_Cooldown Larger 2 128 Terran Medic
+0 Protoss Observer 27
+0
+1 Move_UpRight -82
+Zerg Queen
+10
+0
+1 Attack_Closest 1
+2
+Total_Friendly_Dist Larger 26 320 Protoss Observer
+This_Weapon_Cooldown Smaller 1 352 Hero Jim Raynor Marine
+1 Attack_Closest 48
+0
+1 Attack_Move -79
+5
+Total_Enemy_Type_Dist Larger 1 96 Hero Jim Raynor Marine
+Distance_Closest_Enemy Larger 9 288 Terran Medic
+This_Energy Smaller 34 160 Protoss Observer
+This_Energy Smaller 145 320 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 19 256 Protoss Observer
+1 Move_UpLeft 86
+0
+1 Attack_Lowest_HP 95
+3
+Total_Enemy_Type_Dist Smaller 7 0 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 48 32 Terran Medic
+Total_Enemy_Type_Dist Smaller 9 256 Hero Jim Raynor Marine
+1 Attack_Move -49
+5
+Total_Enemy_Type_Dist Smaller 9 96 Terran Medic
+Total_Enemy_Right_Dist Smaller 38 96 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 26 256 Terran Medic
+Distance_Closest_Enemy Smaller 15 32 Hero Jim Raynor Marine
+This_Energy Smaller 143 224 Terran Medic
+1 Move_Down 71
+0
+1 Nothing 91
+0
+0 Protoss Observer 55
+4
+Closest_Burrowed_Lurker Smaller 37 32 Protoss Observer
+Distance_Closest_Enemy Smaller 19 320 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Larger 16 0 Protoss Observer
+Total_Enemy_Right_Dist Smaller 2 256 Hero Jim Raynor Marine
+1 Attack_Closest -11
+Zerg Defiler
+10
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Up_Dist Smaller 7 64 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 41 320 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 49 224 Terran Medic
+Total_Enemy_Type_Dist Smaller 13 64 Hero Jim Raynor Marine
+1 Flee 37
+1
+Total_Enemy_Up_Dist Smaller 36 192 Protoss Observer
+1 Move_Up -67
+4
+Total_Enemy_Dist Larger 17 64 Terran Medic
+Total_Enemy_Dist Larger 3 320 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 27 160 Terran Medic
+This_HP Larger 47 32 Terran Medic
+1 Move_Right -63
+2
+Total_Enemy_Left_Dist Larger 35 0 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Larger 0 64 Hero Jim Raynor Marine
+1 Move_Right 95
+5
+Total_Enemy_Type_Dist Smaller 7 64 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 2 160 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Smaller 28 256 Protoss Observer
+Closest_Burrowed_Lurker Smaller 45 64 Terran Medic
+Distance_Closest_Enemy Smaller 8 32 Protoss Observer
+1 Move_Down -75
+3
+This_Energy Smaller 129 64 Protoss Observer
+This_Energy Larger 121 224 Protoss Observer
+Total_Enemy_Type_Dist Larger 19 128 Terran Medic
+1 Flee 42
+0
+1 Consume 3
+2
+Closest_Burrowed_Lurker Larger 17 320 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 12 96 Terran Medic
+1 Move_UpRight -17
+4
+Total_Friendly_Dist Larger 1 128 Terran Medic
+Distance_Closest_Enemy Smaller 12 128 Protoss Observer
+Total_Enemy_Up_Dist Smaller 17 128 Terran Medic
+Total_Enemy_Dist Smaller 13 96 Terran Medic
+1 Nothing 59

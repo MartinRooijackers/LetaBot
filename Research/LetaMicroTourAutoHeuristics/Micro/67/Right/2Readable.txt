@@ -1,0 +1,51 @@
+3
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Larger 4 224 Zerg Lurker
+0 Hero Hunter Killer -9
+0
+1 Flee 81
+3
+Distance_Closest_Enemy Smaller 18 256 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 24 160 Hero Hunter Killer
+Total_Enemy_Left_Dist Larger 3 256 Hero Hunter Killer
+1 Attack_Move -6
+Terran Medic
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Dist Larger 42 224 Zerg Lurker
+Total_Enemy_Down_Dist Larger 0 288 Hero Hunter Killer
+1 Flee -3
+4
+Total_Enemy_Left_Dist Larger 8 32 Hero Hunter Killer
+This_Energy Larger 166 320 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 14 160 Hero Hunter Killer
+This_HP Smaller 34 352 Zerg Lurker
+1 Nothing -11
+4
+This_Energy Smaller 180 256 Hero Hunter Killer
+Total_Enemy_Down_Dist Smaller 49 0 Zerg Lurker
+This_HP Larger 36 256 Zerg Lurker
+Total_Enemy_Dist Larger 8 256 Hero Hunter Killer
+1 Move_Right -46
+Terran Science Vessel
+4
+0
+1 Attack_Closest 1
+1
+Closest_Burrowed_Lurker Larger 16 192 Zerg Lurker
+1 Attack_Closest_Type 54
+3
+Total_Enemy_Dist Larger 13 352 Zerg Lurker
+This_HP Smaller 117 352 Zerg Lurker
+Total_Enemy_Left_Dist Larger 0 352 Zerg Lurker
+1 Move_Down 6
+2
+This_HP Larger 84 288 Zerg Lurker
+This_Weapon_Cooldown Smaller 1 256 Hero Hunter Killer
+1 Attack_Lowest_HP_Type -70

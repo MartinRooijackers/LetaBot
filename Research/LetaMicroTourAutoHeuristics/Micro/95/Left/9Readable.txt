@@ -1,0 +1,123 @@
+3
+Zerg Lurker
+10
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Type_Dist Smaller 2 288 Hero Jim Raynor Marine
+1 Move_DownLeft -28
+5
+This_Weapon_Cooldown Smaller 0 64 Hero Jim Raynor Marine
+This_HP Smaller 80 288 Terran Medic
+Total_Enemy_Up_Dist Smaller 11 288 Terran Science Vessel
+Closest_Burrowed_Lurker Smaller 14 160 Hero Jim Raynor Marine
+Total_Enemy_Up_Dist Smaller 19 224 Terran Medic
+0 Terran Medic -86
+5
+This_Burrowed Larger 47 192 Terran Medic
+Total_Enemy_Down_Dist Smaller 4 224 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Smaller 17 288 Terran Medic
+Total_Enemy_Down_Dist Smaller 44 160 Hero Jim Raynor Marine
+Total_Friendly_Dist Larger 17 96 Hero Jim Raynor Marine
+1 Attack_Closest 28
+0
+1 Flee 54
+1
+This_Weapon_Cooldown Larger 14 96 Terran Science Vessel
+1 Attack_Closest_Type 9
+0
+1 Attack_Move 18
+4
+Total_Enemy_Type_Dist Smaller 11 224 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 43 352 Terran Medic
+Total_Friendly_Dist Smaller 21 160 Terran Medic
+Total_Enemy_Type_Dist Larger 4 352 Terran Science Vessel
+1 Move_Right 22
+5
+Closest_Burrowed_Lurker Larger 45 192 Terran Medic
+Total_Enemy_Dist Larger 33 288 Hero Jim Raynor Marine
+Total_Enemy_Dist Larger 0 96 Terran Medic
+Total_Enemy_Right_Dist Smaller 46 352 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 36 128 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine 68
+3
+This_Weapon_Cooldown Larger 6 64 Hero Jim Raynor Marine
+This_HP Smaller 0 288 Hero Jim Raynor Marine
+Total_Enemy_Type_Dist Smaller 10 160 Terran Medic
+1 Move_UpLeft -73
+Zerg Queen
+10
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Left_Dist Larger 10 320 Terran Medic
+1 Move_UpRight 3
+4
+This_HP Smaller 68 224 Hero Jim Raynor Marine
+Closest_Burrowed_Lurker Larger 15 64 Terran Science Vessel
+This_HP Smaller 30 32 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 19 0 Terran Science Vessel
+1 Attack_Closest_Type 61
+5
+Total_Enemy_Dist Larger 2 0 Terran Science Vessel
+This_HP Larger 52 128 Terran Science Vessel
+Total_Enemy_Type_Dist Larger 0 320 Terran Science Vessel
+Distance_Closest_Enemy Larger 13 0 Terran Medic
+Distance_Closest_Enemy Larger 23 288 Terran Medic
+1 Nothing -65
+4
+Total_Enemy_Left_Dist Smaller 46 192 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Smaller 25 192 Terran Science Vessel
+Total_Enemy_Dist Larger 14 192 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 30 0 Terran Medic
+0 Hero Jim Raynor Marine 5
+5
+This_Weapon_Cooldown Larger 1 96 Terran Science Vessel
+This_Energy Larger 92 352 Terran Science Vessel
+Total_Enemy_Left_Dist Smaller 31 160 Terran Medic
+Total_Enemy_Down_Dist Larger 15 288 Terran Medic
+Total_Friendly_Dist Larger 10 64 Terran Medic
+1 Attack_Closest_Type 3
+3
+Total_Enemy_Down_Dist Larger 23 320 Terran Medic
+Total_Enemy_Down_Dist Smaller 34 352 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 39 320 Hero Jim Raynor Marine
+1 Move_DownLeft 30
+0
+1 Attack_Lowest_HP_Type 42
+3
+Total_Enemy_Dist Larger 46 256 Hero Jim Raynor Marine
+Distance_Closest_Enemy Larger 8 96 Terran Medic
+This_Weapon_Cooldown Larger 1 160 Terran Medic
+1 Patrol 58
+0
+1 Flee -8
+Zerg Zergling
+6
+0
+1 Attack_Closest 1
+4
+Total_Enemy_Up_Dist Smaller 29 320 Terran Medic
+Total_Enemy_Right_Dist Smaller 9 192 Terran Science Vessel
+Total_Friendly_Dist Larger 48 128 Terran Medic
+This_Weapon_Cooldown Smaller 7 352 Terran Medic
+0 Terran Science Vessel -16
+2
+Total_Enemy_Left_Dist Larger 8 224 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 15 64 Terran Medic
+1 Move_Down -84
+3
+This_Weapon_Cooldown Larger 5 320 Terran Science Vessel
+Closest_Burrowed_Lurker Larger 17 224 Terran Science Vessel
+Total_Enemy_Dist Smaller 48 96 Terran Science Vessel
+1 Nothing 46
+5
+Distance_Closest_Enemy Larger 7 256 Terran Medic
+Total_Enemy_Left_Dist Smaller 6 32 Terran Science Vessel
+Total_Enemy_Dist Larger 24 224 Terran Science Vessel
+Total_Enemy_Down_Dist Smaller 38 288 Terran Medic
+Closest_Burrowed_Lurker Smaller 31 160 Terran Science Vessel
+1 Move_DownRight -36
+1
+Total_Enemy_Right_Dist Larger 15 64 Hero Jim Raynor Marine
+1 Move_Right 22

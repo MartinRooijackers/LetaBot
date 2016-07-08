@@ -1,0 +1,7 @@
+3 (Total number of unit types for this heuristic
+67  (unit type in int format )
+2  ( total number of if then statements )
+2 ( total number of conditions for this statement
+5 (condition number)  1 ( comapre tpye >,<,=,!=) 12 ( value to compare) 64 (distance to compare ) -1 ( unit type. OR -1 if no type )
+1 1 1 1 1 (second conditional)
+1 ( if then action ) 3 ( the actino to do, or unit type) 2 ( value of this action or unit)

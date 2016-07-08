@@ -1,0 +1,31 @@
+2
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Larger 21 352 Terran Science Vessel
+Total_Enemy_Right_Dist Smaller 1 128 Hero Jim Raynor Marine
+1 Patrol -37
+0
+1 Attack_Lowest_HP_Type -77
+2
+Distance_Closest_Enemy Smaller 0 64 Terran Science Vessel
+Total_Enemy_Type_Dist Larger 18 96 Hero Jim Raynor Marine
+1 Attack_Closest 71
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Larger 37 352 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 24 320 Terran Science Vessel
+1 Move_Up 73
+2
+Total_Enemy_Left_Dist Larger 10 0 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 18 320 Hero Jim Raynor Marine
+1 Move_UpRight 24
+2
+This_Burrowed Larger 46 64 Hero Jim Raynor Marine
+This_HP Larger 8 32 Terran Medic
+1 Move_UpLeft 64

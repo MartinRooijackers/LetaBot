@@ -1,0 +1,69 @@
+2
+Zerg Zergling
+10
+0
+1 Attack_Closest 1
+0
+1 Move_Down -59
+3
+Total_Enemy_Left_Dist Smaller 34 192 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 45 288 Hero Jim Raynor Marine
+Total_Friendly_Dist Larger 35 256 Hero Gui Montag
+1 Attack_Closest_Type 37
+4
+Total_Enemy_Left_Dist Smaller 44 0 Hero Gui Montag
+Total_Enemy_Left_Dist Smaller 25 224 Terran Medic
+Total_Enemy_Down_Dist Smaller 25 288 Terran Medic
+This_HP Smaller 22 96 Terran Medic
+0 Hero Jim Raynor Marine 56
+0
+1 Move_UpRight 48
+4
+Distance_Closest_Enemy Larger 23 192 Terran Medic
+Distance_Closest_Enemy Larger 1 224 Hero Gui Montag
+This_HP Larger 16 224 Hero Gui Montag
+Closest_Burrowed_Lurker Larger 48 96 Terran Medic
+1 Move_Up -79
+2
+Closest_Burrowed_Lurker Larger 3 352 Terran Medic
+Total_Enemy_Down_Dist Smaller 17 352 Hero Gui Montag
+1 Move_UpRight -56
+4
+This_Weapon_Cooldown Larger 7 256 Hero Jim Raynor Marine
+Total_Enemy_Down_Dist Larger 45 0 Hero Gui Montag
+This_Weapon_Cooldown Larger 0 352 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 46 160 Protoss Observer
+1 Flee 53
+1
+Distance_Closest_Enemy Larger 23 224 Hero Gui Montag
+0 Hero Jim Raynor Marine -70
+4
+Total_Enemy_Dist Smaller 23 288 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Smaller 36 288 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 37 224 Hero Jim Raynor Marine
+Total_Enemy_Dist Smaller 2 224 Terran Medic
+0 Terran Medic -67
+Hero Hunter Killer
+6
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Smaller 8 256 Hero Gui Montag
+1 Patrol -88
+2
+Total_Enemy_Down_Dist Smaller 26 160 Hero Gui Montag
+This_Weapon_Cooldown Smaller 1 32 Protoss Observer
+1 Move_Up -27
+2
+Total_Enemy_Left_Dist Larger 48 352 Terran Medic
+Total_Enemy_Type_Dist Smaller 18 320 Protoss Observer
+1 Attack_Closest -8
+4
+Distance_Closest_Enemy Larger 17 256 Hero Gui Montag
+Total_Friendly_Dist Larger 47 64 Protoss Observer
+Closest_Burrowed_Lurker Larger 4 32 Terran Medic
+Total_Enemy_Type_Dist Smaller 11 160 Protoss Observer
+0 Terran Medic -3
+1
+Total_Enemy_Right_Dist Smaller 32 352 Hero Gui Montag
+1 Move_Left 98

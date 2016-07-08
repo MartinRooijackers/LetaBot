@@ -1,0 +1,15 @@
+1
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+0
+1 Attack_Closest -5
+3
+Total_Enemy_Left_Dist Larger 37 32 Terran Medic
+Total_Enemy_Left_Dist Smaller 32 160 Protoss Observer
+This_HP Smaller 3 0 Protoss Observer
+1 Attack_Closest 7
+1
+Total_Enemy_Up_Dist Larger 17 288 Terran Medic
+1 Flee 18

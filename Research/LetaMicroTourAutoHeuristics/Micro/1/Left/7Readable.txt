@@ -1,0 +1,36 @@
+2
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Type_Dist Larger 0 224 Protoss Observer
+This_Burrowed Larger 39 128 Terran Medic
+Distance_Closest_Enemy Smaller 30 192 Terran Medic
+Total_Enemy_Right_Dist Larger 5 160 Terran Medic
+This_Burrowed Smaller 43 288 Hero Jim Raynor Marine
+1 Attack_Move -30
+0
+1 Move_Right -31
+1
+This_Weapon_Cooldown Smaller 16 0 Hero Jim Raynor Marine
+1 Burrow 20
+Hero Devouring One
+4
+0
+1 Attack_Closest 1
+3
+Total_Enemy_Right_Dist Larger 39 352 Protoss Observer
+Total_Enemy_Dist Smaller 18 160 Terran Medic
+Total_Enemy_Down_Dist Smaller 20 160 Hero Jim Raynor Marine
+1 Attack_Lowest_HP 61
+1
+Total_Enemy_Dist Larger 33 32 Protoss Observer
+1 Attack_Lowest_HP_Type 48
+5
+Total_Friendly_Dist Smaller 22 256 Terran Medic
+This_HP Smaller 49 128 Hero Jim Raynor Marine
+Total_Enemy_Left_Dist Larger 24 128 Terran Medic
+Closest_Burrowed_Lurker Larger 28 352 Hero Jim Raynor Marine
+Total_Enemy_Right_Dist Larger 43 0 Hero Jim Raynor Marine
+1 Move_Down 78

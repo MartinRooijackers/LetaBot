@@ -1,0 +1,75 @@
+4
+Hero Jim Raynor Marine
+4
+0
+1 Attack_Closest 1
+2
+Distance_Closest_Enemy Smaller 32 32 Zerg Lurker
+Total_Friendly_Dist Smaller 42 256 Zerg Lurker
+1 Attack_Lowest_HP_Type 41
+5
+Closest_Burrowed_Lurker Smaller 9 192 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 37 224 Zerg Zergling
+Total_Enemy_Up_Dist Larger 35 160 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 1 64 Zerg Zergling
+This_HP Smaller 158 256 Zerg Zergling
+1 StimPack 35
+5
+Total_Friendly_Dist Larger 33 352 Zerg Zergling
+Total_Enemy_Right_Dist Smaller 39 224 Zerg Lurker
+Total_Friendly_Dist Larger 1 352 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 35 96 Zerg Lurker
+Total_Friendly_Dist Smaller 12 64 Zerg Zergling
+0 Zerg Lurker 37
+Terran Medic
+4
+0
+1 Attack_Closest 1
+3
+This_Energy Smaller 71 352 Zerg Zergling
+Total_Enemy_Right_Dist Larger 22 352 Zerg Lurker
+Distance_Closest_Enemy Smaller 41 352 Zerg Lurker
+1 Patrol -77
+3
+This_HP Larger 6 32 Zerg Zergling
+This_Weapon_Cooldown Larger 1 352 Zerg Lurker
+Total_Enemy_Up_Dist Smaller 39 160 Zerg Lurker
+0 Zerg Zergling -68
+0
+1 Attack_Lowest_HP_Type 70
+Hero Edmund Duke Tank Mode
+4
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Up_Dist Larger 21 64 Zerg Zergling
+Total_Enemy_Up_Dist Larger 15 352 Zerg Zergling
+1 Attack_Closest -70
+5
+This_HP Larger 124 96 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 2 0 Zerg Zergling
+Total_Enemy_Up_Dist Smaller 39 160 Zerg Lurker
+Total_Enemy_Dist Larger 2 32 Zerg Lurker
+This_HP Smaller 228 192 Zerg Lurker
+0 Zerg Zergling 59
+2
+Distance_Closest_Enemy Smaller 46 96 Zerg Lurker
+Total_Friendly_Dist Smaller 33 64 Zerg Zergling
+1 Attack_Move -61
+Terran Science Vessel
+4
+0
+1 Attack_Closest 1
+2
+This_Energy Smaller 42 32 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 192 Zerg Zergling
+1 Move_DownRight -23
+2
+Total_Friendly_Dist Smaller 1 128 Zerg Lurker
+Total_Enemy_Right_Dist Smaller 0 288 Zerg Lurker
+1 Move_Down -11
+3
+This_HP Smaller 104 64 Zerg Zergling
+This_Energy Smaller 49 352 Zerg Lurker
+Total_Enemy_Type_Dist Larger 16 128 Zerg Zergling
+1 Move_UpRight -36

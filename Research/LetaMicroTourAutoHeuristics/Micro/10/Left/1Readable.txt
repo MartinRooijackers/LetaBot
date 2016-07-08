@@ -1,0 +1,17 @@
+1
+Zerg Mutalisk
+4
+0
+1 Attack_Closest 1
+2
+Closest_Burrowed_Lurker Larger 40 32 Protoss Corsair
+Total_Friendly_Dist Larger 14 96 Protoss Corsair
+1 Move_Up 27
+0
+0 Protoss Corsair 100
+4
+This_Weapon_Cooldown Larger 4 160 Protoss Corsair
+Distance_Closest_Enemy Smaller 35 288 Protoss Corsair
+Total_Enemy_Type_Dist Larger 19 320 Protoss Corsair
+Total_Enemy_Dist Larger 7 96 Protoss Corsair
+1 Attack_Closest 7

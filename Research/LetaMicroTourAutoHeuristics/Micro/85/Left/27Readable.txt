@@ -1,0 +1,44 @@
+1
+Zerg Zergling
+10
+0
+1 Attack_Closest 1
+5
+Total_Enemy_Right_Dist Larger 39 96 Terran SCV
+This_Weapon_Cooldown Larger 4 160 Terran Marine
+Total_Enemy_Up_Dist Larger 38 160 Protoss Observer
+Total_Enemy_Up_Dist Smaller 5 256 Terran SCV
+This_Weapon_Cooldown Smaller 7 160 Terran Marine
+1 Patrol 78
+1
+Total_Enemy_Up_Dist Larger 4 160 Terran Marine
+1 Attack_Closest_Type -18
+5
+This_Weapon_Cooldown Smaller 1 352 Terran Marine
+Total_Enemy_Right_Dist Larger 30 352 Protoss Observer
+Total_Enemy_Left_Dist Larger 1 224 Terran SCV
+This_Weapon_Cooldown Smaller 0 288 Terran SCV
+Total_Friendly_Dist Larger 0 192 Terran Marine
+1 Move_Down 18
+1
+Total_Enemy_Up_Dist Larger 28 192 Terran SCV
+1 Attack_Closest_Type -27
+1
+Total_Enemy_Dist Smaller 1 320 Terran SCV
+0 Protoss Observer -28
+4
+This_HP Smaller 24 288 Terran Marine
+Total_Enemy_Down_Dist Smaller 29 352 Terran SCV
+Total_Enemy_Up_Dist Larger 30 352 Terran Marine
+Total_Enemy_Dist Larger 28 320 Terran SCV
+0 Protoss Observer -6
+0
+1 Move_Down 3
+3
+Total_Enemy_Down_Dist Larger 32 32 Terran SCV
+This_Weapon_Cooldown Larger 2 320 Terran SCV
+Total_Friendly_Dist Smaller 17 320 Protoss Observer
+1 Move_Up -82
+1
+Distance_Closest_Enemy Larger 21 352 Protoss Observer
+1 Move_Left 49

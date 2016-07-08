@@ -1,0 +1,33 @@
+2
+Zerg Zergling
+4
+0
+1 Attack_Closest 1
+3
+This_HP Larger 34 0 Hero Jim Raynor Marine
+This_HP Larger 15 128 Hero Jim Raynor Marine
+Distance_Closest_Enemy Smaller 35 160 Hero Jim Raynor Marine
+0 Hero Jim Raynor Marine -44
+2
+Closest_Burrowed_Lurker Larger 18 160 Hero Edmund Duke Tank Mode
+This_Weapon_Cooldown Larger 3 224 Hero Edmund Duke Tank Mode
+1 Move_DownLeft 43
+2
+Total_Enemy_Left_Dist Larger 24 192 Hero Edmund Duke Tank Mode
+Total_Enemy_Right_Dist Smaller 17 224 Terran Medic
+1 Attack_Lowest_HP_Type 21
+Zerg Lurker
+4
+0
+1 Attack_Closest 1
+1
+Total_Enemy_Right_Dist Smaller 38 352 Terran Medic
+0 Hero Jim Raynor Marine -94
+4
+This_Weapon_Cooldown Smaller 16 128 Hero Edmund Duke Tank Mode
+Total_Enemy_Down_Dist Smaller 21 128 Terran Medic
+Total_Friendly_Dist Larger 37 288 Terran Science Vessel
+Distance_Closest_Enemy Larger 20 192 Hero Edmund Duke Tank Mode
+1 Patrol 76
+0
+0 Hero Jim Raynor Marine 46

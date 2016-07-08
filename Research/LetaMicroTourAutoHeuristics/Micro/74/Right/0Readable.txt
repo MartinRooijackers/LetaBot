@@ -1,0 +1,21 @@
+5
+Hero Devouring One
+1
+0
+1 Attack_Closest 1
+Zerg Ultralisk
+1
+0
+1 Attack_Closest 1
+Zerg Scourge
+1
+0
+1 Attack_Closest 1
+Hero Hunter Killer
+1
+0
+1 Attack_Closest 1
+Zerg Defiler
+1
+0
+1 Attack_Closest 1

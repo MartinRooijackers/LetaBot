@@ -1,0 +1,13 @@
+3
+Protoss Observer
+1
+0
+1 Attack_Closest 1
+Terran Marine
+1
+0
+1 Attack_Closest 1
+Terran SCV
+1
+0
+1 Attack_Closest 1

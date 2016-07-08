@@ -1,0 +1,143 @@
+3
+Terran Medic
+10
+0
+1 Attack_Closest 1
+4
+This_Energy Smaller 186 0 Zerg Zergling
+Total_Enemy_Up_Dist Larger 32 128 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 29 0 Zerg Zergling
+Total_Enemy_Left_Dist Larger 38 96 Zerg Zergling
+1 Attack_Closest_Type 24
+5
+This_Energy Larger 152 352 Zerg Zergling
+Distance_Closest_Enemy Smaller 27 320 Zerg Zergling
+This_Weapon_Cooldown Larger 1 64 Zerg Zergling
+This_Energy Larger 56 288 Zerg Zergling
+Distance_Closest_Enemy Smaller 43 96 Zerg Zergling
+1 Patrol -32
+0
+1 Attack_Closest_Type 0
+4
+Total_Enemy_Up_Dist Smaller 19 192 Zerg Zergling
+Distance_Closest_Enemy Smaller 44 288 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 3 192 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 352 Zerg Zergling
+1 Heal -4
+5
+Closest_Burrowed_Lurker Smaller 14 320 Zerg Zergling
+Total_Enemy_Left_Dist Larger 47 192 Zerg Zergling
+Distance_Closest_Enemy Smaller 48 256 Zerg Zergling
+Total_Enemy_Left_Dist Larger 38 32 Zerg Zergling
+Total_Enemy_Up_Dist Larger 15 352 Zerg Zergling
+0 Zerg Zergling -52
+1
+This_Energy Larger 138 64 Zerg Zergling
+1 Attack_Lowest_HP 70
+5
+This_HP Smaller 21 128 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 14 96 Zerg Zergling
+Total_Enemy_Up_Dist Larger 19 160 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 43 224 Zerg Zergling
+This_HP Smaller 28 0 Zerg Zergling
+1 Move_UpRight 53
+4
+Distance_Closest_Enemy Smaller 21 64 Zerg Zergling
+Closest_Burrowed_Lurker Larger 1 96 Zerg Zergling
+Total_Enemy_Down_Dist Larger 29 32 Zerg Zergling
+Distance_Closest_Enemy Smaller 28 128 Zerg Zergling
+1 Move_UpLeft 52
+5
+Total_Enemy_Type_Dist Larger 17 128 Zerg Zergling
+This_Energy Smaller 106 160 Zerg Zergling
+This_Energy Smaller 134 0 Zerg Zergling
+Total_Enemy_Type_Dist Larger 19 160 Zerg Zergling
+This_Energy Larger 51 288 Zerg Zergling
+1 Move_DownLeft -65
+Protoss Observer
+10
+0
+1 Attack_Closest 1
+1
+Distance_Closest_Enemy Larger 27 192 Zerg Zergling
+0 Zerg Zergling 87
+2
+Closest_Burrowed_Lurker Smaller 47 320 Zerg Zergling
+Total_Enemy_Down_Dist Larger 0 0 Zerg Zergling
+1 Attack_Move -43
+0
+0 Zerg Zergling -56
+5
+Total_Enemy_Right_Dist Smaller 11 64 Zerg Zergling
+Total_Friendly_Dist Smaller 8 352 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 224 Zerg Zergling
+Total_Enemy_Down_Dist Smaller 49 288 Zerg Zergling
+This_HP Larger 22 352 Zerg Zergling
+1 Flee 85
+0
+1 Attack_Move -10
+0
+1 Flee 72
+1
+Total_Enemy_Right_Dist Larger 39 192 Zerg Zergling
+1 Move_DownRight 3
+4
+Distance_Closest_Enemy Smaller 16 320 Zerg Zergling
+Total_Friendly_Dist Smaller 22 256 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 21 288 Zerg Zergling
+This_Weapon_Cooldown Larger 1 128 Zerg Zergling
+1 Move_Right 4
+5
+Total_Enemy_Up_Dist Smaller 28 192 Zerg Zergling
+This_Weapon_Cooldown Smaller 1 32 Zerg Zergling
+Total_Enemy_Type_Dist Larger 12 320 Zerg Zergling
+This_HP Larger 37 96 Zerg Zergling
+This_Weapon_Cooldown Larger 1 224 Zerg Zergling
+1 Attack_Lowest_HP -43
+Hero Gui Montag
+10
+0
+1 Attack_Closest 1
+2
+Total_Enemy_Right_Dist Smaller 43 320 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 25 96 Zerg Zergling
+1 Attack_Lowest_HP -47
+4
+Distance_Closest_Enemy Smaller 20 128 Zerg Zergling
+Total_Friendly_Dist Smaller 5 160 Zerg Zergling
+This_HP Smaller 154 320 Zerg Zergling
+Distance_Closest_Enemy Larger 15 64 Zerg Zergling
+1 Nothing -20
+2
+Distance_Closest_Enemy Larger 45 160 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 8 256 Zerg Zergling
+1 Attack_Closest -28
+5
+Distance_Closest_Enemy Smaller 37 128 Zerg Zergling
+Total_Enemy_Up_Dist Larger 43 352 Zerg Zergling
+Total_Friendly_Dist Smaller 36 224 Zerg Zergling
+Total_Enemy_Right_Dist Larger 23 96 Zerg Zergling
+Total_Enemy_Down_Dist Larger 36 160 Zerg Zergling
+1 Flee -38
+4
+Total_Enemy_Type_Dist Smaller 16 0 Zerg Zergling
+Total_Enemy_Left_Dist Smaller 30 96 Zerg Zergling
+Total_Enemy_Right_Dist Larger 33 128 Zerg Zergling
+Closest_Burrowed_Lurker Smaller 1 160 Zerg Zergling
+1 Move_DownRight 60
+1
+Distance_Closest_Enemy Larger 35 0 Zerg Zergling
+1 Attack_Lowest_HP 47
+4
+Total_Enemy_Type_Dist Smaller 17 288 Zerg Zergling
+This_HP Smaller 19 320 Zerg Zergling
+This_HP Larger 111 288 Zerg Zergling
+Total_Enemy_Type_Dist Larger 17 32 Zerg Zergling
+1 Move_Down -37
+1
+Distance_Closest_Enemy Larger 15 224 Zerg Zergling
+1 Patrol -10
+2
+Total_Enemy_Up_Dist Larger 13 256 Zerg Zergling
+This_Weapon_Cooldown Larger 19 320 Zerg Zergling
+1 Move_Down -18
