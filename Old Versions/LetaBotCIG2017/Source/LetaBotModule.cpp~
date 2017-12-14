@@ -1,0 +1,502 @@
+
+#include "LetaBotModule.h"
+#include "WraithMicro.h"
+
+#include <vector>
+#include <string>
+
+bool analyzed = false;
+
+using namespace BWAPI;
+
+
+std::string StratTostr( Strategies strat ){
+	if( strat == Worker_Rush ){
+		return "Worker_Rush";
+	}
+	if( strat == Bunker_Rush ){
+		return "Bunker_Rush";
+	}
+	if( strat == Gas_Steal ){
+		return "Gas_Steal";
+	}
+	if( strat == BBS ){
+		return "BBS";
+	}
+	if( strat == One_Fact_3_Rax ){
+		return "One_Fact_3_Rax";
+	}
+	if( strat == Normal_Wraith ){
+		return "Normal_Wraith";
+	}
+	if( strat == Wall_in ){
+		return "Wall_in";
+	}
+	if( strat == Deep_six ){
+		return "Deep_six";
+	}
+
+}
+
+
+Strategies strToStrat( std::string s ){
+	if( s == "Worker_Rush" ){
+		return Worker_Rush;
+	}
+	if( s == "Bunker_Rush" ){
+		return Bunker_Rush;
+	}
+	if( s == "Gas_Steal" ){
+		return Gas_Steal;
+	}
+	if( s == "BBS" ){
+		return BBS;
+	}
+	if( s == "One_Fact_3_Rax" ){
+		return One_Fact_3_Rax;
+	}
+	if( s == "Normal_Wraith" ){
+		return Normal_Wraith;
+	}
+	if( s == "Wall_in" ){
+		return Wall_in;
+	}
+	if( s == "Deep_six" ){
+		return Deep_six;
+	}
+
+}
+
+
+struct Stored{
+	std::string EnemyName;
+	int spawnLocations;
+	std::string strategy;
+	bool won;
+};
+
+struct StratPick{
+	Strategies strategy;
+	int won;
+	int lost;
+};
+
+std::vector<Stored> IOdata;
+
+//use file I/O to determine the current best strategy
+bool useIO = true;
+
+
+BWAPI::AIModule * __NewAIModule()
+{
+	return new LetaBotModule();
+}
+ 
+LetaBotModule::LetaBotModule()  {}
+LetaBotModule::~LetaBotModule() {}
+
+void LetaBotModule::onStart()
+{
+	BWAPI::Broodwar->setLocalSpeed(0);
+	//BWAPI::Broodwar->setFrameSkip(240);
+
+	BWAPI::Broodwar->enableFlag(BWAPI::Flag::UserInput);
+	//BWAPI::Broodwar->enableFlag(BWAPI::Flag::CompleteMapInformation);
+
+	CurrentStrategy = Bunker_Rush;
+	InitialStrategy = Bunker_Rush;
+
+
+	IOdata.clear();
+
+	Broodwar->sendText("LetaBot version 0.04");
+
+	//std::vector<Unit*> WS;
+
+	WMicro = new WraithMicro();
+	bManager = new BuildingManager();
+	BWTA::readMap();
+	BWTA::analyze();
+    analyzed  = true;
+    //CreateThread(NULL, 0, (LPTHREAD_START_ROUTINE)AnalyzeThread, NULL, 0, NULL);	
+
+	InfoMan = new InformationManager();
+
+
+
+	if( useIO ){
+		std::ifstream fin;
+		fin.open( "bwapi-data/read/Stats.txt" );
+		if( !fin.fail() ){
+			int tot;
+			fin>>tot;
+			for(int i=0; i<tot; i++){
+				Stored newS;
+				fin>>newS.EnemyName;
+				fin>>newS.spawnLocations;
+				fin>>newS.strategy;
+				int extraC;
+				fin>>extraC;
+				if( extraC == 1 ){
+				   newS.won = true;
+		          } else {
+				   newS.won = false;
+				}
+				//fin>>newS.won;
+				IOdata.push_back(newS);
+			}
+		}
+		fin.close();
+		//use information to determine strategy
+		std::vector<StratPick> IOuse;
+		StratPick addStrat;
+		addStrat.strategy = Bunker_Rush;
+		addStrat.won = 0;  addStrat.lost = 0;
+		IOuse.push_back( addStrat );
+		addStrat.strategy = BBS;
+		addStrat.won = 0;  addStrat.lost = 0;
+		IOuse.push_back( addStrat );
+		addStrat.strategy = Worker_Rush;
+		addStrat.won = 0;  addStrat.lost = 0;
+		IOuse.push_back( addStrat );
+		addStrat.strategy = Gas_Steal;
+		addStrat.won = 0;  addStrat.lost = 0;
+		IOuse.push_back( addStrat );
+		/*
+		//Still in development
+		addStrat.strategy = One_Fact_3_Rax;
+		addStrat.won = 0;  addStrat.lost = 0;
+		IOuse.push_back( addStrat );
+		*/
+
+		for(int i=0; i<IOdata.size(); i++){
+			if(  IOdata[i].EnemyName == Broodwar->enemy()->getName() 
+				&& IOdata[i].spawnLocations == Broodwar->getStartLocations().size() ){
+		         for(int j=0; j<IOuse.size(); j++){
+					 if( IOuse[j].strategy == strToStrat( IOdata[i].strategy )  ){
+						 if(  IOdata[i].won == true ){
+							 IOuse[j].won++;
+						 } else {
+							 IOuse[j].lost++;
+						 }
+					 }
+				 }
+			}
+		}
+
+
+		Broodwar->printf(" BR won %d", IOuse[0].won );
+		Broodwar->printf(" BR lost %d", IOuse[0].lost );
+		float bestRatio = 0.0;
+		for(int j=0; j<IOuse.size(); j++){
+			int totalP = IOuse[j].lost + IOuse[j].won;
+			float curRatio = 1.0;
+			if( totalP != 0 ){
+				curRatio = (float)IOuse[j].won / (float)totalP;
+			} 
+			if( curRatio > bestRatio ){
+				 bestRatio =  curRatio;
+				 InitialStrategy = IOuse[j].strategy;
+				 CurrentStrategy = IOuse[j].strategy;
+			}
+		}
+
+		
+	}
+
+
+
+	MManager = new MarineManager();
+	BaseManager* newBM;
+
+
+    for(std::set<Unit*>::const_iterator i=Broodwar->self()->getUnits().begin();i!=Broodwar->self()->getUnits().end();i++)
+    {
+      if ((*i)->getType().isResourceDepot())
+      {
+		  newBM = new BaseManager( (*i), (*i)->getTilePosition() );
+      }
+    }
+    for(std::set<Unit*>::const_iterator i=Broodwar->self()->getUnits().begin();i!=Broodwar->self()->getUnits().end();i++)
+    {
+	  if ((*i)->getType().isWorker())
+      {
+		  newBM->addSCV( (*i) );
+      }
+    }
+	CCmanager.push_back( newBM );
+
+    ProdMan = new ProductionManager();
+	WDMan = new WorkerDefenceManager();
+	//InfoMan = new InformationManager();
+	GMan = new GeneralManager();
+	IDMan = new InitialDefenceManager();
+	FBMan = new FloatingBuildingManager();
+	AMan = new AttackManager();
+
+	if( CurrentStrategy == One_Fact_3_Rax ){
+		BioMan = new BioManager();
+	}
+
+	if( CurrentStrategy == Worker_Rush ){
+		//BunkerM = new BunkerMarine();
+		ScoutMan = new ScoutManager(3);
+	}
+	if( CurrentStrategy == Bunker_Rush || CurrentStrategy == Gas_Steal ){
+		ScoutMan = new ScoutManager(2);
+	}
+
+}
+
+void LetaBotModule::onEnd(bool isWinner) 
+{
+	Broodwar->printf("game has ended");
+	if(useIO){
+		//read information
+		Stored newS;
+		newS.EnemyName = Broodwar->enemy()->getName();
+		newS.spawnLocations = Broodwar->getStartLocations().size();
+		newS.strategy = StratTostr(InitialStrategy);
+		if( isWinner ){
+			newS.won = true;
+		} else {
+			newS.won = false;
+		}
+		IOdata.push_back( newS );
+		std::ofstream fout("bwapi-data/write/Stats.txt");
+		//fout.open( "bwapi-data\write\Stats.txt" );
+		Broodwar->printf("writing to file");
+		if( !fout.fail() ){
+			Broodwar->printf("started writing");
+			fout<<IOdata.size()<<"\n";
+			for(int i=0; i<IOdata.size(); i++){
+				Stored newS;
+				fout<<IOdata[i].EnemyName<<"\n";
+				fout<<IOdata[i].spawnLocations<<"\n";
+				fout<<IOdata[i].strategy<<"\n";
+				if( IOdata[i].won == true ){
+				   fout<<1<<"\n";
+		          } else {
+				   fout<<0<<"\n";
+				}
+			}
+		}
+		fout.close();
+
+
+	}
+
+
+
+}
+
+void LetaBotModule::onFrame()
+{
+
+	drawTerrainData();
+	WMicro->MoveWraits();
+	MManager->OnFrame();
+	GMan->onFrame();
+
+	bManager->drawBuildMap();
+
+	Broodwar->drawTextScreen(300,10,"%d",Broodwar->getFrameCount());
+
+
+	if( !bManager->WallCalculated && analyzed){
+		if( CurrentStrategy == Wall_in || CurrentStrategy == One_Fact_3_Rax ){
+		  bManager->WallOff();//computationally expensive, better do it in another thread
+		}
+	}
+
+	ProdMan->onFrame();
+
+	//CCmanager[0]->onFrame();
+	for(unsigned int i=0; i<CCmanager.size(); i++){
+	  CCmanager[i]->onFrame();
+	}
+
+	WDMan->OnFrame();
+
+	if(  ScoutMan != NULL ){
+		ScoutMan->OnFrame();
+	}
+	if( WAMan != NULL ){
+		WAMan->OnFrame();
+	}
+	if( BRMan != NULL ){
+		BRMan->OnFrame();
+	}
+	if( GasStealMan != NULL ){
+		GasStealMan->OnFrame();
+	}
+	if( BioMan != NULL ){
+		BioMan->OnFrame();
+	}
+	if( CurrentStrategy == Wall_in ){
+		if( IDMan->stopDefence == false ){
+		  IDMan->OnFrame();
+		} else {
+			AMan->OnFrame();
+		}
+
+		FBMan->OnFrame();
+	}
+
+}
+
+void LetaBotModule::onUnitDestroy(BWAPI::Unit * unit)
+{
+
+	if( unit->getType().isBuilding() ){
+		bManager->onBuildingDestroy(unit);
+	}
+
+	InfoMan->onUnitDestroy(unit);
+
+}
+
+void LetaBotModule::onUnitMorph(BWAPI::Unit * unit)
+{
+
+}
+
+void LetaBotModule::onUnitCreate(BWAPI::Unit * unit)
+{ 
+
+}
+
+void LetaBotModule::onUnitShow(BWAPI::Unit * unit)
+{ 
+	if(  unit->getType().isBuilding() ){
+	  bManager->constructionPlaced(unit);
+	}
+	InfoMan->onUnitShow(unit);
+
+}
+
+void LetaBotModule::onUnitDiscover(Unit* unit)
+{
+
+}
+
+void LetaBotModule::onUnitHide(BWAPI::Unit * unit)
+{ 
+
+}
+
+void LetaBotModule::onUnitRenegade(BWAPI::Unit * unit)
+{ 
+
+}
+
+void LetaBotModule::onNukeDetect(BWAPI::Position target)
+{ 
+
+}
+
+void LetaBotModule::onUnitComplete(BWAPI::Unit *unit){
+
+	if( unit->getPlayer() != Broodwar->self() ){
+		return;
+	}
+
+	WMicro->AddWraith(unit);
+	ProdMan->onUnitComplete(unit);
+
+	if( BRMan != NULL ){
+		BRMan->onUnitComplete(unit);
+	}
+
+	if( CurrentStrategy == BBS || CurrentStrategy == Normal_Wraith ){
+	  MManager->AddMarine(unit);
+	}
+	if( CurrentStrategy == One_Fact_3_Rax && BioMan != NULL ){
+		BioMan->AddUnit(unit);
+	}
+	if( CurrentStrategy == Wall_in ){
+
+		if( IDMan->stopDefence == false ){
+		  IDMan->addUnit(unit);
+		} else {
+			AMan->AddUnit(unit);
+		}
+		//IDMan->addUnit(unit);
+
+		FBMan->addBuilding(unit);
+	}
+
+}
+
+
+void LetaBotModule::onSendText(std::string text){
+
+	//s for slow, standrd speed
+	if( text == "s"){
+		BWAPI::Broodwar->setLocalSpeed(-1);
+	}
+	//m for medium, twice as fast
+	if( text == "m"){
+		BWAPI::Broodwar->setLocalSpeed(20);
+	}
+	//f for fast
+	if( text == "f"){
+		BWAPI::Broodwar->setLocalSpeed(0);
+	}
+}
+
+void LetaBotModule::drawTerrainData()
+{
+
+	if( analyzed == false){
+		return;
+	}
+  //we will iterate through all the base locations, and draw their outlines.
+  for(std::set<BWTA::BaseLocation*>::const_iterator i=BWTA::getBaseLocations().begin();i!=BWTA::getBaseLocations().end();i++)
+  {
+    TilePosition p=(*i)->getTilePosition();
+    Position c=(*i)->getPosition();
+
+    //draw outline of center location
+    Broodwar->drawBox(CoordinateType::Map,p.x()*32,p.y()*32,p.x()*32+4*32,p.y()*32+3*32,Colors::Blue,false);
+
+    //if this is an island expansion, draw a yellow circle around the base location
+    if ((*i)->isIsland())
+      Broodwar->drawCircle(CoordinateType::Map,c.x(),c.y(),80,Colors::Yellow,false);
+  }
+
+
+  //we will visualize the chokepoints with red lines
+  for(std::set<BWTA::Region*>::const_iterator r=BWTA::getRegions().begin();r!=BWTA::getRegions().end();r++)
+  {
+    for(std::set<BWTA::Chokepoint*>::const_iterator c=(*r)->getChokepoints().begin();c!=(*r)->getChokepoints().end();c++)
+    {
+      Position point1=(*c)->getSides().first;
+      Position point2=(*c)->getSides().second;
+      Broodwar->drawLine(CoordinateType::Map,point1.x(),point1.y(),point2.x(),point2.y(),Colors::Red);
+    }
+  }
+
+        BWTA::Region* home  = BWTA::getStartLocation(BWAPI::Broodwar->self())->getRegion();
+        std::set<BWTA::Chokepoint*> chokepoints= home->getChokepoints();
+        double min_length=10000;
+        BWTA::Chokepoint* choke=NULL;
+
+        //iterate through all chokepoints and look for the one with the smallest gap (least width)
+        for(std::set<BWTA::Chokepoint*>::iterator c=chokepoints.begin();c!=chokepoints.end();c++)
+        {
+			//Broodwar->printf("X:%d",(*c)->getCenter().x());
+			Broodwar->drawCircleMap((*c)->getCenter().x(),(*c)->getCenter().y(),4,Colors::Purple,true);
+			//(*c)->getCenter
+        }
+
+}
+
+
+
+DWORD WINAPI AnalyzeThread()
+{
+  BWTA::analyze();
+  analyzed   = true;
+  return 0;
+}
