@@ -21,4 +21,4 @@ Building placement: Nova bot
 
 Text mined build orders: Dennis Soemers
 
-Extra build order tips: CardinalAllin (teamliquid username)
+Extra build order tips: CardinalAllin/Jukado (teamliquid username)
